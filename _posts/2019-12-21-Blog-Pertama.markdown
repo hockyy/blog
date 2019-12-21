@@ -2,7 +2,6 @@
 layout: post
 title:  "Blog Pertamaku!!!!"
 date:   2019-12-21 14:23:00 +0700
-categories: blog
 ---
 
 # Blog Pertama (?)
