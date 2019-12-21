@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>How Hocky Lives Through His Day</title>
+    <description>You can read a guy&#39;s perspective of his life
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Dec 2019 14:08:16 +0700</pubDate>
-    <lastBuildDate>Sat, 21 Dec 2019 14:08:16 +0700</lastBuildDate>
+    <link>/blog/</link>
+    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Dec 2019 14:32:08 +0700</pubDate>
+    <lastBuildDate>Sat, 21 Dec 2019 14:32:08 +0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Blog Pertamaku!!!!</title>
+        <description>&lt;h1 id=&quot;blog-pertama-&quot;&gt;Blog Pertama (?)&lt;/h1&gt;
+
+&lt;p&gt;Halo semua! Setelah UAS :smiley: 📚, mengumpulkan niat 🌈, menonton series Shigatsu wa Kimi No Uso yang sangat menyedihkan, menikmati dua potong pizza domino terakhir sisa tadi malam 🍕, dan bingung mau nulis draft blog dimana, yaudah akhirnya pake Sublime Text aja :).&lt;/p&gt;
+
+&lt;p&gt;Eh bentar, kok blog-blog personal lain pada pake emoji sih?&lt;/p&gt;
+
+&lt;p&gt;Aku : &lt;strong&gt;Meluangkan waktu 2 jam untuk &lt;del&gt;menulis blog&lt;/del&gt; Setting environment Sublime supaya bisa pakai emoji&lt;/strong&gt; &lt;br /&gt;
+Say no more! My third blog! (Dulu pernah buat blog pengalaman main Line Rangers gitu dapat juara 3 🏆)&lt;/p&gt;
+
+&lt;p&gt;Eh ini cara bikin blog gimana? Tinggal ketik-ketik, apa aja yang dipikirin, ‘kan? Kayaknya ga gitu.
+Bentar coba buka Blognya &lt;a href=&quot;fairuzi10.com&quot;&gt;Kak Fairuzi&lt;/a&gt;, &lt;a href=&quot;jurnalgalang.com&quot;&gt;Kak Galang&lt;/a&gt;, &lt;a href=&quot;rwhendry.com&quot;&gt;Kak Rey&lt;/a&gt;, sama &lt;a href=&quot;faishol.net&quot;&gt;Faishol&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kok domainnya bagus-bagus??&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Oke Fix butuh seribu tahun untuk bisa mencapai kualitas blog sebagus punya mereka 😢&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dulu pernah liat blognya Kak Fairuzi yang pake github, sepertinya bau-bau gratis. Yau dah coba dulu deh&lt;/p&gt;
+
+&lt;p&gt;Apakah aku harus bikin web &lt;a href=&quot;hocky.com&quot;&gt;hocky.com&lt;/a&gt; juga?
+Selain buat diisi dengan blog bisa buat proyek lain? Hmm..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://stackedit.io/static/landing/twemoji.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Dec 2019 14:23:00 +0700</pubDate>
+        <link>/blog/blog/2019/12/21/Blog-Pertama.html</link>
+        <guid isPermaLink="true">/blog/blog/2019/12/21/Blog-Pertama.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +61,8 @@
 
 </description>
         <pubDate>Sat, 21 Dec 2019 14:04:26 +0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2019/12/21/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2019/12/21/welcome-to-jekyll.html</guid>
+        <link>/blog/jekyll/update/2019/12/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/blog/jekyll/update/2019/12/21/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

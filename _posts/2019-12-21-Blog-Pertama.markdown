@@ -7,7 +7,7 @@ categories: blog
 
 # Blog Pertama (?)
 
-Halo semua! Setelah UAS 📚, mengumpulkan niat 🌈, menonton series Shigatsu wa Kimi No Uso yang sangat menyedihkan, menikmati dua potong pizza domino terakhir sisa tadi malam 🍕, dan bingung mau nulis draft blog dimana, yaudah akhirnya pake Sublime Text aja :).
+Halo semua! Setelah UAS :smiley: 📚, mengumpulkan niat 🌈, menonton series Shigatsu wa Kimi No Uso yang sangat menyedihkan, menikmati dua potong pizza domino terakhir sisa tadi malam 🍕, dan bingung mau nulis draft blog dimana, yaudah akhirnya pake Sublime Text aja :).
 
 Eh bentar, kok blog-blog personal lain pada pake emoji sih?
 
