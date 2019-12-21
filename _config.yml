@@ -8,11 +8,15 @@
 # Site settings
 title: Hocky's Diary
 email: hocky.yudhiono@gmail.com
-description: You can read a guy's perspective of his life
+description: A guy's perspective of his story, life, and achievements :tea:.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: hockyy
+# twitter_username: Hockyyyy
 github_username: hockyy
+gitlab_username: hocky
+codeforces_username: hocky
+facebook_username: HockyYudhiono
+# youtube_username: HockyYudhiono
 gems:
   - jemoji
 # Build settings
