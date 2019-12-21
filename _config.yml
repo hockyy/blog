@@ -13,7 +13,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: hockyy
 github_username: hockyy
-plugins:
+gems:
   - jemoji
 # Build settings
 markdown: kramdown
