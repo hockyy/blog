@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Postingan Terbaru</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -14,7 +14,12 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
+        <font size = "4">{{ post.content | strip_html | truncatewords:40}}</font><br>
+        <a href="{{ post.url | prepend: site.baseurl }}">Baca saja kalau penasaran...</a><br><br>
+
       </li>
+
     {% endfor %}
   </ul>
 </div>
