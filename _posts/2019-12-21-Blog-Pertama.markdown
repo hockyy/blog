@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Blog Pertamaku!!!!"
+author: "Hocky Yudhiono"
 date:   2019-12-21 14:23:00 +0700
 ---
 
@@ -8,20 +9,18 @@ Halo semua! Setelah UAS :books:, mengumpulkan niat untuk memulai menulis blog la
 
 Aku : **Meluangkan waktu 2 jam untuk ~~menulis blog~~ setting environment supaya bisa pakai emoji**
 
-Say no more! My first blog! <br> <br>
+Say no more! My first blog!
 
 Eh ini cara bikin blog gimana? Tinggal ketik-ketik, apa aja yang dipikirin, 'kan? Kayaknya ga gitu.
-Bentar coba buka Blognya [Kak Fairuzi](https://fairuzi10.com), [Kak Galang](https://jurnalgalang.com), [Kak Rey](https://rwhendry.com), sama [Faishol](http://faishol.net).
+Bentar coba buka blognya [Kak Fairuzi](https://fairuzi10.com), [Kak Galang](https://jurnalgalang.com), [Kak Rey](https://rwhendry.com), sama [Faishol](http://faishol.net)<br>(*Mereka juga mahasiswa Ilmu Komputer UI dari berbagai angkatan*).
 
 **Kok domainnya bagus-bagus??**<br>
-**Oke Fix butuh seribu tahun untuk bisa mencapai kualitas blog sebagus punya mereka :cry:**
+**Oke fix butuh seribu tahun untuk bisa mencapai kualitas blog sebagus punya mereka :cry:**
 
-Dulu pernah liat blognya Kak Fairuzi yang pake github, sepertinya bau-bau gratis. Yau dah coba dulu deh
-
+Dulu pernah liat blognya Kak Fairuzi yang pake github, sepertinya bau-bau gratis, dan memang gratis.
 
 Apakah aku harus punya domain juga?
-Selain buat diisi dengan blog bisa buat proyek lain? Hmm.. Ya sudah lah. Semoga lancar ya perjalanan blog ini :smile: Kalau tidak malas mengisi blog kemungkinan besar aku akan punya domain sendiri juga. Tapi sepertinya ga bakal hocky(dot)com karena beberapa alasan. :upside_down_face:
+Selain buat diisi dengan blog bisa buat proyek lain? Hmm.. Ya sudah lah. Semoga lancar ya perjalanan blog ini :smile:! Kalau tidak malas mengisi blog kemungkinan besar aku akan punya domain sendiri juga. Tapi sepertinya ga bakal hocky(dot)com karena beberapa alasan :upside_down_face:.
 
-
-
+<div align="center"><img src="https://hockyy.github.io/blog/images/WhyTheDomain.jpeg" alt="meme" width="200" class="meme" /><br> <b><i>Mencari domain yang cocok untuk blog-ku </i></b></div>
 
