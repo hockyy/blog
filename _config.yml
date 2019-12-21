@@ -8,8 +8,7 @@
 # Site settings
 title: How Hocky Lives Through His Day
 email: hocky.yudhiono@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  You can read a guy's perspective of his life
+description: You can read a guy's perspective of his life
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: hockyy
