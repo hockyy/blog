@@ -3,6 +3,8 @@ layout: post
 title:  "Semester 1 - Tidak Padat Tapi Terasa Sibuk"
 author: "Hocky Yudhiono"
 date:   2019-12-25 12:36:40 +0700
+summary: Isinya <i>recap</i> Semester satu-ku di Fasilkom UI 💻. Dari kisah Orientasi Kegiatan Kampus ☀️ sampai cicak di dalam kos 🦎.
+thumbnail: "https://hockyy.github.io/blog/images/2002.jpg"
 ---
 
 ## Sebelum Merasakan Nikmat Semester 1

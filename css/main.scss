@@ -23,7 +23,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -51,3 +51,18 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.post-preview{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.img-thumbnail{
+    border-radius: 5%;
+    background: #bbf9ff;
+    padding: 0.2%;
+    max-width: 30%;
+    object-fit: cover;
+}
