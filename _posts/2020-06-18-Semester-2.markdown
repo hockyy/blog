@@ -54,29 +54,30 @@ Semester ini masih biasa-biasa aja juga mata kuliahnya. Aku mengambil:
 
 Mulai dari mana ya? Oke.  
 
-DDP 2, awalnya mengambil kelasnya Pak Fariz, karena berdasarkan review-review dari kakak-kakak tingkat katanya lumayan enak 🍕. Karena saat war-nya sendiri ga tau bakal sekelas sama siapa aja, kalau ga salah akhirnya ketemu Budi, Joni, Eko, Dennis, Sae, *Mungkin lebih atau kurang ga ingat juga (orang-orang yang lumayan kukenal)*. Yay! Terus pas kelas awal-awal diumumin kalau bakal ada mini project, seneng pol. Karena emang suka bikin project-project keren gitu. (Katanya kelas selain kelas Pak Fariz ga ada sih)
+DDP 2, awalnya mengambil kelasnya Pak Fariz, karena berdasarkan review-review dari kakak-kakak tingkat katanya lumayan enak 🍕. Karena saat war-nya sendiri ga tau bakal sekelas sama siapa aja, kalau ga salah akhirnya ketemu Budi, Joni, Eko, Dennis, Sae, *Mungkin lebih atau kurang ga ingat juga (orang-orang yang lumayan kukenal)*.
+
+Yay! Terus pas kelas awal-awal diumumin kalau bakal ada mini project, seneng pol. Karena emang suka bikin project-project keren gitu. (Katanya kelas selain kelas Pak Fariz ga ada sih). 🎓
 
 Dih gila sambil ngetik ini sambil buka scele lho. Rajin kan. 😛
 
 Nih gara-gara terlalu banyak *leha-leha* akhirnya sampai lupa mau ngisi bagian ini pakai apa. Padahal kemarin habis UAS mikirnya kaya:
 
-<img src="https://i.ibb.co/S7wGFhw/BookMeme.jpg" alt="BookMeme" border="0" width="300px">
-
+<div align="center"><img src="https://i.ibb.co/S7wGFhw/BookMeme.jpg" alt="berita" width="400"/><br> <b><i>Ingatanku Kaya Ikan Mas Koki 🐟, Cuma Lima Menit</i></b></div>
 Ini kaya awal-awal di kelasnya sebenarnya sama aja, intinya belajar bahasa baru. Kenapa Java™? Mungkin karena OOP nya disana lebih bagus dari python. Sementara DDP 1 lebih friendly, dan lebih ke buat ngasi sesendok ilmu pemrograman. DDP 2 lebih ngajarin kita buat jadi Engineer(?). Wk ga tau deh. Bingung mau nulis apa. 😢
 
 #### CP (?)
 
 Jadi ceritanya kelas CP yang daftar cuma 4 orang. *owkakaowokwko*
 Long story short akhirnya jadi 11 orang, terus jadwal diatur ulang.
-Baru masuk kelas DDP dua kali. Terus karena jam kelas CP diatur ulang, dan tabrakan dengan lab DDP 2 ini, akhirnya <strike>terpaksa</strike> pindah ke kelas E, kelasnya Bu Nilam (Sampai UTS) dan Bu Evi (Pasca UTS). 🐭
+Baru masuk kelas DDP dua kali. Terus karena jam kelas CP diatur ulang, dan tabrakan dengan lab DDP 2 ini, akhirnya <strike>terpaksa</strike> pindah ke kelas E. Dosen yang ngajar ada Bu Nilam (Sampai UTS) dan Bu Evi (Pasca UTS). 🐭
 
-Dari sini memang kata-katanya Steven harus dicamkan. Memang yang lebih mempengaruhi ilmu itu ya diri sendiri.
+Dari sini memang kata-katanya Steven harus dicamkan. Memang yang lebih mempengaruhi ilmu itu ya diri sendiri, bukan dosen. Hehe. 😆
 
 #### Blessing in Disguise
 
-Kelasnya diisi dengan para pemilik NPM 190628*.
+Kelasnya diisi dengan para pemilik NPM 190628*. 💻
 
-Pada awalnya katanya DDP 2 bahas tentang bahasa pemrograman baru, yaitu Java, yang emang kalau diliat *syntax*-nya mirip sama C++, yang udah sering di-*code* pula selama CP. 💻
+Pada awalnya DDP 2 bahas tentang bahasa pemrograman baru, yaitu Java, yang emang kalau diliat *syntax*-nya mirip sama C++, yang udah sering di-*code* pula selama CP. 💻
 
 Tugas Pemrograman-nya pake gitlab! Ada build toolsnya juga buat debugging sama testing lebih gampang (Tapi menurutku karena TP-nya simpel jadi lebih susah debugnya)
 

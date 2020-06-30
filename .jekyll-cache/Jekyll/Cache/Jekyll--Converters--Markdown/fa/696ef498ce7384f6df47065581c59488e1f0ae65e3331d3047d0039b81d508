@@ -1,0 +1,788 @@
+I"��<h2 id="pembukaan">Pembukaan</h2>
+
+<p>Dih ini judulnya cringe parah.</p>
+
+<p>Yooooo Akhirnya setelah selesai menjalani Ujian Akhir Semester di Fasilkom ini, aku bisa kembali menulis lagi. What to expect in this post:</p>
+
+<ul>
+  <li>Maaf kalau biasanya kalian mendengarku menggunakan kata ganti orang pertama lain saat sehari-hari seperti “<em>Gw</em>” atau “<em>Saya</em>”. Tapi akan dicoba untuk membuat post ini se-aksen netral mungkin.</li>
+  <li>Dulu ngeditnya pake Sublime Text 3, tapi karena diracuni Samuel dan teman-teman lain saat Lab Dasar-Dasar Pemrograman 2, akhirnya mulai menggunakan VS Code, yang <strong>holy cow</strong>, super OP. 🐄🐄🐄</li>
+</ul>
+
+<div align="center"><img src="https://i.ibb.co/Y7G3thN/1.png" alt="VS Code" width="600" /><br /> <b><i>VS Code bisa gini kan keren 🔥</i></b></div>
+<ul>
+  <li>Udah lupa mau nulis apa pas awal-awal semester. Harusnya nge-blog setiap tiga bulan ya. Sad 😢.</li>
+</ul>
+
+<div align="center"><img src="https://i.ibb.co/BcNG2xT/Kegiatan-Meme.jpg" alt="berita" width="300" /><br /> <b><i>Prokrazz teross 🕙</i></b></div>
+<ul>
+  <li>
+    <p>Gila ini blog paling ngaret kelarnya. Karena setelah selesai UAS banyak sekali godaan-godaan tidak produktif iblis yang menggangguku 🙂</p>
+  </li>
+  <li>
+    <p>Parah pol <em>weh</em>. Jadi selama semester 2 ini aku sangat sering menggunakan aplikasi Focus To-Do, semacam <em>productivity app</em>, yang ada <em>to-do list</em> nya. Selain itu aplikasinya juga cross-platform, jadi semua yang aku taro di HP, bisa aku akses di PC. Kira-kira wujud appnya seperti ini.</p>
+  </li>
+</ul>
+
+<div align="center"><img src="https://i.ibb.co/CB4MXWM/image.png" alt="berita" width="400" /><br /> <b><i>Focus to Do ✈️</i></b></div>
+<ul>
+  <li>Tapi kegiatan ku lebih ke
+    <ul>
+      <li>Dota</li>
+      <li>Dota</li>
+      <li>CS</li>
+      <li>Baca webtoon Tower of God</li>
+      <li>Makan kue</li>
+      <li>Dota</li>
+      <li>Nonton anime</li>
+      <li>Guilt</li>
+      <li>Repeat 😢</li>
+    </ul>
+  </li>
+  <li>Ini blognya dibikin dari semangat-semangat sampe udah basi. Bikin blog kaya gini aja sebulan dong. ☹️</li>
+  <li>Kabur dulu sebelum dibantai 🏃.</li>
+</ul>
+
+<h2 id="matkul-review-dan-celotehan">Matkul Review dan Celotehan</h2>
+
+<p>Semester ini masih biasa-biasa aja juga mata kuliahnya. Aku mengambil:</p>
+
+<ul>
+  <li>Dasar-Dasar Pemrograman 2 - <strike>Kelas B</strike> Kelas E <strong>(DDP)</strong></li>
+  <li>Matematika Dasar 1 - Kelas A <strong>(Matdas)</strong></li>
+  <li>Matematika Diskret 2 - Kelas E <strong>(Matdis)</strong></li>
+  <li>MPKT-A - Kelas C <strong>(MPKT)</strong></li>
+  <li>Pemrograman Kompetitif <strong>(CP)</strong></li>
+  <li>Pengantar Sistem Dijital - Kelas A <strong>(PSD)</strong></li>
+</ul>
+
+<h3 id="ddp-2---4-sks">DDP 2 - 4 SKS</h3>
+
+<p>Mulai dari mana ya? Oke.</p>
+
+<p>DDP 2, awalnya mengambil kelasnya Pak Fariz, karena berdasarkan review-review dari kakak-kakak tingkat katanya lumayan enak 🍕. Karena saat war-nya sendiri ga tau bakal sekelas sama siapa aja, kalau ga salah akhirnya ketemu Budi, Joni, Eko, Dennis, Sae, <em>Mungkin lebih atau kurang ga ingat juga (orang-orang yang lumayan kukenal)</em>.</p>
+
+<p>Yay! Terus pas kelas awal-awal diumumin kalau bakal ada mini project, seneng pol. Karena emang suka bikin project-project keren gitu. (Katanya kelas selain kelas Pak Fariz ga ada sih). 🎓</p>
+
+<p>Dih gila sambil ngetik ini sambil buka scele lho. Rajin kan. 😛</p>
+
+<p>Nih gara-gara terlalu banyak <em>leha-leha</em> akhirnya sampai lupa mau ngisi bagian ini pakai apa. Padahal kemarin habis UAS mikirnya kaya:</p>
+
+<div align="center"><img src="https://i.ibb.co/S7wGFhw/BookMeme.jpg" alt="berita" width="400" /><br /> <b><i>Ingatanku Kaya Ikan Mas Koki 🐟, Cuma Lima Menit</i></b></div>
+<p>Ini kaya awal-awal di kelasnya sebenarnya sama aja, intinya belajar bahasa baru. Kenapa Java™? Mungkin karena OOP nya disana lebih bagus dari python. Sementara DDP 1 lebih friendly, dan lebih ke buat ngasi sesendok ilmu pemrograman. DDP 2 lebih ngajarin kita buat jadi Engineer(?). Wk ga tau deh. Bingung mau nulis apa. 😢</p>
+
+<h4 id="cp-">CP (?)</h4>
+
+<p>Jadi ceritanya kelas CP yang daftar cuma 4 orang. <em>owkakaowokwko</em>
+Long story short akhirnya jadi 11 orang, terus jadwal diatur ulang.
+Baru masuk kelas DDP dua kali. Terus karena jam kelas CP diatur ulang, dan tabrakan dengan lab DDP 2 ini, akhirnya <strike>terpaksa</strike> pindah ke kelas E. Dosen yang ngajar, Bu Nilam (Sampai UTS) dan Bu Evi (Pasca UTS). 🐭</p>
+
+<p>Dari sini memang kata-katanya Steven harus dicamkan. Memang yang lebih mempengaruhi ilmu itu ya diri sendiri.</p>
+
+<h4 id="blessing-in-disguise">Blessing in Disguise</h4>
+
+<p>Kelasnya diisi dengan para pemilik NPM 190628*.</p>
+
+<p>Pada awalnya katanya DDP 2 bahas tentang bahasa pemrograman baru, yaitu Java, yang emang kalau diliat <em>syntax</em>-nya mirip sama C++, yang udah sering di-<em>code</em> pula selama CP. 💻</p>
+
+<p>Tugas Pemrograman-nya pake gitlab! Ada build toolsnya juga buat debugging sama testing lebih gampang (Tapi menurutku karena TP-nya simpel jadi lebih susah debugnya)</p>
+
+<h4 id="arkavidia-cp">Arkavidia CP</h4>
+
+<p>Kaya awal-awal sebelum Corona kan ada lomba CP gitu kan. Arkavidia di ITB. Jadi ceritanya lombanya itu hari Minggu (9 Februari kalo ga salah). Nah, aku kebetulan setim sama Kak Rey sama Kak Galang. Rencananya pulangnya minggu malam, jam 7, karena mereka berdua besok nya mau kuliah 🕖. By <strong>mau kuliah</strong> ini kaya “Mendingan aku kuliah daripada lomba”. Terus aku hanya bisa me-yasudahlah-kan mereka 🍨. Toh aku juga ambis bgt ga pengen bolos selama semester ini. <strong>(Plot twist nanti di bagian Matdis 2)</strong></p>
+
+<p>Kami mutusin buat berangkat hari Sabtu kan. Terus karena aku jago 💪, akhirnya aku yang mesenin hotel sama tiket travel. Aku udah pesen Pasteur Trans, berangkatnya jam 3 hari Sabtu itu, terus pulangnya jam 7 malam hari Minggu. Tapi karena ada awarding night jam 5-10nya, mungkin kami ga bakal ikut. Lagian ga mungkin menang juga. Ikut buat hore doang. ⛅️</p>
+
+<p>Plot Twist : Kak Galang sakit 💤</p>
+
+<p>(Saat itu Corona masih biasa aja, jadi mungkin dia flu biasa) 🙃</p>
+
+<p>Dih mantap. Inilah perks of sering ngestory ig. Banyak bahan blog WOAKOKWAOKWAKOKWAO 😆. Lagi-lagi mantap, karena aku berhasil dapat kamar 3 bed, dekat dengan ITB dan termasuk relatif murah.</p>
+
+<p><img src="https://i.ibb.co/1006BwJ/8.jpg" alt="8" border="0" height="400px" /></p>
+
+<p>Kebetulan sabtunya itu malam Cap Go Meh 🏮, dan aku sama Kak Rey akhirnya bersenang-senang semalaman, dan selama perjalanan. Emang ada yang <strong>kurang</strong> di antara kami berdua. <strong>Kurang</strong> akhlak karena ninggalin teman setim di kamar cuma makan bubur. 😆</p>
+
+<p>Besoknya lomba, terus puji syukur dapet juara 2. Karena akhirnya aku memutuskan untuk ikut awarding nightnya (Mau ngeclaim piala 🏆 hehe), akhirnya aku memutuskan untuk mengundur jam pulang ku jadi hari senin, jam 4 subuh, biar masih bisa ngejar kuliah. Sulit dipercaya, jam 6.30 sudah sampe Depok 🕡.</p>
+
+<p><img src="https://i.ibb.co/WfRgMH9/Whats-App-Image-2020-06-23-at-14-13-14.jpg" alt="Whats-App-Image-2020-06-23-at-14-13-14" border="0" width="300px" /></p>
+
+<p>POLLL. NGANTUK POL. Jangan kelas kalau ngantuk. Saat kuis latihan, aku sudah bingung menulis apa. Ngakak parah setelah beberapa hari kemudian nilai kuisnya dikembalikan. Alhasil kalau dinilai, nilainya &lt; 60. Siangnya aku menghabiskan banyak waktu di perpustakaan Fasilkom atas untuk tidur. 💤</p>
+
+<p><strong>Lesson Learned</strong><br />
+10/10 wouldn’t try again.</p>
+
+<h4 id="pra-uts-ddp">Pra UTS DDP</h4>
+
+<p>Lanjut ngebahas tentang kuliahnya. WKWKW. Di kelasku itu Bu Nilam sering ngasi Worksheet, katanya ga dinilai sih. Jadi seru pol, ga tertekan ngerjainnya. Dan mungkin karena alasan yang sama aku ga terlalu fokus dengan nilainya. Alhasil latihan ku jelek-jelek dan banyak salah ❎.
+Jujur aja awal-awal semester aku terlalu meremehkan Java. Pas bulan Maretnya. Aku merasa ketinggalan jauh dan harus mengejar ketertinggalan ini untuk Kuis dan UTS. 🙁</p>
+
+<p>Akhirnya kuis 1 tiba (yang ini dinilai), aku belajar menggunakan buku Liang, yaitu buku referensi Java-nya (Jauh-jauh lebih cocok untukku daripada slide) :book:. Aku mencatat banyak method-method dan tricky partsnya Java, karena boleh bawa notes dan kebanyakan yang diujikan saat Kuis/Ujian ya itu. Kasian ya kita jadi compiler. 💦</p>
+
+<p>Tapi sebenarnya dengan paham method-method itu buat kita paham dengan alur program juga sih. Syukur lagi, dengan adanya kuis-kuis itu buat aku paham betul OOP di Java. :thumbsup:</p>
+
+<p>Yang paling berkesan sebelum UTS itu pas Bu Nilam rencananya mau ngasi Nilai Bonus kan. Disuruh bikin program dengan pola-pola gitu. Ga susahkan tinggal for loop terus ngeprint bintang-bintang doang 🌟</p>
+
+<p><em>Oh ez Bonus</em> 👼</p>
+
+<p>Oh wait. Ga. 😈</p>
+
+<details>
+    <summary>Potongan reply Bu Nilam beberapa hari setelahnya:</summary>
+
+    Seperti di kelas lain, saya memerlukan comment pada program untuk memastikan kalian paham apa yang kalian tulis dan menunjukkan kalian tidak memplagiat kode orang lain. Maka bagi yang tidak menyertakan comment pada kode programnya, saya tidak dapat memberikan full 1 poin, melainkan 0.5 poin. Begitu juga yang menggunakan loop (bahkan untuk print), saya tidak bisa memberikan full 1 poin =)
+</details>
+
+<p><strong>Ngechat Samuel habis baca email</strong> 📧<br />
+👦 Aku : Sam gw lupa nulis comment<br />
+🤠 Sam : Sama</p>
+
+<p>Oh ok. Mulai sekarang harus super teliti. 😧</p>
+
+<p>Ada kejadian lagi sebelum UTS. Jadi ceritanya sekelas lagi bahas tentang UML Diagram. Bu Nilam pun memberikan latihan. Membuat semacam UML Diagram untuk online-shop gitu. 🛒</p>
+
+<p>Karena panik dan belum selesai, akhirnya dibilang untuk yang ngerjainnya barengan, boleh ngumpul satu aja perwakilan. Kebetulan lagi duduk di dekat Budi sama Samuel. Karena kita bertiga panik, dan yang progressnya paling jauh Budi, akhirnya ngumpul aja. 💯</p>
+
+<p>Pas dikembaliin, dinyatakan kalau punya Budi paling mendekati, Budi dikasi beng-beng dong. Aku yang lagi lapar (Maklum kelas Jam 8 🕗 sarapannya dikit 🍚) pun <strong>sedikit</strong> bilang kalau itu kerjainnya bertiga. Alhasil kami bertiga dapat Beng-Beng semua. 🍫</p>
+
+<p>Hock. Hock. Lain kali jangan gitu.</p>
+
+<h4 id="uts-ddp">UTS DDP</h4>
+
+<p>Lancar aja si kalau DDP. UTS nya mantap. Tips pas UTS, ternyata docs live yang diawasi dosen soalnya keluar lebih cepat dari Scele. 👍. Tapi pas UAS ga. Barengan. Sad banget.</p>
+
+<p>Kegabutan ku saat membaca slide peraturan dan tidak ada dosen.</p>
+
+<p><img src="https://i.ibb.co/Y20Wbpy/885847.jpg" alt="885847" border="0" width="300px" /></p>
+
+<p>Tiba-tiba <strong>Bu Naya</strong> masuk dan aku kaget. Temanku yang melihat sempat screenshot dan menyebarnya. Duh. 💢 Hock Hock.</p>
+
+<details>
+    <summary>Ayam ayam apa yang paling besar</summary>
+    Ayam semesta 🌌
+</details>
+
+<h4 id="pasca-uts-ddp">Pasca UTS DDP</h4>
+
+<p>Setelah UTS, kami dikembalikan ke rumah masing-masing untuk melakukan pembatasan sosial! Karena UTS telah selesai, Bu Evi mengajar separuh semesternya. Diadakan sesi Meet jam 8 pagi tiap hari Senin dan Rabu. 😪</p>
+
+<p>Entah kenapa kurasa 20-50% dari sesi aku sempat ketiduran dan pasti masih di kasur, baru bangun. 🛏 (Jangan ditiru)</p>
+
+<p>Hock. Hock. Lain kali jangan gitu.</p>
+
+<p>Kelasnya Bu Evi juga membuatku super super tidak teledor lagi. Setiap minggu harus selalu mengikuti kelasnya. Karena harus bikin semacam worksheet ringkasan, satu sampai dua halaman saja yang menyampaikan bukti sudah me-<em>run</em> kode-kode di slide. 💻</p>
+
+<p>Ya karena terlihat sayang bila dikerjakan seadanya. Akhirnya kubikin dalam bentuk makalah yang lumayan bagus (Ada cover dan daftar isinya juga). hehe. 🎱 Sampai kadang saat kulihat ternyata sudah sampai 16 halaman. Hehehehe.</p>
+
+<p><img src="https://i.ibb.co/Yh3qyKC/image.png" alt="image" border="0" width="300px" /></p>
+
+<p>Lab-Lab dan Tugas Pemrogramannya sama saja, bedanya dikerjakan secara remote 🌜 dan dari rumah masing-masing.</p>
+
+<h4 id="kuis-2-ddp">Kuis 2 DDP</h4>
+
+<p>Jiah. Ini parah sih. Kuisnya itu dilaksanain di Google Forms. Terus jam 7 malam, kan. Mati lampu weeeeh!! GAWAAT 🕶 Untunglah nilainya masih aman. 🔢</p>
+
+<h4 id="uas-ddp">UAS DDP</h4>
+
+<p>Dih ini UASnya lumayan susah. Bagian-bagian terakhirnya tentang exception, interface, pringboot. Panik banget karena topiknya tricky dan jujur aja aku ga terlalu yakin dengan jawabanku di bagian situ. Tricky as in Tricky Pol. Butuh konsep yang benar-benar matang 🤔.</p>
+
+<p>UASnya dibagi jadi 3 soal, masing-masing dikasi windows satu jam kalau tidak salah. OK lah. Link soalnya diberikan melalui scele dan live info google docs lagi. Tapi kali ini link soal di live infonya menggunakan link shortener, dan benar-benar pas (Tidak keluar duluan kaya UTS) ☹️.</p>
+
+<!-- Saat jeda antara sesi 1 dan 2, aku mencoba coba s.id/soalsesi2, dengan harapan keluar soalnya. Duh ternyata para dosen sudah tahu ada mahasiswa kaya aku. Saat jeda antara sesi 2 dan 3, aku mencoba permutasi 6! dari {soal, sesi, 3}.
+
+**Bamboozled.** ddp2sesifinal. Sad.
+
+<img src="https://i.ibb.co/1d6KCW8/image.png" alt="image" border="0" height = "100px"> -->
+
+<h4 id="summary-ddp">Summary DDP</h4>
+
+<p><strong>⭐️ : 9/10</strong><br />
+Ini matkul asyik. Go with the flow. Apa yang didapat?</p>
+
+<ul>
+  <li>Belajar bahasa pemrograman baru, Java™ ☕️.</li>
+  <li>Belajar banyak konsep, terutama OOP, classes, Inheritance, belajar GUI Developing dan framework Web keren.</li>
+  <li>Mengajarkan kita untuk banyak membaca dokumentasi.</li>
+  <li>Nambah teman dan kenalan kating (Terutama saat ngerjain Lab dan TP).</li>
+</ul>
+
+<h3 id="matematika-dasar-1---3-sks">Matematika Dasar 1 - 3 SKS</h3>
+
+<p>Ini kebanyakan bahas tentang materi SMA yang dibuff. 💪
+Aku ambil dosen yang sama dengan dosen FisDas ku dulu, tapi yang kebanyakan ngajar Prof. Chan. (Ada dua dosen juga tapi ngajarnya selang seling tiap seminggu sekali). 🌴</p>
+
+<p>Kelasnya setiap hari Senin jam satu, selama dua SKS, dan Rabu jam dua, selama satu SKS. Biasanya hari Senin di-<em>lecture</em> Prof. Chan, dan hari Rabu dikasi soal oleh Bu Rina. Kuisnya juga <strong>konon digemparkan</strong> mendadak, tapi selama Matdas semua orang sudah tau kapan kuisnya 🙁</p>
+
+<h4 id="pra-uts-matdas">Pra UTS MatDas</h4>
+
+<p>⚠️
+<strong>Disclaimer : Ini kebanyakan curhatan dan cara survive matdas.</strong>
+⚠️</p>
+
+<p>Prof udah kasi disclaimer kalau tulisannya sulit dibaca. Alhasil kebanyakan catatan ku kosong. Oh iya ding lupa bilang.</p>
+
+<p>Semester dua ini aku survive tanpa catatan. やばい !!!!!!!!</p>
+
+<p>Anjay bisa nulis kanji. WKWKWKW apa sih. Tapi tulisannya Prof. harus diakui emang udah selevel sama <em>prescription</em> dokter. 📓</p>
+
+<p>Next. ✔️</p>
+
+<p>Jadi MatDas ini sebetulnya bisa survive (dapat 🅰️ bahkan) dengan:</p>
+
+<ul>
+  <li>Paham konsep</li>
+  <li>Banyak latihan soal</li>
+</ul>
+
+<p>Silakan dicoba, kegagalan tidak ditanggung Saya. 🙇</p>
+
+<p>Eh ini serius sih, jangan takut nanya kalau di kelas. Apalagi dosen biasanya kalau ngejelasinnya udah asyik sampai ilmunya udah Inhuman kadang bingung sendiri kita. 🎄</p>
+
+<p>Awal-awal juga pas belajar limit, kita disuruh buat paham tentang definisi epsilon-delta nya limit. Dih ini jadi real estate buat nge-meme. WWAOKOWAOWAKOWA.</p>
+
+<p><code class="language-plaintext highlighter-rouge">#MenolakLupa</code></p>
+
+<p><img src="https://i.ibb.co/cwc7zrr/Epsilon.jpg" alt="Epsilon" border="0" height="400px" /></p>
+
+<p>Tapi jangan jadi filthy trash kaya Rachel di <strong>Tower of God</strong> ya gaes. Karena ga bisa ngapa-ngapain terus bersandar ke orang terus. BUKA YOUTUBE WEEE! Cari “Epsilon Delta Limit Definition Intuition” 🗼. Jangan buka HP sebelum ngerti itu kalau udh masuk materi limit. Kalau ga, ya <strong>sampai jumpa</strong>.</p>
+
+<p>Jangan lupa teknik permisalan yang epsilon-deltanya pecahan juga. Ini tricky parah. Kalau bisa coba soal-soal di buku Purcell. Terutama contoh soal-soalnya.</p>
+
+<p><strong>Optional Recommendation</strong> : Beli buku purcell yang bahasa Indonesia, dua buku <strong>jilid I</strong> sama II, harusnya masih terjangkau.</p>
+
+<p><strong>Alternatives</strong> : Punya pdf-nya, sama pdf kuncinya. Pelajari setiap malam sebelum ujian/kuis. Dih ini ga boleh promosi illegal sih. Please dibeli ya gaes pdf orinya untuk mendukung authornya. Hehe. 🥇</p>
+
+<p>Dih ini makin diinget-inget jadi kesel. Kalau ada artikel internet clickbait, judulnya itu:</p>
+
+<p><strong>“Inilah 10 Alasan Kita Kesulitan MatDas. Nomor 3 Bikin Tidak Bisa Tidur!! Nomor 9 Dirahasiakan Dosen?!?!”</strong></p>
+
+<p>Kelarin ini video dah (Sama semua soal di channel Polar Pi). Untuk para adik tingkat yang akan mengambil Matdas. Semoga kalian sukses. Jangan kaya Aku ☹️.</p>
+
+<p>https://www.youtube.com/watch?v=tzFtz5PA0wY
+https://www.youtube.com/watch?v=oHe7lk9WaaI</p>
+
+<p>Sisanya tinggal latihan soal limit, terus profit.</p>
+
+<p>Duh mohon maaf isi blog ini malah jadi Tips Belajar WOAKOAWKOAW 😆. Mendingan langganan RuangGuru yakan. Masa habis UAS masih baca blog orang yang isinya matkul yang udah lewat. Tapi ini emang Matdas Barbar banget. 🙁</p>
+
+<p>Dih ngomongin RuangGuru. Ayoo dah bahas RuangGuru</p>
+
+<h4 id="ruangguru">RuangGuru</h4>
+
+<p>Bukan mau bahas masalah sahamnya yang dikuasai oleh Singapura atau apalah itu. Ini Costumer Servicenya RuangGuru aneh. Aku udah lulus lama bgt dari SMA. Tapi selalu ditanyain mau langganan lagi ga. 👽</p>
+
+<p>Ya pengen sih balik ke SMA. Tapi ga gitu juga kan. 🍬</p>
+
+<p>Btw aku udah nyoba bilangin ke CS nya buat hapus identitas-ku dari database. Tetap masih dispam sebulan sekali kayanya. Yaudahlah. Aku blok aja tiap bulan. 🌔</p>
+
+<p>Pengen rasanya magang di RuangGuru terus nyari CS-nya gitu kan. Terus pas-pasan.</p>
+
+<p>👦 CS : Dek!! Paket Belajarmu akan segera habis! Ayo berlangganan lagi!<br />
+🐮 Aku : Mas saya intern di RuangGuru kok.</p>
+
+<p><em>Dih sumpah kalau magang disini aku bakal ngapus namaku di databasenya mereka. <strong>Awas aja.</strong></em> 👿</p>
+
+<h4 id="uts-matdas">UTS Matdas</h4>
+
+<p>Ga begitu susah, ini aku kesel banget deket-deket UTS. Jadi aku belajarnya udh berusaha semampuku juga. Kalau dapat rendah ya mungkinlah. Yang penting sampai separuh <em>living <strike>hell</strike> heaven</em> ini aku udah ngerti materinya.</p>
+
+<h4 id="pasca-uts-matdas">Pasca UTS MatDas</h4>
+
+<p>YESSSS Aku yakin karena Online pasti Prof kini tulisannya lebih bagus dan bisa nyatat ria!!!! 😄 (Prof pake whiteboard online).</p>
+
+<p>Ga. ⚔️ Tulisannya makin sulit dibaca. Ya sudahlah. Baca slide aja. 💻</p>
+
+<p>Tenang. Bagian ini ga ada lagi tips belajar. Karena emang materinya cuma flashback materi SMA.</p>
+
+<p>Momen paling berkesan selama Pasca UTS ini mungkin karena online juga, jadi aku sebagai perwakilan kelas, harus turut berusaha untuk ngechat dan menjadi perantara informasi dari pihak pengajar dan teman-temanku. 📏</p>
+
+<p>Ini Kuis dan Ujiannya strict parah. Komunikasi dalam bentuk apapun tidak diperbolehkan. Pengen cerita banyak sih tentang ini. Tapi kadang sampai bingung kenapa bisa se-<em>strict</em> ini. 👍</p>
+
+<p>Mungkin pembaca berpikiran kalau strictnya biasa aja. Tapi jujur aja karena peraturan-peraturan kaya gini aku ga bisa ngerjain maksimal pas UAS. 😦</p>
+
+<p>Kalau ingin gambarannya kira-kira seperti ini.</p>
+
+<ul>
+  <li>Setiap kali kuis dan ujian setiap soal dibagi jadi segmen-segmen waktu yang sangat sempit (5-15 menit per soal), bener-bener harus Godlike sih kalau mau 100 UAS-nya. Tapi aku emang meremehkan ke-<em>strict</em>-an UASnya. Kalau latihan Ling-Ling 40 Hours harusnya bisa sih. ⏰</li>
+  <li>Diawasin pake Google Meet, kameranya kalau bisa nampakin top part of your body.</li>
+  <li>The rest is left as a mystery for the reader.</li>
+</ul>
+
+<p>Biasanya karena scan-scan juga kan, kita harus scan di HP 📱, terus upload lewat PC 💻. Julian pas waktu Kuis udah mau habis tiba-tiba ngirim jawabannya di grup WhatsApp kelas MatDas yang isinya semua mahasiswa MatDas. Auto Panik WAKKAKAKAKKA.</p>
+
+<p><em>Dia salah kirim</em></p>
+
+<p>“Hayo loh Jul”-Kutipan Pesan grup 190628*</p>
+
+<h4 id="summary-matdas">Summary MatDas</h4>
+
+<p><strong>⭐️ : 8.8/10</strong><br />
+Lumayanlah, ga terlalu suka skema UTS dan UASnya. (Ini termasuk salah satu GPA banger sih menurutku pribadi) Mungkin gara-gara online sih. Tapi memang barbar. Tapi masa gara-gara nila setitik rusak susu sebelanga sih. 😦 Ini matkul lumayan seru. Terutama karena teman sekelasku yang orz semua, dan emang materinya asyik. Yang didapat sebagai berikut.</p>
+
+<ul>
+  <li>Belajar bilangan real, sifat-sifatnya. ☂️</li>
+  <li>Belajar limit, summation, approachnya ke infinite, nol, dan kaitannya dengan turunan dan barisan.</li>
+  <li>Belajar turunan, esensi dan konsepnya.</li>
+  <li>Belajar integral, teknik integrasi, dan aplikasinya.</li>
+  <li>Belajar tau kalau banyak latihan biar nilainya tinggi.</li>
+  <li>Banyak teknik-teknik OP di luar buku. Mending ngedeketin kating OP buat diajarin Matdas daripada pacaran. 👪</li>
+  <li>Belajar tau kalau memang ada beberapa matkul yang bukan bidang kita.</li>
+  <li>Dapat teman belajar. Banyak.</li>
+  <li>Belajar untuk lebih baik panik selama kuis dan UTS daripada UAS.</li>
+  <li>Belajar untuk selalu scroll sampai habis semua PDF.</li>
+  <li>Belajar untuk lebih jujur dan berintegritas.</li>
+  <li>Belajar untuk bodo amat dengan nilai. Yang penting ilmunya masuk. (Ini susah)</li>
+  <li>Kalau nyerah buat PR sama latihan mungkin Integral Calculator itu pilihan.</li>
+  <li>Jangan lupa +C.</li>
+  <li>Jangan lupa rubah batasan saat substitusi Integral Tentu.</li>
+  <li>Jangan lupa properti trigonometri, terutama properti kuadrat tan sec dan cos sin. <strong>10/10 life savior.</strong> 💸</li>
+  <li>UNTUK SETIAP EPSI…</li>
+  <li>Hock udah lah.</li>
+</ul>
+
+<h3 id="matematika-diskret-2---3-sks">Matematika Diskret 2 - 3 SKS</h3>
+
+<p>Big brain moment for people yang jago Dynamic Programming (Topik CP) dan Rekursi. Ga terlalu tau sih mau nulis apa. Ini semacam pre-requisite buat CP sepertinya 🙁. Tapi materinya udah jauh, bukan CP dasar lagi. Jadi ini ngeboost materi banyak, terutama tentang relasi rekurensi, graph, dan teori bilangan sih.</p>
+
+<p>Punya banyak love-hate relationship juga dengan topik-topik tersebut.</p>
+
+<h4 id="pra-uts-matdis">Pra UTS Matdis</h4>
+
+<p>💌 Kali ini aku ngambil kelas hari Selasa dan Kamis, dua-duanya jam sepuluh 🕙, Selasa dua sks, Kamis satu sks.</p>
+
+<p>Selasa selalu dipakai buat materi, Kamis buat latihan soal. Satu-satunya yang kuingat dengan kelas ini adalah. AC nya weh.</p>
+
+<p>GILA! ❄️ DINGIN!</p>
+
+<p>Bangku barisan pertama itu di bawah AC. ⛄️</p>
+
+<p>Alhasil biasanya aku duduk depan sendirian.</p>
+
+<p>Tapi meskipun aku sering ambis. Mata kuliah pertama yang aku bolos selama kuliah ini. Ketiduran weh. Parah. Kalau ga salah hari Kamis. Aku bangun jam 10.20. Panik dong. Banget. 😧</p>
+
+<p>Mandi 🛀, Gojek 🛵, terus karena aku orangnya takutan ketinggalan materi, aku masuk ke kelas jam 11 nya Bu Arlisa(ada kelas lain juga jam segitu). 🕚</p>
+
+<p>Ya ketahuan lah sama Ibunya. Tapi Ibunya ga negor. Toh aku selalu duduk depan. Terus aku tiba-tiba ga masuk kelas. Aku pura-pura ga tau aja lah udah. Yang penting ga ketinggalan 🏛.</p>
+
+<p>Masih ada aura-aura maba lah kan. Alim bgt. 🙏</p>
+
+<p>Kelas hari Selasanya biasa aja. Mediocre. Tapi paling suka sama kelas hari Kamisnya. Biasanya soalnya banyak WKWKKWKWK. Susah-susah. Paling ga mau keluar kalau belum kelarin soal-soalnya. ❓</p>
+
+<p>Aku ngerasa ga perlu latihan banyak dari textbook sih pasca UTS.</p>
+
+<p>Kelasnya kalem sih, orang-orangnya juga, ga kaya MatDis 1 yang dibimbing Pak Ari WKWKWK. Biasanya habis kelas ngobrol sama Reza sama Cornelita. Duh kangen kelas onsite MatDis 2. ☹️</p>
+
+<h4 id="uts-matdis">UTS MatDis</h4>
+
+<p>Bagian recurrence relationnya susah heh. Aku kemarin kalau ga salah dapat soal-soal robot gitu. Hampir kesolve semua. Lupa nyederhanain persamaannya. 🤖</p>
+
+<p>Lumayan barbar juga karena waktunya mepet. ⏰</p>
+
+<h4 id="pasca-uts">Pasca UTS</h4>
+
+<p>Wah ini asyik. Tiap minggu dikasi worksheet. Terus ada OA Line-nya yang sering kuganggu malam-malam (Jam 11-1 OAWKKAOWKOWA) 🌔 Duh maaf Pak/Bu/Kak.</p>
+
+<p>Worksheetnya seru soalnya banyak dan beragam. Habis ngerjain biasanya selalu <em>flexing</em> dulu ke teman sama Admin OA Linenya.</p>
+
+<p>Ada bagian yang ditanya properti dari graf di dunia nyata gitu kan, kaya ada sistem follow-menfollow, sitasi, bandara, perjalanan, dsb. Itu aku bingung sendiri. Kayanya banyak salah disitu weh. KWKWKWK. Mana porsi nilai worksheet gede bgt lagi. 😲</p>
+
+<h4 id="uas-matdis">UAS MatDis</h4>
+
+<p><code class="language-plaintext highlighter-rouge">"MatDas harus belajar banyak dari MatDis"</code></p>
+
+<p>Salah satu kutipan pesan yang aku sangat suka setelah UAS MatDis selesai. Sesinya Pas. Tidak mepet. Mungkin MatDis resurrect dari ke-<em>barbar</em>-annya saat UTS. Soal UTS nya dibagi jadi pilihan <strong>jamak</strong> dan Esai WKKWKW. Terakhir dengar kata jamak pas belajar grammar kelas 12 weh. 🍆 Sistemnya kaya Pick one or more true statement(s) gitu.</p>
+
+<p>Soal-soalnya bagus, benar-benar nguji pemahaman sih. Kudos deh ke Tim Dosen yang super pengertian. Niat mencontek benar-benar bisa dibasmi, karena bukan ngerjain cepet-cepetan. Tapi istilahnya <strong>“Membantai target”</strong> yang tepat.</p>
+
+<p>Duh bagian MatDis ini kayanya kurang meme sama kurang lucu yah. Sad. ⛵️</p>
+
+<p>Duh kasi satu deh. Bingung juga. Selama MatDis jarang kelas bareng lagi. Kebanyakan belajar sendiri dan ngerjain worksheet cukup buatku. 👍</p>
+
+<p>Jadi pas ngerjain worksheet itu kita bingung, kalau bipartite graph itu apakah partitionnya bisa dibagi jadi empty set atau harus nonempty?</p>
+
+<p>Misalnya apakah Graph dengan 1 vertex dan tanpa edge itu bipartite atau ga deh. Gitu. 💢</p>
+
+<p>Ini kalau dikasi meme ga bakalan ada yang ngerti sih. Ya udahlah. Tar bagian MatDis jadi dikit. Padahal matkulnya asyik ☹️</p>
+
+<p><img src="https://i.ibb.co/M7QLrjV/MatDis.jpg" alt="MatDis" border="0" height="300px" /></p>
+
+<h4 id="summary-matdis">Summary MatDis</h4>
+
+<p><strong>⭐️ : 9/10</strong></p>
+
+<p>Punten. Emang aku suka materinya. WKWKKW. Emang asyik aja sih. Number Theory udah jadi musuh sejak Day 1 belajar CP. Jadi pas ketemu lagi makin sangar. Apalagi materi Graphnya. Sebelum UAS aku ngoding solver semua soal yang bisa dikuli. Transitivity, pengecekan sifat, ngerubah representasi edge, Isomorphism Check. Euler/Hamiltonian Path and Circuit. Asyik deh. 💻</p>
+
+<p>Yang bakal didapat:</p>
+
+<ul>
+  <li>Number Theory, Keterbagian, Modular Aritmetika</li>
+  <li>Generating Function, Advanced Counting, Recurrence Relation</li>
+  <li>Combinatorics yang susha-susha</li>
+  <li>Relasi, Fungsi, Tuple, Pair.</li>
+  <li>Graf dan semua embel embelnya.</li>
+  <li>Wolfram itu sahabat</li>
+  <li>Luwak White Coffee</li>
+  <li>Perasaan dulu passwordnya</li>
+  <li>Kopi enak ga bikin kembung</li>
+  <li>Kok sekarang</li>
+  <li>Kopi nikmat nyaman diminum</li>
+</ul>
+
+<h3 id="mpkt-a---6-sks">MPKT A - 6 SKS</h3>
+
+<p>Kelas MPKT A ini pas warnya ketutupan kan dosennya, jadi aku ga bisa liat siapa yang bakal aku pilih, ya mirip-mirip gacha lah. 🎈 Karena semester satu aku ngambil kelas C, akhirnya aku milih kelas C lagi, dengan harapan bisa ketemu teman-teman lama. Eh taunya pas masuk kelas isinya kebanyakan teman-teman dari KMB. WKWKKWK</p>
+
+<p><b> <i> Claimnya sih mereka barengan milih kelas C karena C itu kepanjangannya <em>**</em>. &lt;/b&gt; </i> 😆</b></p>
+
+<h4 id="pra-uts-mpkt">Pra UTS MPKT</h4>
+
+<p>Ini kelasnya asyik banget tiap hari Selasa Kamis jam satu, 3 sks pula setiap pertemuannya. Tiap hari, dosen kami Pak Vinsen selalu datang jam 12 dan menunggu di kelas. Beliau hampir selalu menjadi yang pertama masuk kelas. Karena penasaran dari jam berapa Pak Vinsen biasanya masuk ke kelas, sempat sekali setelah kelas jam 11 aku langsung ke kelas (<strong><em>udah makan siang jam 10</em></strong>), lalu menunggu sampai Pak Vinsen datang. 🤒</p>
+
+<p>Setiap minggu biasanya ada tugas, tugas pertama dibuat mengenai 9 nilai UI dan karakter-karakter gitu. Deadlinenya bentar (<em>alasan hock</em>), dan saat tugasnya dinilai yang dapat tinggi hanya beberapa orang, itu juga dapet 85 kalau tidak salah. Sisanya ≤ 79. Sejak saat itu aku panas, dan benar-benar ambis mengerjakan tugas Pak Vinsen, karena memang sepertinya untuk nge-Ace matkul enam SKS ini butuh effort lebih. 🥇</p>
+
+<p>Benar saja, ternyata susah sekali dapat nilai tinggi di tugas-tugasnya Pak Vinsen 😢 Tugas-tugasku ternyata paling tinggi hanya 79 sampai matkul ini selesai, dan memang sepertinya harus di-<em>comeback</em> saat UTS, UAS, Presentasi dan Proyek Akhir. 💯</p>
+
+<p>Memang tugas porsi nilainya tidak terlalu besar, tapi bisa memberikan sedikit olahraga jantung saat seringkali sekelas paling tinggi hanya 79. 🎱</p>
+
+<h4 id="presentasi-dan-pasca-uts-mpkt">Presentasi dan Pasca UTS MPKT</h4>
+
+<p>Presentasinya seru. Dapat Focus Group 4, dan Home Group 1, isi Focus Group ku ganteng semua, udah kenal juga. Ada Geo, WH (baca: WeHa), Sani, sama Pedro. AHAHAHA. Oh santuynya. 🍎 Untunglah semuanya kalau bikin PPT lumayan niat dan tidak ngaret-ngaret.</p>
+
+<p>Paling ngakak saat ada slide-slide yang belum jadi, akhirnya biarlah alam bawah sadar yang take the wheel of talking. 🙊 <em>Hock hock</em></p>
+
+<p>Belum kujelasin, mengenai FG dan HG ini, intinya seperti collaborative learning gitu. Jadi materi FG itu dipelajari per subbab. Kemudian nanti ilmunya dibawa ke HG, buat disatuin. Home Group ku isinya rame. Udah lupa juga anggotanya. WKWKKWKW. 🔮</p>
+
+<p>(<em>malas buka docs lagi</em>) Kalau tidak salah sama aku ada tujuh orang. Ada Gabriel, Arya, Erica, Handi, Tharra, sama Jessie. Nah ini sering kesel karena suka ilang-ilang. Apalagi pas <em>distance learning</em>. Tapi puji syukur meskipun sering ilang tugas-tugasnya masih diemban. 🙏</p>
+
+<p>Kalau dipikir-pikir sebenarnya Focus Group sama Home Groupku kelompoknya Jackpot 💰. Ya, paling ga orang-orangnya asyik dan bisa diajak kerja sama. Presentasinya direkam,</p>
+
+<p>Kebetulan proyek akhir kelasku ini dilakukannya per FG. Jadi kami membuat video <em>entertainment</em> saja. Isinya gameplay game-game yang materinya ke-Indonesia-an yang jujur saat ngedit aku ngakak-ngakak sendiri karena memang lucu.</p>
+
+<p>https://www.youtube.com/watch?v=MXfHjRWnoDY</p>
+
+<h4 id="uts-dan-uas-mpkt">UTS dan UAS MPKT</h4>
+
+<p>Mantap jiwa ini UTS UAS-nya, materinya ada di buku, kalau ga salah boleh <em>openbook</em>, tapi ga guna juga sih, materinya kebanyakan penalaran dan nalar kasus. Dikumpulnya online, dikirim <em>typed pdf</em> filenya. Hanya satu quote yang cocok pada bagian ini. 📖</p>
+
+<blockquote>
+  <p>When I type it, only God and I knew the meaning. Now only God knows. ✝️</p>
+</blockquote>
+
+<h4 id="summary-mpkt-a">Summary MPKT A</h4>
+
+<p><strong>⭐️ : 9.2/10</strong></p>
+
+<p>MPKT mata kuliahnya relatif parah. Kata orang sih biasanya MPKT ini keasyikannya tergantung sama dosen dan teman sekelas, memang benar sih kurasa.</p>
+
+<p>Yang bakal didapat:</p>
+
+<ul>
+  <li>Ilmu menulis yang baik dan benar.</li>
+  <li>Ilmu browsing ejaan baku.</li>
+  <li>101 cara menulis makalah yang baik dan benar</li>
+</ul>
+
+<p>Ini agak gacha sih, setiap dosen beda-beda. Kebetulan dosenku strict betul masalah ini. Niat parah juga, setiap makalah dan tugas mahasiswa Beliau di-<em>feedback</em> dengan tulus dan membangun <em>Membangun disini artinya setiap kesalahan dilingker</em> Jadi nilai 79 yang biasa kudapat bisa di-<em>fix</em>. Memang sasuga 🙇</p>
+
+<ul>
+  <li>Materi-materi MPKT, filsafat, logika (Terutama bagian sesat pikir), karakter, etika, kepribadian, cara bersosialisasi, asal-usul kebudayaan, makna konstitusi, Pancasila.</li>
+  <li>Bahasa Indonesia, tata bahasa, penulisan karya tulis.</li>
+</ul>
+
+<p>Ada berita juga katanya kurikulum selanjutnya bakal merge MPKT A dan MPKT B, terus jadi 5 SKS doang hasil mergenya. Not Fun. Kalau kata pepatah:</p>
+
+<blockquote>
+  <p>No MPKT, No Party</p>
+</blockquote>
+
+<p>(<em>Ngasal hock</em>)</p>
+
+<h3 id="pemrograman-kompetitif---3-sks">Pemrograman Kompetitif - 3 SKS</h3>
+
+<p>Hoo. Inilah mata kuliah yang membuatku semangat hidup, sekaligus mematahkan semangat hidup. 🌴 Mengerti ? Tidak. Sama aku juga.</p>
+
+<p>Tiap minggu dikasi soal, lewat Vjudge, yaitu materi yang dibahas minggu itu. Kelasnya tiap hari Rabu jam 4, tiga SKS. Kelasnya sepi weh, cuma 11 orang. Tiap minggu kita dikasi materi-materi CP, yang semuanya materi baru. Sebenarnya salah satu strong topic ku di CP itu algorithm, DS, sama rare topics sih. 💯</p>
+
+<p>Biasanya juga ada beberapa kontes-kontes CF yang wajib diikuti, dan tentu saja setiap latihan CF kamu bakal distalk dan di recap buat nilai bonus. 👍</p>
+
+<p>Aku agak goblok sih, sampe punya akun dummy CF banyak banget dan ratingnya lebih tinggi bahkan dari punyaku. 👽</p>
+
+<p>Habis kelas biasanya makan malam bareng di kantin Pacil wkwkwk. Fix pasti Indomie, karena Indomie Lezat Sekali.</p>
+
+<h4 id="resep-indomie-terenak">Resep Indomie Terenak</h4>
+
+<p>Sebenarnya menurutku Indomie terenak ya mi goreng. Itu udh fix. 🔧
+Cara masaknya banyak, tapi yang paling aku suka dan kukangeni (Sudah lama ga makan cara gini) Itu Indomie nyemek ala kakak tertuaku. Cara masaknya :</p>
+
+<ul>
+  <li>Indomie direbus. 🔥</li>
+  <li>Airnya dibuang, jangan sampai habis, tapi masih becek Indomienya (Kaya kubangan lumpur biasa 🐃) Tau ga? Kubangan lumpur. Ya mana tau. Wajar sih. Apa sih.</li>
+  <li>Kasi bumbu kaldunya, yang kek pasir itu lho ½-¾ bungkus aja. Biasanya keasinan deh seingetku kalo lebih. Preferensi sih, tapi kalo kurang asin di akhir aja nambahnya. Kaya Comeback game gitu. Di akhir-akhir. 🍚</li>
+  <li>Masukin kecap, minyak, sambal. 🛢</li>
+  <li>Ceplokin telur 🥚, diacak-acak sampe telurnya nyatu ke mi.</li>
+  <li>Masukin saos tomat (Ini resep rahasianya, ga bakal terlalu asam sans) Saos tomat ini biasa kan botol kaca yak. Nah itu habis diputer botolnya, pantat botolnya ditepuk 2-4 kali. 🍅</li>
+  <li>Profit. Enak parah sumpah.</li>
+</ul>
+
+<p>Kok jadi bahas indomie. Apa sih.</p>
+
+<h4 id="how-to-imba">How to IMBA</h4>
+
+<p>Kebetulan di CP ini kebanyakan belajar algoritma baru, terutama matching, maxflow dan anakannya. Dari yang general, ada costnya, ada bipartitenya, <strike> ada ininya, ada itunya, ada anunya, ada gininya, ada gitunya. 🔢 </strike></p>
+
+<p>Udah mulai ngaco ini blognya. WKWKKWKW.<br />
+Skip.</p>
+
+<p>Selanjutnya juga ada materi Computational Geometry, yang jujur aja aku ga jago mikirin solusinya, tapi kalau kamu ngasi tau aku solusinya, bakal aku code, sejijik apapun implementasinya. 😎 Pernah sempat latian Week-4, aku solve dikit aja, pas ada pembahasan auto solve semua. WKWKKW</p>
+
+<p>Oh iya, ada belajar FFT juga. Intinya kalo di CP cuma buat polynomial multiplication kenceng. Terus belajar HLD, Lucas Theorem, Cycle Finding Brent. 📖</p>
+
+<h4 id="uts-dan-uas-cp">UTS dan UAS CP</h4>
+
+<p>Dikasi lima jam, kontes biasa di vjudge, materinya tentang yang udah dipelajari. Asyik banget. Soal-soalnya menarik, dan kalau udah AC, serasa lomba. 🏆 Pas UTS dibeliin makan KFC oleh Pak Denny, makasih banyak, Pak. 🙇</p>
+
+<h4 id="summary-cp">Summary CP</h4>
+
+<p><strong>⭐️ : Gold 9.4/10</strong></p>
+
+<p>Kalo suka CP, suka algo kaya aku, wajib parah ngambil matkul ini, terutama yang masih mau lanjut ICPC, atau lomba-lomba CP lainnya yang ada. 🚎</p>
+
+<p>Aku berani kasi rating tinggi banget karena memang terbukti, rating CF ku kini sudah lebih tinggi WKOAKOAWKOAOK. Juga lebih tidak menjadi beban Kak Prabowo dalam buat alternate solution dan grader kontes-kontes yang kuurus.</p>
+
+<p>Yang bakal didapat:</p>
+
+<ul>
+  <li>Ga terlalu disaranin buat <em>Mengenal CP</em>, lebih ke <em>How to win CP Contest 101</em></li>
+  <li>Dozens of new algorithms and DS(s). 🌳</li>
+  <li>Materinya kayanya tiap taun bakal ganti, kelas CP juga hanya ada di semester genap. Awal-awal bakal ada voting algo apa yang mau dibahas sampai akhir semester. 💯</li>
+  <li>Auto ngeboost jam latihan CP juga. Kalo rajin latihan CP, fix <strong>Harus</strong> ambil matkul ini. Auto profit. 💸</li>
+</ul>
+
+<h3 id="pengantar-sistem-dijital---4-sks">Pengantar Sistem Dijital - 4 SKS</h3>
+
+<p>Yes dikit lagi selesai, tinggal tambahin meme. Matkul terakhir. Ini PSD konon katanya matkul killer. Makanya diletakkan di semester dua. Katanya tahun lalu kelasnya di Aula besar, dan diajar Bu Efi sendirian. jadi review-review kating hanya menyondongkan satu dosen saja. 🥖</p>
+
+<p>Kelas yang aku ambil ini jam sepuluh, setelah mata kuliah DDP selesai, semua orang berbondong-bondong masuk ke kelas PSD ini, dan akan sangat susah untuk dapat kursi depan. 🎄</p>
+
+<h4 id="menyebarkan-cons-dulu-hehe">Menyebarkan Cons Dulu hehe</h4>
+
+<p>Kebetulan lagi, karena orang-orang yang kutanya reviewnya memang <strong>IMBA SEMUA</strong> (Aku sadar ini beberapa minggu setelah merasakan matkulnya, dan tidak segampang yang mereka bilang). Awal-awal memang masih kaya digigit semut. Tapi makin ke UTS kok, sepertinya materinya mulai kaya di-<em>Smack</em> beruang. 🐻</p>
+
+<p>Belum lagi kelasnya ramai sangat. 👮‍♀<br />
+Yang duduk depan ramai sangat. 👨‍🏭<br />
+Percayalah, materi representasi bilangan itu materi tergampang di PSD. ☂️</p>
+
+<p>Intinya kalau mau survive offline memang harus serius mendengarkan penjelasan. Bertanya ke dosen jujur saja menurutku agak kurang disarankan saat kelas. Karena materinya padat, daripada time wasted untuk satu pertanyaanmu, mendingan suruh orang lain saja. 👳</p>
+
+<p>Juga ga diperbolehin main HP di kelas, Budi pernah keciduk saat main Mobile Legends. WKWKWKKW. Hayo loh bud untung ga disita. ☎️</p>
+
+<p>Percayalah, kalau kamu merasa tidak mengerti di mata kuliah ini, pasti masih ada orang yang belum mengerti juga. ✈️</p>
+
+<p>Bukan karena materinya yang terlalu sulit, tapi karena tulisan-tulisan di atas yang sebenarnya menghipnotis kamu. 🥐</p>
+
+<h4 id="fun-and-gun-psd">Fun and Gun PSD</h4>
+
+<p>OK, cons-nya segitu doang. Unpopular opinion setelah menyelesaikan matkul ini. Holy, ga ada sarkasme sama sekali. PSD is Really FUN!!!! <em>(Tapi sumpah butuh effort buat mengerti PSD)</em> 😆 No lie. ⚔️</p>
+
+<p>PSD in a nutshell : Membuat logic circuit yang baik dan benar.</p>
+
+<p>Materi awal-awalnya masih santai, ada sistem bilangan, belajar basis-basis, masih ez lah. Mulai susah di bagian operasi antar bilangan beda basis. Intinya ya seperti penjumlahan biasa. 🔢</p>
+
+<p>Kalau sudah ngerti intuisi penjumlahan harusnya bagian ini gampang. Ingat-ingat lagi long division. ➗</p>
+
+<p>Terus nanti juga bakal diajarin error detection sama kode-kode lain, selain binary code. 👍</p>
+
+<p>Membahas yang sebelumnya, apa yang harus dilakukan jika kamu kurang mengerti?</p>
+
+<ul>
+  <li>Nanya di kelas, boleh, tapi jangan kebanyakan, kalau kamu sekali belum ngerti sepertinya lebih baik jangan ditanya lagi. Catat pertanyaanmu, simpan di catatan 📓.</li>
+  <li>Terus gimana? Habis kelas, atau malamnya. 🌔 Cepat jawab pertanyaan tadi. Di semester dua ini, urutan pelajaran yang harus kamu spend waktu sebanyak mungkin di luar kelas untuk bisa ngikutin itu:
+    <ul>
+      <li>PSD</li>
+      <li>MatDas</li>
+      <li>DDP</li>
+      <li>MatDis</li>
+      <li>MPKT</li>
+      <li>(Sisanya ya kamu tentuin sendiri karena kebetulan itu matkul Ilmu Komputer semester 2)</li>
+    </ul>
+  </li>
+  <li>Cara cari tau jawabannya ada beberapa. Tapi kurasa nanya ke temen itu udh pilihan terakhir.</li>
+</ul>
+
+<blockquote>
+  <p>See, we’re all in the same ocean but not in the same boat. 🚢</p>
+</blockquote>
+
+<ul>
+  <li>
+    <p>Anjay 💯</p>
+  </li>
+  <li>Kalau kamu belum ngerti, mungkin temanmu juga belum. ☹️</li>
+  <li>Sumber jawaban maha sakti: ⚓️
+    <ul>
+      <li>Habis kelas selesai, hampiri dosennya, nanya secara pribadi (Udah kucoba tiga kali, jawabannya sangat memuaskan) 📓</li>
+      <li>Tanya kating/asdos. Makanya <em>MM (Mengenal Mahasiswa, program PMB buat kenalan sama kating)</em>, Mas. (Cari yang dermawan dan jago 💪, bukan yang terlalu IMBA) biasanya kating terlalu IMBA akan pura-pura tidak baca pesanmu. HEHEHEHE 😆</li>
+      <li>Cari di internet, pake textbook yang ada. 🗺</li>
+      <li>Tanya temen. 🚒</li>
+    </ul>
+  </li>
+  <li>Ga cuma buat PSD, tapi aku baru sadar teknik itu beberapa minggu setelah masuk ke PSD. Jangan ulangi kesalahan yang sama seperti aku. 😦</li>
+</ul>
+
+<p>Setelah materi itu siap, dan kamu sudah tau cara belajar.
+Ini masuk ke minggu ke-3, Combinatorial Logic Circuit. Udah, saatnya kamu pensi sebagian hobi-mu kalau pengen nge-Ace. 💯</p>
+
+<p>Tiap minggu bakal ada kuis malamnya. Mungkin ini agak mirip-mirip dengan MatDis 1, tapi kalau kamu ngelihat teknik-teknik dan notasi baru, jangan kaget. Biasa aja. ☘️</p>
+
+<p>Sampai disini titik-titik kesuraman bakal muncul, tapi jangan menyerah. Habis UTS materinya akan lebih gampang. Percayalah. 🚩</p>
+
+<p>^ Jangan terlalu percaya, Hocky suka trap. Iya, suka trap.  ( ͡° ͜ʖ ͡°) ❤️</p>
+
+<p>Saat sudah bagian bikin-bikin sirkuit, biasanya Bu Efi yang sudah maha sakti dalam menggambar kabel-kabel akan dengan lihainya menggambar di papan. Jangan tunjukkan kalau kamu pakai penggaris. 📏 <em>(Eh ini joke ya, mau pakai ya pakai aja)</em></p>
+
+<p>👦 <em>*Us mahasiswa menggambar contoh sirkuit</em></p>
+
+<p><em>Bu Efi appears out of nowhere dan melihat ke aku</em><br />
+(Bu Efi suka jalan ke belakang-belakang kelas juga, awas keciduk main HP WKWKKW)</p>
+
+<p>👦 <em>*Hocky Having fun menggambar sirkuit pake penggaris</em><br />
+👩‍🏫 Bu Efi : Udah besar kok bikin sirkuit masih pake penggaris..<br />
+👧 Anski : HAHA udah besar <em>hock</em>.<br />
+👦 <em>*Hocky constantly looking at Anski makai penggaris juga</em></p>
+
+<p>Sayang sekali, saat UTS, karena ada libur dua minggu, aku malah bersantai. Padahal belum mengerti bagian Combinatorial Logic Design, terutama yang bikin multiplexer, decoder dan dkk. 🥀</p>
+
+<h4 id="pasca-uts-1">Pasca UTS</h4>
+
+<p>Jadi Tim Dosen PSD nyusun kuis setiap minggu, dan ada video pembelajaran setiap minggunya. Videonya biasanya tiap minggu ada empat part. Biasanya selalu kucicil hari Rabu-Kamis, karena tidak ada pertemuan kelas secara langsung. 🏛</p>
+
+<p>Alhasil, aku sebetulnya juga kurang paham dengan video-videonya. Tapi kuis ku entah kenapa lumayan bagus. WKWKKW. 👍</p>
+
+<p>Trap Card: Awalnya niatnya pengen ngejilat doang 👅, aktif di forum gitu kan, biar dikira rajin belajar. Materi pertama Pasca-UTS kan tentang representasi bilangan floating-point. Oh ini gampang karena aku sudah paham, berkat Pak Stef yang sempat mengajariku di DDP 1, dan Pak Denny yang pernah membahas saat kelas CP. 🥇</p>
+
+<p>Bu Efi ngepos di forum diskusi online gitu, kan. Apakah ada yang bisa membuat rangkuman materi kita minggu ini?</p>
+
+<p>Hocky yang songong pun membuatnya. Dengan niat. 💯<br />
+Hocky yang songong pun membuat janji di bawah postingan rangkumannya, akan merangkum untuk minggu-minggu selanjutnya. ✈️<br />
+Hocky yang songong pun kaget melihat materi setelah floating-point 🔢<br />
+Sial. Senjata makan tuan. ⚔️</p>
+
+<p>Wait. Hold Up.</p>
+
+<p>Masa sih? Senjata makan tuan?</p>
+
+<p>No. Total Profit.</p>
+
+<blockquote>
+  <p>Fake it, till you make it</p>
+</blockquote>
+
+<p>👩‍🏫 Bu Efi : You just activated my trap card.</p>
+
+<p>Janji membuat rangkuman ku berhasil kutepati, (agak telat sih WKWKK, H-4 UAS baru kelar semua materi pasca UTS), karena jujur aja aku masih kurang paham dengan materinya, aku berakhir dengan ngeplay semua videonya dari awal cuma buat bikin rangkuman. 🏆 Lebih gilanya lagi, bahkan ku-play dengan pause, dan speed rendah (Biasa aku play video Bu Efi dengan speed 1.5-1.75×). 💫</p>
+
+<p>Aku berakhir dengan dua hari liburku penuh ngereview materi UAS PSD. Gila. 😵</p>
+
+<p>Worth. Every. Single. Second.</p>
+
+<h4 id="uas-psd">UAS PSD</h4>
+
+<p>Lancar pol. Hanya membuat kesalahan-kesalahan stupid 🌂, berakhir dengan kuis bagian A pilihan dan isianku mendapat 94%, dan bagian B, pembuatan sirkuitku lancar.</p>
+
+<h4 id="summary-psd">Summary PSD</h4>
+
+<p><strong>⭐️ : Solid 9.5/10</strong></p>
+
+<p>Semoga UTS ku bagus. Amin.</p>
+
+<p>Yang bakal didapat:</p>
+
+<ul>
+  <li>Fear</li>
+  <li>Sadness</li>
+  <li>Joy</li>
+  <li>Boolean Algebra, Number System and Operations</li>
+  <li>Gray Codes, Error Detection, K-Map stuffs</li>
+  <li>Combinational, Sequential Circuit</li>
+  <li>Floating-Point Representation</li>
+  <li>Register, RAM, Counter</li>
+  <li>Know how to spend your time well</li>
+</ul>
+
+<h2 id="misc">Misc</h2>
+
+<h3 id="jadi-koor-kontex-tlx">Jadi Koor Kontex TLX</h3>
+
+<p>WKWK awal tahun ini, aku, Patrick dan Phillo sempat nulis soal buat TROC #10. TROC itu semacam kontes Competitive Programming. Asyik sih. Sampe sekarang juga masih koordinasiin kontes juga bareng Kak Prabowo. 🐭</p>
+
+<h3 id="gaya-tidur-sebelum-corona">Gaya Tidur Sebelum Corona</h3>
+
+<p>Pas masih di Depok sebelum UTS, masih sempat terganggu jam tidurku karena somehow aku nyibukin diri sendiri (Padahal kaya hidup santai aja bisa tapi akunya ga mau) Nyoba-nyoba pola tidur aneh.</p>
+
+<h4 id="tidur-jam-7-11-malam-lanjut-tidur-lagi-2-7-pagi">Tidur jam 7-11 malam, lanjut tidur lagi 2-7 pagi</h4>
+
+<p>This actually works. Lumayan enak awalnya. Tapi somehow susah tidur habis pulang kuliah. Karena malas <strong>jalan</strong> balik ke kosan jadi lebih sering mutar-mutar dulu di kampus gangguin orang sebelum pulang. Entahlah itu ke Sekre gangguin Faishol, ke kantin liat orang makan, atau ke perpus gangguin Joni sama Eros lagi ngambis.</p>
+
+<h4 id="tidur-jam-7-2-subuh">Tidur jam 7-2 subuh</h4>
+
+<p>Doesn’t work. Don’t try. Jangan. Pernah. Ngantuk banget, sampai pernah sekali dikasi latihan DDP oleh Bu Nilam pas kelas ngisinya ngaco pol.</p>
+
+<h3 id="eating-disorder">Eating Disorder</h3>
+
+<p>Menjadi sok tau dulu tentang disorder-disorder gini. Background story, selama di Pontianak, Ibu-ku sering masak kue. Dari kue apam, pizza, kue telur, agar-agar, jelly, terus besoknya martabak telur, bakpau, cakue goreng, dan ribuan kuliner auto kalori lainnya. :drooling_face:</p>
+
+<p>Bisa gila 💫</p>
+
+<p><img width="300px" src="https://i.ibb.co/Sd3HBnX/Martabak.jpg" alt="Martabak" border="0" /></p>
+
+<p>Funfact Martabak Manis</p>
+
+<p>Sebenarnya pengen skip makan, tapi agak kurang enak hati/perasaan. Tapi apa boleh buat kalau dimakan benar-benar bikin kenyang. Bukan takut gemuk sih. <em>Ya walaupun mungkin agak dikit</em>. Tapi memang selama distance studying gini kalau sudah kenyang benar-benar tidak fokus belajar. Semacam darah larinya ke metabolisme semua. Kaya FULL POLL. 🔴</p>
+
+<p>Alhasil aku berusaha untuk tidak makan kenyang agar habis makan bisa fokus ngerjain apapun (termasuk tidur), dan tidak merasa <em>guilty</em> akan <em>bjir</em> hari ini udah makan berapa kalori?</p>
+
+<p>Pernah suatu malam habis makan martabak telur/pempek kapal selam gitu. Pas mati lampu, KENYANG POOOOOOL. Bahkan mau tidur susah. 🐇</p>
+
+<p>Lesson learned.</p>
+
+<h3 id="roll-waifu">Roll Waifu</h3>
+
+<p>Aimar dan Adit suatu hari membawa MudaeBot.
+Brief description : Kaya bot di discord buat main gacha-gachaan dapat karakter anime. Hal ini membuat beberapa pertengkaran antara inside member circle pecinta kultur Jepang ini. 💮</p>
+
+<h4 id="ntr-dan-sniping">NTR dan Sniping</h4>
+
+<p>NTR itu semacam istilah tikung menikung yang bisa kalian cari sendiri artinya di internet, ga mau jadi Mr. Know It All. 👅 Jadi mekanisme gamenya kira kira seperti ini.</p>
+
+<ul>
+  <li>Setiap orang bisa claim waifu/husbu setiap tiga jam sekali.</li>
+  <li>Setiap orang bisa roll waifu/husbu sebanyak kira-kira 13 kali/jam/orang.</li>
+  <li>Char yang keluar, yang diroll orang bisa diclaim siapapun.</li>
+  <li>Snipe = Claim waifu rollan orang, yang kakeranya worth quite some atau charnya quite famous.</li>
+  <li>Setiap char ada kakera points, semacam In-Game Currencynya game ini.</li>
+  <li>Setiap orang punya waifu masing-masing.</li>
+  <li>Now fight.</li>
+</ul>
+
+<p>Karena Aimar somehow punya premium feature dari gamenya, (yang orang lain ga punya) dia bisa roll lebih banyak, sekitar 29 kali/jam, serta fitur-fitur penambah lucksack. Sering diabuse KOWAKOWAOKWA. Dari Kakera dia yang banyak, koleksi waifunya yang 4 pages, dan sering pula disnipe.</p>
+
+<h4 id="friendship-destroyer">Friendship Destroyer</h4>
+
+<p>Banyak kekesalan yang tidak berani diungkapkan oleh satu dan lain orang karena saling mengclaim waifu yang disukai orang lain. By rule, satu waifu bakal keluar sekali doang. Jadi bertarunglah 👊</p>
+
+<h4 id="joni-ga-punya-hati-">Joni Ga Punya Hati 💔</h4>
+
+<p>Hampir selalu marrylist nya cuma Emilia (Somehow ngetrade sama Aimar terus dapet). Setiap kali dapat waifu lain selalu di-divorce, buat dituker sama kakera. Bahkan Ram yang kakera pointsnya gede banget (Diukur pake semacam popularity rank survey) langsung dicerein &lt; 24 jam setelah dapat.</p>
+
+<h4 id="bitesthedust">BitesTheDust</h4>
+
+<p>Istilahnya semacam mempurge semua waifu dari marry list semua orang, dan diganti dengan kakera. Ya karena sekarang semua orang sudah kaya 💰, persaingannya jadi tidak barbar dan kebanyakan sudah merelakan hal ini. 🏩</p>
+
+<h3 id="game-addict-binge-watch-dark-sama-tower-of-god">Game Addict, Binge Watch Dark sama Tower of God</h3>
+
+<p>Setelah menonton rekomendasi Kevin Anggara tentang series netflix Dark, aku bingewatch dua season selama weekend. Jumat, Sabtu, Minggu. 😆 Outstanding Move.</p>
+
+<p>Oh ternyata Season tiga-nya sudah keluar saat membuat blog ini. Yay! Sudah kutonton juga.</p>
+
+<p>Setelah membaca chat Joni di grup pada hari terakhir setelah UAS, mengenai episode 12-nya yang baru keluar hari ini, saat membuat blog. Langsung bingewatch 12 episodes. Saat itu juga. 5 jam. 😆 Outstanding Move.</p>
+:ET
