@@ -1,30 +1,5 @@
 ---
-layout: default
+layout: home
+author_profile: true
+published: true
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Postingan Terbaru</h1>
-  <p style="font-size: smaller;">Im going to change the framework of this blog 😆. Gonna say this just so I remember doing this next time I see this lol 🌵.</p>
-  <hr style="height:2px;border-width:3;color:gray;background-color:gray;margin-bottom: 2em;margin-top: 2em;">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <div class="post-preview">
-          <div class="post-content">
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              <div style="font-size: medium;"> ✏️ {{ post.author }} </div>
-            </h2>
-            <div style="color: brown;"><font size = "3">Isinya apa sih ❓</font><br></div>
-            <font size = "4">{{ post.summary }}</font><br><br>
-            <a href="{{ post.url | prepend: site.baseurl }}">Buka gan... 🌜</a><br><br>
-          </div>
-          <img class="img-thumbnail" src= "{{ post. thumbnail }}"/>
-        </div>
-      </li>
-
-    {% endfor %}
-  </ul>
-</div>

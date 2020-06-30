@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts/
+
+  - title: "Pages"
+    url: /pages/
+
+  - title: "Tags"
+    url: /tags/
+
+  - title: "About"
+    url: /about/

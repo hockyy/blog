@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Blog Pertamaku!!!!"
-author: "Hocky Yudhiono"
-date:   2019-12-21 14:23:00 +0700
-thumbnail: "https://hockyy.github.io/blog/images/WhyTheDomain.jpeg"
-summary: Kalau yang ini bacot doang. WKWKWK 😆
+title: Blog Pertamaku!
+tags: [Random stuff, Jekyll, Liquid, CSS, Hacking]
+toc: true
+toc_label: "Contents"
+author_profile: true
+excerpt: My first post on this brand new blog (Not really first tho :1st_place_medal:). WKWKWK 😆
+published: true
 ---
 
 Halo semua! Setelah UAS :books:, mengumpulkan niat untuk memulai menulis blog lagi (Dulu pernah buat blog pengalaman main Line Rangers buat lomba kecil-kecilan gitu dapat juara 2 kalau ga salah :trophy:), menonton series Shigatsu wa Kimi no Uso (四月は君の嘘) yang sangat menyedihkan :violin: (Disclaimer saja aku bukan wibu, hanya kebetulan sudah terlanjur memulai beberapa animé jadi ya.. UωU) , menikmati dua potong pizza domino terakhir sisa tadi malam :pizza:, dan bingung mau nulis draft blog dimana, yaudah akhirnya pake Sublime Text aja :).

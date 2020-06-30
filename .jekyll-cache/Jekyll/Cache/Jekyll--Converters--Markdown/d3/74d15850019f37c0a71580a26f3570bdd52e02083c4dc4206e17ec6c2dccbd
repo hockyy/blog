@@ -1,0 +1,91 @@
+I"]<p>Welcome everyone to our introductory Python workshop. As we stated in the initial email, the purpose of this workshop is to help you dive into Python and do basic (or not so basic) data visualization, reading and writing files, prototyping processing workflows into reusable tools and more.</p>
+
+<h1 id="the-dry-details">The dry details:</h1>
+
+<ul>
+  <li><strong>When:</strong> Friday 27 July 2018; 09:30 - 16:30</li>
+  <li><strong>Where:</strong> CiTG KG 02.110</li>
+</ul>
+
+<hr />
+<h1 id="preparations">Preparations</h1>
+
+<p>We would like to jump directly into the workshop itself and not deal with support related issues on that day so please follow these steps prior to attending the workshop to get a functional python environment on your laptop.</p>
+
+<p>If you have a working python environment you can skip the next step and go directly to step <a href="#2.-Install-packages">#2</a> but please follow step <a href="#3.-Test-your-environment">#3</a> to test your environment.</p>
+
+<h2 id="1-download-miniconda">1. Download <a href="https://conda.io/miniconda.html">Miniconda</a>:</h2>
+
+<p><a href="https://conda.io/miniconda.html">Miniconda</a> is a mini version of <a href="https://www.anaconda.com/">Anaconda</a> that includes only <strong><code class="language-plaintext highlighter-rouge">conda</code></strong> and its dependencies. Follow the installation instruction (<a href="https://conda.io/docs/user-guide/install/linux.html#installing-on-linux">Linux</a>, <a href="https://conda.io/docs/user-guide/install/macos.html#installing-on-macos">OSX or macOS</a>) to get started on your system.</p>
+
+<p>In short, this will include:</p>
+
+<ol>
+  <li>Downloading the <code class="language-plaintext highlighter-rouge">Miniconda3-latest-*-x86_64.sh</code>, where <code class="language-plaintext highlighter-rouge">*</code> will be either <code class="language-plaintext highlighter-rouge">MacOSX</code> or <code class="language-plaintext highlighter-rouge">Linux</code>.</li>
+  <li>Installing miniconda by firing up the Terminal and typing:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre><span class="nb">cd </span>Downloads/
+bash Miniconda3-latest-<span class="k">*</span><span class="nt">-x86_64</span>.sh
+</pre></td></tr></tbody></table></code></pre></div>    </div>
+  </li>
+  <li>Agreeing to the <em>license terms</em> (type <code class="language-plaintext highlighter-rouge">yes</code>)</li>
+  <li>Accept the default install location proposed by the installer (press <em>Enter</em>)</li>
+  <li>Allow Miniconda to prepend the install location to the PATH (type <code class="language-plaintext highlighter-rouge">yes</code>)</li>
+</ol>
+
+<hr />
+<h2 id="2-install-packages">2. Install packages</h2>
+
+<p>Restart your Terminal so that the new entry to your PATH takes effect. You should now be able to type <code class="language-plaintext highlighter-rouge">conda</code> in the Terminal command prompt and see the conda help message.</p>
+
+<p>Conda is a smart tool for package, dependency and environment management for many languages. You can read more about it <a href="https://conda.io/docs/index.html">here</a>, <strong><em>but you don’t have to</em></strong>.</p>
+
+<p>To install the packages we need for the workshop copy and paste the following into the Terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>conda config <span class="nt">--add</span> channels conda-forge <span class="o">&amp;&amp;</span> conda <span class="nb">install</span> <span class="nt">-y</span> ipython notebook ipywidgets numpy scipy pandas gdal matplotlib basemap basemap-data-hires pillow cython sympy obspy
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>This may take a couple of minutes and will result is many other packages getting installed as <em>conda</em> takes care of package dependencies for you.</p>
+
+<hr />
+<h2 id="3-test-your-environment">3. Test your environment</h2>
+
+<p>To make sure you are <em>good-to-go</em>, type <code class="language-plaintext highlighter-rouge">jupyter-notebook</code> in the Terminal. A browser window should open and you should be able to start a new Python 3 Notebook.</p>
+
+<p><img src="images/jupyter-notebook.png" alt="jupyter-notebook" /></p>
+
+<p>Copy the following <code class="language-plaintext highlighter-rouge">import</code> commands to the code cell in the newly opened notebook session:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+</pre></td><td class="rouge-code"><pre><span class="kn">import</span> <span class="nn">numpy</span>
+<span class="kn">import</span> <span class="nn">scipy</span>
+<span class="kn">import</span> <span class="nn">pandas</span>
+<span class="kn">import</span> <span class="nn">gdal</span>
+<span class="kn">import</span> <span class="nn">matplotlib</span>
+<span class="kn">from</span> <span class="nn">mpl_toolkits.basemap</span> <span class="kn">import</span> <span class="n">Basemap</span>
+<span class="kn">import</span> <span class="nn">cython</span>
+<span class="kn">import</span> <span class="nn">sympy</span>
+<span class="kn">import</span> <span class="nn">obspy</span>
+<span class="kn">import</span> <span class="nn">ipywidgets</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p><img src="images/testing_imports.png" alt="testing_imports" /></p>
+
+<p>Execute the code in the cell by pressing <code class="language-plaintext highlighter-rouge">Shift</code> + <code class="language-plaintext highlighter-rouge">Enter</code> (<kbd>⇧↩</kbd>) or clicking the <button class="btn btn-default" title="Run" style="padding: 1px 5px"><i class="fa-step-forward fa"></i><span class="toolbar-btn-label">Run</span></button> button.</p>
+
+<p>It is alright if you get some warnings but if you get an error message please come see me so we can solve this before the workshop. If a new code cell is created like in the above screenshot you are <em>good-to-go</em>.</p>
+
+<hr />
+<h2 id="this-is-it-see-you-at-the-workshop">This is it. See you at the workshop…</h2>
+:ET

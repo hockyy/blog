@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Semester 2 - Fake It Till You Make It"
-author: "Hocky Yudhiono"
-date:   2020-06-18 12:36:40 +0700
-summary: Kalau yang ini <i>recap</i> juga, <i>lookback</i> through apa yang sudah kulalui di Semester dua-ku Fasilkom UI 💻. Dari kisah ikut lomba Arkavidia CP 🏆 sampai dibantai MatDas dan PSD 💯.
-thumbnail: "https://i.ibb.co/CB4MXWM/image.png"
+title: Semester 2 - Fake It Till You Make It
+tags: [Random stuff, Jekyll, Liquid, CSS, Hacking]
+toc: true
+toc_label: "Contents"
+author_profile: true
+excerpt: Isinya <i>lookback</i> through apa yang sudah kulalui di Semester dua-ku Fasilkom UI 💻. Dari kisah ikut lomba Arkavidia CP 🏆 sampai dibantai MatDas dan PSD 💯.
+published: true
 ---
 
 ## Pembukaan
@@ -15,16 +16,16 @@ Yooooo Akhirnya setelah selesai menjalani Ujian Akhir Semester di Fasilkom ini, 
 
 - Maaf kalau biasanya kalian mendengarku menggunakan kata ganti orang pertama lain saat sehari-hari seperti "*Gw*" atau "*Saya*". Tapi akan dicoba untuk membuat post ini se-aksen netral mungkin.
 - Dulu ngeditnya pake Sublime Text 3, tapi karena diracuni Samuel dan teman-teman lain saat Lab Dasar-Dasar Pemrograman 2, akhirnya mulai menggunakan VS Code, yang **holy cow**, super OP. 🐄🐄🐄
+
+<div align="center"><img src="https://i.ibb.co/Y7G3thN/1.png" alt="VS Code" width="600"/><br> <b><i>VS Code bisa gini kan keren 🔥</i></b></div>  
 - Udah lupa mau nulis apa pas awal-awal semester. Harusnya nge-blog setiap tiga bulan ya. Sad 😢.
 
-<div align="center"><img src="https://i.ibb.co/BcNG2xT/Kegiatan-Meme.jpg" alt="berita" width="300"/><br> <b><i>Berita gempa </i></b></div> <br>
-
+<div align="center"><img src="https://i.ibb.co/BcNG2xT/Kegiatan-Meme.jpg" alt="berita" width="300"/><br> <b><i>Prokrazz teross 🕙</i></b></div>  
 - Gila ini blog paling ngaret kelarnya. Karena setelah selesai UAS banyak sekali godaan-godaan tidak produktif iblis yang menggangguku 🙂
 
 - Parah pol *weh*. Jadi selama semester 2 ini aku sangat sering menggunakan aplikasi Focus To-Do, semacam *productivity app*, yang ada *to-do list* nya. Selain itu aplikasinya juga cross-platform, jadi semua yang aku taro di HP, bisa aku akses di PC. Kira-kira wujud appnya seperti ini.
 
-<img src="https://i.ibb.co/CB4MXWM/image.png" alt="image" border="0" width="500px" align="center">
-
+<div align="center"><img src="https://i.ibb.co/CB4MXWM/image.png" alt="berita" width="400"/><br> <b><i>Focus to Do ✈️</i></b></div>  
 - Tapi kegiatan ku lebih ke
   - Dota
   - Dota
@@ -36,7 +37,6 @@ Yooooo Akhirnya setelah selesai menjalani Ujian Akhir Semester di Fasilkom ini, 
   - Guilt
   - Repeat 😢
 - Ini blognya dibikin dari semangat-semangat sampe udah basi. Bikin blog kaya gini aja sebulan dong. ☹️
-- Maafkan aku Kak, yang ga becus jadi Koor TROC 😆 OWKOKAKOAOAW.
 - Kabur dulu sebelum dibantai 🏃.
 
 ## Daftar Isi
