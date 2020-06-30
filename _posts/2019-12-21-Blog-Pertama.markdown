@@ -1,6 +1,6 @@
 ---
 title: Blog Pertamaku!
-tags: [Random stuff, Jekyll, Liquid, CSS, Hacking]
+tags: [Random]
 toc: true
 toc_label: "Contents"
 author_profile: true

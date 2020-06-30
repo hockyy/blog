@@ -21,7 +21,7 @@ title_separator          : "|"
 name                     : &name "Hocky Yudhiono"
 description              : &description "Hocky's Life Scribble"
 url                      : "https://blog.hocky.codes" # the base hostname & protocol for your site
-baseurl                  : "/"
+baseurl                  : # "/blog"
 repository               : "hockyy/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)

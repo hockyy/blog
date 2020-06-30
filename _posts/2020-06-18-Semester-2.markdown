@@ -1,6 +1,6 @@
 ---
 title: Semester 2 - Fake It Till You Make It
-tags: [Random stuff, Jekyll, Liquid, CSS, Hacking]
+tags: [Blog Semesteran]
 toc: true
 toc_label: "Contents"
 author_profile: true

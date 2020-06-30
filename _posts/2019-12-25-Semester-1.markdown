@@ -1,6 +1,6 @@
 ---
 title: Semester 1 - Tidak Padat Tapi Terasa Sibuk
-tags: [Random stuff, Jekyll, Liquid, CSS, Hacking]
+tags: [Blog Semesteran]
 toc: true
 toc_label: "Contents"
 author_profile: true
