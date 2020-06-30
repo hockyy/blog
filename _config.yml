@@ -92,9 +92,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-119334578-1"
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 
@@ -202,7 +202,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
