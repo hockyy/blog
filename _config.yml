@@ -9,8 +9,8 @@
 title: Hocky's Life Scribble
 email: hocky.yudhiono@gmail.com
 description: A guy's perspective of his story, life, and achievements :tea:.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blog.hocky.codes" # the base hostname & protocol for your site
 # twitter_username: Hockyyyy
 github_username: hockyy
 gitlab_username: hocky
