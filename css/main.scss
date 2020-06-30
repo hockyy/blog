@@ -51,18 +51,3 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
-
-.post-preview{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 100%;
-}
-
-.img-thumbnail{
-    border-radius: 5%;
-    background: #bbf9ff;
-    padding: 0.2%;
-    max-width: 30%;
-    object-fit: cover;
-}
