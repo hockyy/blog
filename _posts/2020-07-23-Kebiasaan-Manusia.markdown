@@ -4,7 +4,7 @@ tags: [Kehidupan]
 toc: true
 toc_label: "Contents"
 author_profile: true
-excerpt: Pengalaman 
+excerpt: Gambaran kegiatanku pada liburan antara semester dua dan tiga yang sangat tidak produktif. 🤦‍
 published: true
 ---
 
