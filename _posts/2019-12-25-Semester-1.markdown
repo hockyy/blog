@@ -14,11 +14,11 @@ published: true
 
 Sebulan sebelum ada acara-acara penting bagian dari Orientasi Kampus aku udah ke Depok. Awalnya mau tinggal di asrama, namun *considering* tiap hari bakal pulang-pergi antar-provinsi nantinya ya ga jadi :sweat_smile: (Jokes sampah *mainstream* ku udah ga tertolong). Selain itu juga pas ditanya ternyata kamar yang sendiri sudah tidak ada. :blush: (Padahal pengen hedon aja tinggal di kos)
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2000.jpg" alt="berita" width="500"/><br> <b><i>Peta Daerah UI</i></b></div><br>
+<div align="center"><img src="https://i.ibb.co/Drw1M5Q/2000.jpg" alt="berita" width="500"/><br> <b><i>Peta Daerah UI</i></b></div><br>
 
 Julian sama Fausta juga kemungkinan besar bakal ngekos di daerah Kutek, lebih baik mencari kos yang sama biar bisa ~~minta traktir fausta habis pulang IOI~~ dihubungin kalau amit-amit terjadi apa-apa, misalnya ga bangun pas UAS atau tiba-tiba gempa gitu **Benaran ada gempa yang membuat *life span*-ku berkurang karena kaget pertama kali merasakan gempa** :worried:
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2001.png" alt="berita" width="700"/><br> <b><i>Berita gempa </i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/LtFyqWz/2001.png" alt="berita" width="700"/><br> <b><i>Berita gempa </i></b></div> <br>
 
 Satu bulan sebelumnya aku datang itu niat awalnya buat ikut DDP-0, mata kuliah inisiatif angkatan 2018-nya Fasilkom untuk mempersiapkan Dasar-Dasar Pemrograman biar ga kaget pas mulai kuliah. Menurut ku ini bantu banget, karena diberi asupan Python (Baca : *Bahasa Pemrograman nan Sakti Yang Ga Ada Syntaxnya*) **Sebenarnya ada syntaxnya** :satisfied: Astaga mohon maaf para pembaca, blog-ku memang sulit dimengerti.
 
@@ -84,7 +84,7 @@ Orang Random 1 : Berarti ga beli gpp? <br>
 . <br>
 Begitulah berlanjut sampai negara Api berbaikan :fire:
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2002.jpg" alt="okk" width="500"/><br><b><i>Program Cinta Kampus Make Baju OKK</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/5MvNTV8/2002.jpg" alt="okk" width="500"/><br><b><i>Program Cinta Kampus Make Baju OKK</i></b></div> <br>
 
 Pas acara puncak OKK, ya akhirnya semuanya juga make! Ada hal yang seru gitu pas acara puncak. Setiap fakultas kan ada acara Penerimaan Mahasiswa Barunya sendiri, istilahnya ospek fakultas/jurusan yang diarifkan dengan UI lah. Nah itu ada Komisi Disiplinnya, Pas acara puncaknya, itu kek registrasi nya pagi parah, dan ga diizinkan buat make kendaraan (Ojek, Motor, Mobil, Sepeda) :car: dan akhirnya ya jalan, ke Balairung-nya.
 
@@ -101,7 +101,7 @@ DDP ini intinya belajar *basic-basic* pemrograman, sistem bilangan, GUI dasar, *
 Dari yang aku amati, awal-awal masuk kuliah pada senang duduk depan, tapi lama kelamaan *Garis Pantai* nya mundur. (Kelas-kelas ku semester ini juga Begadang-friendly karena hampir semua masuk paling awal jam 10 dan hanya satu yang masuk jam 8. :yum:)
 
 Selama 1 semester ada 4 Tugas Pemrograman yang harus dikerjakan, tugas pemrogramannya super menyenangkan, dan keempat-empatnya GUI Dependent yang artinya interaksi dengan penggunanya diperhatikan parah. Biasanya 2~3 hari setelah TP-nya keluar udah aku kelarin TP-nya.
-<div align="center"><img src="https://hockyy.github.io/blog/images/2003.png" alt="meme" width="500"/><br> <b><i>Aku Senang Pak Stef juga Suka Comic Sans</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/LZZ7YR9/2003.png" alt="meme" width="500"/><br> <b><i>Aku Senang Pak Stef juga Suka Comic Sans</i></b></div> <br>
 
 Aku pribadi paling suka TP 2 (Membuat grafik frekuensi kemunculan kata) asik parah ngodingnya, yang entah kenapa banyak sekali revisi-revisi aneh yang muncul tiap hari. Kalau ga salah kaya gini : <br>
 * (rev. 1) Kata yang ada strip-nya dipisah menjadi dua kata yang berbeda :thinking:
@@ -157,7 +157,7 @@ Yang paling susah dari ICPC 2019 ialah, menentukan Nama Tim. Tapi aku tidak akan
 
 Aku diam-diam (tanpa diketahui siapapun) membeli 1 boneka yang bakal dijadiin maskot, macan yang kuberi nama **Gido**, tapi besar sekali dan aku mulai menyesal membeli boneka :disappointed:. Akhirnya.. aku, ya benar sekali.. membeli 1 boneka lagi, harimau cute parah yang kuberi nama **Fugi**. (Mohon maafkan aku Ibu dan Ayah apabila anakmu ini hedon, **Jangan baca blog ini pls** (**hehe bercanda**)) :grin: Tapi kali ini **Fugi** perfect pol dijadiin maskot, bahkan sudah dianggap jimat kemenangan tim-ku.
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2004.jpeg" alt="foto" width="400"/><br> <b><i>Quantasaurus Tiguerra Bersama Fugi dan Tappy</i></b></div>
+<div align="center"><img src="https://i.ibb.co/vHysdv9/2004.jpg" alt="foto" width="400"/><br> <b><i>Quantasaurus Tiguerra Bersama Fugi dan Tappy</i></b></div>
 
 ### Fisika Dasar
 
@@ -171,7 +171,7 @@ Kelas FisDas ku diajar oleh Bu Rina, yang hampir selalu memberikan latihan sehab
 
 Kelasnya Bu Rina juga unik parah, selain karena ada Mas Ahmad, Mas Aria, dan Mas Arya yang selalu mengisi kekocakan kelas, ada *sticky note* sakti yang mengetes apakah tadi malam kita ada belajar atau ga. Tentu saja *sticky note*-ku isinya "fakta-fakta" fisika yang kukarang sendiri. (Ya jarang belajar malam-nya mau gimana lagi :cry:)
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2005.jpeg" alt="meme" width="300"/><br> <b><i>Keluarkan Sticky Notenya!</i></b></div>
+<div align="center"><img src="https://i.ibb.co/CssC2qC/2005.jpg" alt="meme" width="300"/><br> <b><i>Keluarkan Sticky Notenya!</i></b></div>
 
 ### MPKO Tenis Meja
 
@@ -195,7 +195,7 @@ Tapi karena kelasnya yang sepi, dan adem, apalagi sore-sore pas jam-jam ngantuk 
 
 Materi-materinya juga bagus, dan mengajarkan kita untuk menganalisis *to the fullest.* Namun sayang sekali, biasanya saat UTS dan UAS materinya itu yang terbaru-terbaru, saat UTS aku memperkirakan akan keluar wacana mengenai kebakaran hutan :fire: dan benar saja keluar. Saat UAS aku memperkirakan wacana Hepatitis A yang mewabah, namun yang keluar malah polusi udara, padahal Cheatsheet ku sudah dipenuhi dengan 6 upaya penanganan Hepatitis A. :cry:
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2006.jpeg" alt="meme" width="300"/><br> <b><i>Malam Sebelum UAS</i></b></div>
+<div align="center"><img src="https://i.ibb.co/GkLXqJt/2006.jpg" alt="meme" width="300"/><br> <b><i>Malam Sebelum UAS</i></b></div>
 
 *Lesson learned*, baca ppt dan materi lama juga
 
@@ -217,7 +217,7 @@ Oke sekian review serius-nya, Matematika Diskret ini aku diajar oleh Pak Ari, da
 
 Aku juga selalu duduk depan di matkul ini (Semua matkul semester 1 ku sih), sehingga bisikan-bisikan gumaman kecil ku sering kedengaran. Sampai pernah terjadi seperti ini.
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2007.jpeg" alt="meme" width="300"/><br> <b><i>Suaraku Ya Emang Besar, Berbisik Juga Kedengaran :"</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/k5nRnnt/2007.jpg" alt="meme" width="300"/><br> <b><i>Suaraku Ya Emang Besar, Berbisik Juga Kedengaran :"</i></b></div> <br>
 
 Tugas-tugasnya juga menyenangkan karena membantu sekali saat Ujian. Namun tugas terakhir bagian kombinatorik nya menimbulkan banyak sensasi, karena revisinya banyak. Ada sebuah soal yang mungkin satu angkatan belum dapat menuliskan bukti formal-nya, sehingga soalnya direvisi. :open_mouth:. Sampai sekarang aku masih penasaran dengan solusi soal tersebut. Ini soalnya sebelum direvisi btw:
 
@@ -280,7 +280,7 @@ Pengalaman mengesankan selanjutnya, karena aku sudah mengambil jatah izin dua ha
 
 Penerimaan Mahasiswa Baru di Fasilkom seru parah. Satu angkatan dibagi menjadi 9 kelompok besar dan aku mendapat kelompok korea. Disini aku ketemu Andrew dan Garry yang sampai sekarang masih dekat karena emang orangnya kocak banget. Andrew ini temannya Fidella (Teman Pelatnas-ku) sehingga entah kenapa sepertinya friend bonding ku dengan Andrew sangat singkat. Kita bahkan sempat ngedit [video kelompok besar](https://www.youtube.com/watch?v=42jwz8vHhZA) bareng di kosnya Andrew yang internetnya kenceng parah dan aku pulang jam 9an WKWK. :sunglasses:
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/2008.png" alt="foto" width="600"/><br> <b><i>Foto Mengenal Angkatan</i></b></div>
+<div align="center"><img src="https://i.ibb.co/BVcbvb6/2008.png" alt="foto" width="600"/><br> <b><i>Foto Mengenal Angkatan</i></b></div>
 
 Sepertinya kalau aku Spoiler banyak bisa jadi kurang seru untuk pengalaman angkatan 2020++, jadi segitu saja tentang PMB. Tapi aku senang bisa mendapat IKM aktif (Aku pengen jadi PIC CPC Compfest 2021) dan ikut organisasi lain. WK :joy:
 

@@ -25,5 +25,5 @@ Dulu pernah liat blognya Kak Fairuzi yang pake github, sepertinya bau-bau gratis
 Apakah aku harus punya domain juga?
 Selain buat diisi dengan blog bisa buat proyek lain? Hmm.. Ya sudah lah. Semoga lancar ya perjalanan blog ini :smile:! Kalau tidak malas mengisi blog kemungkinan besar aku akan punya domain sendiri juga. Tapi sepertinya ga bakal hocky(dot)com karena beberapa alasan :upside_down_face:.
 
-<div align="center"><img src="https://hockyy.github.io/blog/images/WhyTheDomain.jpeg" alt="meme" width="200"/><br> <b><i>Mencari domain yang cocok untuk blog-ku </i></b></div>
+<div align="center"><img src="https://i.ibb.co/1GXqCym/Why-The-Domain.jpg" alt="meme" width="200"/><br> <b><i>Mencari domain yang cocok untuk blog-ku </i></b></div>
 
