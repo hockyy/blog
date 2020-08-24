@@ -1,0 +1,13 @@
+---
+title: Testing LaTeX on My Posts!
+tags: [Competitive Programming]
+toc: true
+toc_label: "Contents"
+author_profile: true
+excerpt: Me testing some cool latex stuffs.
+published: true
+---
+
+## Content
+
+$$ O(n) $$
