@@ -42,7 +42,7 @@ int main(){
 
 As you can see, we don't need to store all the string, just compare the index of the shift. we find the first index where it differs, then check whether the first difference is smaller or larger, if it's smaller, we maintain the smaller index. Don't forget to put break after we found the first different character. 💚
 
-Time Complexity: $$$O(N)
+Time Complexity: $O(N)$
 
 ## Subtask 2 (N <= 100000)
 

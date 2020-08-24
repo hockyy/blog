@@ -10,4 +10,71 @@ published: true
 
 ## Content
 
-$$ O(n) $$
+The algorithm I write have the complexity of $O(n)$.  
+By hand, we can proof that $e^{i\pi}+1 = 0$, therefore **God** exists.
+
+## Nungguin Nasi (TSOC #2 Problem A)
+
+<h3 id="description" style="text-align: justify;">Description</h3>
+
+<p style="text-align: justify;"><em>Nungguin Nasi</em> means Waiting for the Rice in Bahasa Indonesia.<em> Nasi Ayam</em> and <em>Nasi Bebek</em> are foods that are commonly served in Indonesia.</p>
+
+<p style="text-align: justify;">There are $$$A$$$ <em>Nasi Ayam</em> and $$$B$$$ <em>Nasi Bebek</em> placed on one place. They are all wrapped up in an indistinguishable food wrap such that you do not know their content. $$$A+B$$$ people, including Pak Dengklek, will queue up for the food. Each person will take one of the remaining food uniformly at random.</p>
+
+<p style="text-align: justify;">Pak Dengklek loves <em>Nasi Bebek</em>. In which position must Pak Dengklek queue up such that the probability Pak Dengklek will receive <em>Nasi Bebek</em> is maximized? If there are multiple positions that maximize the probability, you may output any of them.</p>
+
+<p style="text-align: justify;">Positions are numbered from $$$1$$$ to $$$A+B$$$, where position $$$1$$$ is be the first person to receive the food.</p>
+
+<h3 id="input-format" style="text-align: justify;">Input Format</h3>
+
+<p style="text-align: justify;">The first line is as follows:</p>
+
+<pre style="text-align: justify;">
+<code><span class="hljs-attribute">T</span>
+</code></pre>
+
+<p style="text-align: justify;">Then, $$$T$$$ test cases follow. Each test case is given in the following format:</p>
+
+<pre style="text-align: justify;">
+A B
+</pre>
+
+<h3 id="output-format" style="text-align: justify;">Output Format</h3>
+
+<p style="text-align: justify;">For each case, print one line containing one integer representing the position Pak Dengklek must queue up to maximize the probability.</p>
+
+<h3 id="sample-input" style="text-align: justify;">Sample Input</h3>
+
+<pre style="text-align: justify;">
+<code><span class="hljs-number">2</span>
+<span class="hljs-symbol">3 </span><span class="hljs-number">5</span>
+<span class="hljs-symbol">1234 </span><span class="hljs-number">567</span>
+</code></pre>
+
+<h3 id="sample-output" style="text-align: justify;">Sample Output</h3>
+
+<pre style="text-align: justify;">
+<code><span class="hljs-number">7</span>
+<span class="hljs-number">1800</span>
+</code></pre>
+
+<h3 id="constraints" style="text-align: justify;">Constraints</h3>
+
+<p style="text-align: justify;">For both easy and hard versions:</p>
+
+<ul>
+	<li style="text-align: justify;">$$$1 &le; T &le; 10$$$.</li>
+	<li style="text-align: justify;">$$$1 &le; A+B$$$.</li>
+</ul>
+
+<h4 id="easy-version" style="text-align: justify;">Easy version</h4>
+
+<ul>
+	<li style="text-align: justify;">$$$0 &le; A, B &le; 100$$$.</li>
+</ul>
+
+<h4 id="hard-version" style="text-align: justify;">Hard version</h4>
+
+<ul>
+	<li style="text-align: justify;">$$$0 &le; A, B &le; 10^5$$$.</li>
+</ul>
