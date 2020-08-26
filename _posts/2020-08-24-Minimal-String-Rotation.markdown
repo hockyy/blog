@@ -10,7 +10,7 @@ published: true
 
 ## Problem Statement
 
-So recently, I checked out CodeForces's Edu. I read the course about suffix array. It's a shame for me not to understand that topic yet. But to start off real, I encounter a similar problem which maybe related to it. Checkt this one out, you should. [Minimal Rotation](https://cses.fi/problemset/task/1110/) 👍
+So recently, I checked out CodeForces's Edu. I read the course about suffix array. It's a shame for me not to understand that topic yet. But to start off real, I encounter a similar problem which maybe related to it. Check this one out, you should. [Minimal Rotation](https://cses.fi/problemset/task/1110/) 👍
 
 ## Subtask 1 (N <= 1,000)
 

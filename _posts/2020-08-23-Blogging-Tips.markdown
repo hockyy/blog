@@ -155,11 +155,13 @@ You get the point. If it's empty, it's not capturing anything. If you wanna pass
 
 Here is how you recurse:
 ```c++
-auto dfs = [&dfs, adjList] (int pos){
+function<void(int)> dfs = [&] (int pos){
   // Do your stuffs here
 };
 y(1, 6);
 ```
+
+You have to use the function thing, the generic inside is `return_value(parameter)`.
 
 Use this code at your own risk and don't forget to google stuffs. all of the above might be a lie or even can't be compiled. HAHAHAHAHAHA. Just wanna show you how you can do stuffs out of context. 😆
 
