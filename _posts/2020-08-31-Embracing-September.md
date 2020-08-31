@@ -119,7 +119,7 @@ Awas kalau ada yang ngelawan. ⚔️
 
 Mungkin karena nasib summerku yang tragis, aku udah mulai ga peduli dengan rating lagi, jadi aku cuma kontes, lomba-lomba, dan CP for Fun aja. 🚛
 
-<div align="center"><img src="https://i.ibb.co/6BDWt2B/less.png" alt="cp-for-fun" width=200"/><br> <b><i>CP For Fun</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/6BDWt2B/less.png" alt="cpforfun" width="200"/><br> <b><i>CP For Fun</i></b></div> <br>
 
 Duh aku ga tau mau isi pakai apa bagian ini. HAHHAHAHHA.
 
