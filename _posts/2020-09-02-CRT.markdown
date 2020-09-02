@@ -78,24 +78,32 @@ Whoa! It's intuitive that we can conclude these statements:
 - But which? Observe that the absolute difference of the right side must be divisible by gcd of $4$ and $6$, which is $2$.
 - In this case, $2-1 = 1$ is not divisible by 2.
 - On another case this system has a solution. You should see why now.
+  
 $$
     x ≡ 1 \pmod{4} \\
-    x ≡ 5 \pmod{6} \\
+    x ≡ 5 \pmod{6}
 $$
-- The proof this implication is quite trivial and left for the reader as an exercise.
+
+- The proof of this implication is quite trivial and left for the reader as an exercise. 
+
 $$
     x ≡ a \bmod{b.k} ⟹ x ≡ a \bmod{b}
 $$
+
 - Later, you will find out that the first system:
+  
 $$
     x ≡ 1 \pmod{4} \\
-    x ≡ 2 \pmod{6} \\
+    x ≡ 2 \pmod{6}
 $$
+
 - Implies:
+
 $$
     x ≡ 1 \pmod{2} \\
-    x ≡ 0 \pmod{2} \\
+    x ≡ 0 \pmod{2}
 $$
+
 - Which is a contradiction, that's why the system leads to no solution!
 
 ## Subtask 3 (k = 2)
@@ -104,7 +112,7 @@ Now, a more general case!
 
 $$
 x ≡ a_1 \pmod{n_1} \\
-x ≡ a_2 \pmod{n_2} \\
+x ≡ a_2 \pmod{n_2}
 $$
 
 <p style="text-align: center;"><iframe height="300" src="https://editor.p5js.org/hocky/embed/kLNN-wohw" width="450"></iframe></p>
@@ -134,7 +142,7 @@ $$
 x ≡ a_1 \pmod{n_1} \\
 x ≡ a_2 \pmod{n_2} \\
 ⋮  \\
-x ≡ a_k \pmod{n_k} \\
+x ≡ a_k \pmod{n_k}
 $$
 
 We can simply compute the first and second equation first, then compute the result of first and second with the third, etc. The code will be like this.

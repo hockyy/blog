@@ -19,13 +19,13 @@ $$
 x ≡ a_1 \pmod{n_1} \\
 x ≡ a_2 \pmod{n_1} \\
 ⋮  \\
-x ≡ a_k \pmod{n_k} \\
+x ≡ a_k \pmod{n_k}
 $$
 
 
 $$
   x ≡ 1 \pmod{3} \\
-  x ≡ 4 \pmod{5} \\
+  x ≡ 4 \pmod{5}
 $$
 
 ## Nungguin Nasi (TSOC #2 Problem A)
