@@ -36,10 +36,10 @@ Let's consider this problem.
 Find x, such that this satisfy the x.
 
 $$
-\begin{dcases}
+
     x ≡ 1 \pmod{3} \\
     x ≡ 4 \pmod{5} \\
-\end{dcases}
+
 $$
 
 Well, if you're familiar with discrete mathematics, maybe you'll try to grab your paper and start to write some weird formulas to find the inverse of a number modulo another number.
@@ -57,10 +57,10 @@ Whoa! It's quite intuitive that we can conclude these statements
 Let's try another case!
 
 $$
-\begin{dcases}
+
     x ≡ 1 \pmod{4} \\
     x ≡ 2 \pmod{6} \\
-\end{dcases}
+
 $$
 
 This one looks a bit weird.  
@@ -76,31 +76,25 @@ Whoa! It's intuitive that we can conclude these statements:
 
 - Not all $24$ possibilities of $a_1$ and $a_2$ are actually traversed through within the lcm of $4$ and $6$, which is $12$.
 - But which? Observe that the absolute difference of the right side must be divisible by gcd of $4$ and $6$, which is $2$.
-- In this case, $|2-1| = 1$ is not divisible by 2.
+- In this case, $2-1 = 1$ is not divisible by 2.
 - On another case this system has a solution. You should see why now.
 $$
-\begin{dcases}
     x ≡ 1 \pmod{4} \\
     x ≡ 5 \pmod{6} \\
-\end{dcases}
 $$
 - The proof this implication is quite trivial and left for the reader as an exercise.
 $$
-    x ≡ a \mod{b.k} ⟹ x ≡ a \mod{b}
+    x ≡ a \bmod{b.k} ⟹ x ≡ a \bmod{b}
 $$
 - Later, you will find out that the first system:
 $$
-\begin{dcases}
     x ≡ 1 \pmod{4} \\
     x ≡ 2 \pmod{6} \\
-\end{dcases}
 $$
 - Implies:
 $$
-\begin{dcases}
     x ≡ 1 \pmod{2} \\
     x ≡ 0 \pmod{2} \\
-\end{dcases}
 $$
 - Which is a contradiction, that's why the system leads to no solution!
 

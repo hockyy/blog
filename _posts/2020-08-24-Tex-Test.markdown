@@ -24,14 +24,8 @@ $$
 
 
 $$
-\begin{dcases}
-    x ≡ 1 \pmod{3} \\
-    x ≡ 4 \pmod{5} \\
-    0 & x\leq a \\
-    \frac{x-a}{b-a} & a\leq x\leq b \\
-    \frac{c-x}{c-b} & b\leq x\leq c \\
-    1 & c\leq x \\
-\end{dcases}
+  x ≡ 1 \pmod{3} \\
+  x ≡ 4 \pmod{5} \\
 $$
 
 ## Nungguin Nasi (TSOC #2 Problem A)
