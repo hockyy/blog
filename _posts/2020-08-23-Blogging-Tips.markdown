@@ -47,7 +47,7 @@ The result will be like
 
   <div align="center"><img src="https://i.ibb.co/n6662w4/rickroll.jpg" alt="rickroll" width="400"/><br> <b><i>Never Gonna Give You Up</i></b></div> <br>
 
-  <strike>Never Gonna Let You Down</strike> 
+  <strike>Never Gonna Let You Down</strike>   
   > Never gonna run around and desert you
 </details>
 

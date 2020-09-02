@@ -93,9 +93,9 @@ int main(){
 
 It basically is the same with the previous solution, the catch is to skip the equal prefix, you can use binary search instead, find the first index where the character is different. 💯
 
-Time Complexity: $O(N\ log(N))$
+Time Complexity: $O(N \log{N})$
 
 
-## Subtask 3 (N <= 100,000,000)
+## Subtask 3 (N <= 10,000,000)
 
-$O(N\ log(N))$ with large constant would definitely fail here. We need a better solution. 
+$O(N\log{N})$ with large constant would definitely fail here. We need a better solution. 

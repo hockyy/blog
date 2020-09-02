@@ -13,6 +13,27 @@ published: true
 The algorithm I write have the complexity of $O(n)$.  
 By hand, we can proof that $e^{i\pi}+1 = 0$, therefore **God** exists.
 
+<p style="text-align: center;"><iframe height="300" scrollable="no" src="https://editor.p5js.org/hocky/embed/URWS0ZLv" width="450"></iframe></p>
+
+$$
+x ≡ a_1 \pmod{n_1} \\
+x ≡ a_2 \pmod{n_1} \\
+⋮  \\
+x ≡ a_k \pmod{n_k} \\
+$$
+
+
+$$
+\begin{dcases}
+    x ≡ 1 \pmod{3} \\
+    x ≡ 4 \pmod{5} \\
+    0 & x\leq a \\
+    \frac{x-a}{b-a} & a\leq x\leq b \\
+    \frac{c-x}{c-b} & b\leq x\leq c \\
+    1 & c\leq x \\
+\end{dcases}
+$$
+
 ## Nungguin Nasi (TSOC #2 Problem A)
 
 <h3 id="description" style="text-align: justify;">Description</h3>

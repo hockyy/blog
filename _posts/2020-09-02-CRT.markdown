@@ -1,0 +1,192 @@
+---
+title: Chinese Remainder Theorem
+tags: [Competitive Programming, Number Theory]
+toc: true
+toc_label: "Contents"
+author_profile: true
+excerpt: An attempt of me trying to explain Chinese Remainder Theorem, in a perspective of competitive programming. 💻
+published: true
+---
+
+## Pre-Requisite
+
+Go learn yourself some number theory. At least you should be familiar with this:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KmhCKxFWOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Credit: [John Bowers](https://www.youtube.com/channel/UCnwXu-Ji4_i3TpTU7YkvnBg)
+
+## Problem Statement
+
+Given pairwise coprime positive integers $n_1, n_2, ..., n_k$ and arbitrary integers $a_1, a_2, ..., a_k$, the system of simultaneous congruences
+
+$$
+x ≡ a_1 \pmod{n_1} \\
+x ≡ a_2 \pmod{n_2} \\
+⋮  \\
+x ≡ a_k \pmod{n_k} \\
+$$
+
+> Lmao this is literally the same with brilliant.org's blog about CRT  
+
+> Well, yes. But actually no. Ill try to explain it from here.
+
+## Subtask 1 (Open Subtask)
+Let's consider this problem.  
+Find x, such that this satisfy the x.
+
+$$
+\begin{dcases}
+    x ≡ 1 \pmod{3} \\
+    x ≡ 4 \pmod{5} \\
+\end{dcases}
+$$
+
+Well, if you're familiar with discrete mathematics, maybe you'll try to grab your paper and start to write some weird formulas to find the inverse of a number modulo another number.
+
+But let's take a quick peek on the bruteforce table.
+
+<div align="center"><img src="https://i.ibb.co/1qrGTck/CRT.png" alt="crt" width="600"/><br> <b><i>Weird Table</i></b></div> <br>
+
+Whoa! It's quite intuitive that we can conclude these statements
+- The table has a cycle with size the lcm of $3$ and $5$.
+- All $15$ combinations of possible $a_1$ and $a_2$ are unique and all solutions are actually traversed through within the lcm of $3$ and $15$, which is $15$.
+
+## Subtask 2 (Another Open Subtask)
+
+Let's try another case!
+
+$$
+\begin{dcases}
+    x ≡ 1 \pmod{4} \\
+    x ≡ 2 \pmod{6} \\
+\end{dcases}
+$$
+
+This one looks a bit weird.  
+
+But let's take another quick peek on the bruteforce table.
+
+<div align="center"><img src="https://i.ibb.co/HxRrb3R/CRT2.png" alt="crt" width="600"/><br> <b><i>Weird Table</i></b></div> <br>
+
+Whoa! It's intuitive that we can conclude these statements:
+- The table has a cycle with size the lcm of $4$ and $6$, and it's $12$.
+
+<div align="center"><img src="https://i.ibb.co/Pxfm8C4/holdup.png" alt="holdup" width="300"/><br> <b><i>Me Trying to Learn CRT Be Like</i></b></div> <br>
+
+- Not all $24$ possibilities of $a_1$ and $a_2$ are actually traversed through within the lcm of $4$ and $6$, which is $12$.
+- But which? Observe that the absolute difference of the right side must be divisible by gcd of $4$ and $6$, which is $2$.
+- In this case, $|2-1| = 1$ is not divisible by 2.
+- On another case this system has a solution. You should see why now.
+$$
+\begin{dcases}
+    x ≡ 1 \pmod{4} \\
+    x ≡ 5 \pmod{6} \\
+\end{dcases}
+$$
+- The proof this implication is quite trivial and left for the reader as an exercise.
+$$
+    x ≡ a \mod{b.k} ⟹ x ≡ a \mod{b}
+$$
+- Later, you will find out that the first system:
+$$
+\begin{dcases}
+    x ≡ 1 \pmod{4} \\
+    x ≡ 2 \pmod{6} \\
+\end{dcases}
+$$
+- Implies:
+$$
+\begin{dcases}
+    x ≡ 1 \pmod{2} \\
+    x ≡ 0 \pmod{2} \\
+\end{dcases}
+$$
+- Which is a contradiction, that's why the system leads to no solution!
+
+## Subtask 3 (k = 2)
+
+Now, a more general case!
+
+$$
+x ≡ a_1 \pmod{n_1} \\
+x ≡ a_2 \pmod{n_2} \\
+$$
+
+<p style="text-align: center;"><iframe height="300" src="https://editor.p5js.org/hocky/embed/kLNN-wohw" width="450"></iframe></p>
+
+Alright, so we got the brainy and tricky method.
+
+### Gauss' Method
+
+<div align="center"><img src="https://i.ibb.co/DtCVGDp/Gauss.png" alt="gauss" width="600"/><br> <b><i>Gauss' Method</i></b></div> <br>
+
+HAHAHHA Just tried my new pen tablet.
+
+It's pretty easy and weird for k = 2.
+
+### Algebraic Method
+
+<div align="center"><img src="https://i.ibb.co/XSDhYmd/Algebra.png" alt="algebra" width="600"/><br> <b><i>Algebraic Method</i></b></div> <br>
+
+> Wait what? I don't remember CRT being this simple.  
+> Turns out, in school and university, Gauss' Method *to be fair* is actually faster to hand-count (for k > 2), so some of us were taught using that method.
+
+## Subtask 4 (k > 2)
+
+### Algebraic Method
+
+$$
+x ≡ a_1 \pmod{n_1} \\
+x ≡ a_2 \pmod{n_2} \\
+⋮  \\
+x ≡ a_k \pmod{n_k} \\
+$$
+
+We can simply compute the first and second equation first, then compute the result of first and second with the third, etc. The code will be like this.
+
+```c++
+ll euclid(ll a, ll b, ll &x, ll &y) {
+    if (b) { ll d = euclid(b, a % b, y, x);
+        return y -= a/b * x, d; }
+    return x = 1, y = 0, a;
+}
+
+ll crt(ll a, ll m, ll b, ll n) {
+    if (n > m) swap(a, b), swap(m, n);
+    ll x, y, g = euclid(m, n, x, y);
+    assert((a - b) % g == 0); // else no solution
+    x = (b - a) % n * x % n / g * m + a;
+    // (b - a) % n * x % n / g is the x we talked about
+    // g is the gcd of n and m
+    return x < 0 ? x + m*n/g : x;
+}
+
+ll getInverse(ll n, ll p){
+    assert(__gcd(n,p) == 1);
+    ll x,y; euclid(n,p,x,y);
+    return (x%p+p)%p;
+}
+
+ll crt(vector <pair<ll, ll> eq){
+    pair <ll, ll> res = {0, 1};
+    for(auto &cur : eq){
+        ll nxlcm = (res.se*cur.se)/__gcd(res.se*cur.se);
+        res = {crt(res.fi, res.se, cur.fi, cur.se), nxlcm};
+    }
+}
+```
+
+> I didn't try to run the program. But the implementation is more or less like this.
+
+Time Complexity : $O(N\log{N})$
+
+### Gauss' Method
+
+<div align="center"><img src="https://i.ibb.co/wSMPn2D/Gauss-Long.png" alt="gausslong" width="600"/><br> <b><i>Gauss' For k > 2</i></b></div> <br>
+
+Time Complexity : $O(N\log{N})$
+
+More or less the same. But if you don't have a computer, Gauss' Method is your way to go!
+
+That's it! Now go and get some AC(s)!!!
