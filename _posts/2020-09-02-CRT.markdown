@@ -46,7 +46,7 @@ Well, if you're familiar with discrete mathematics, maybe you'll try to grab you
 
 But let's take a quick peek on the bruteforce table.
 
-<div align="center"><img src="https://i.ibb.co/1qrGTck/CRT.png" alt="crt" width="600"/><br> <b><i>Weird Table</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/1qrGTck/CRT.png" alt="crt" width="600"/><br> <b><i>Weird Table</i></b></div>
 
 Whoa! It's quite intuitive that we can conclude these statements
 - The table has a cycle with size the lcm of $3$ and $5$.
@@ -67,12 +67,12 @@ This one looks a bit weird.
 
 But let's take another quick peek on the bruteforce table.
 
-<div align="center"><img src="https://i.ibb.co/HxRrb3R/CRT2.png" alt="crt" width="600"/><br> <b><i>Weird Table</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/HxRrb3R/CRT2.png" alt="crt" width="600"/><br> <b><i>Weird Table</i></b></div>
 
 Whoa! It's intuitive that we can conclude these statements:
 - The table has a cycle with size the lcm of $4$ and $6$, and it's $12$.
 
-<div align="center"><img src="https://i.ibb.co/Pxfm8C4/holdup.png" alt="holdup" width="300"/><br> <b><i>Me Trying to Learn CRT Be Like</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/Pxfm8C4/holdup.png" alt="holdup" width="300"/><br> <b><i>Me Trying to Learn CRT Be Like</i></b></div>
 
 - Not all $24$ possibilities of $a_1$ and $a_2$ are actually traversed through within the lcm of $4$ and $6$, which is $12$.
 - But which? Observe that the absolute difference of the right side must be divisible by gcd of $4$ and $6$, which is $2$.
@@ -121,7 +121,7 @@ Alright, so we got the brainy and tricky method.
 
 ### Gauss' Method
 
-<div align="center"><img src="https://i.ibb.co/DtCVGDp/Gauss.png" alt="gauss" width="600"/><br> <b><i>Gauss' Method</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/DtCVGDp/Gauss.png" alt="gauss" width="600"/><br> <b><i>Gauss' Method</i></b></div>
 
 HAHAHHA Just tried my new pen tablet.
 
@@ -129,7 +129,7 @@ It's pretty easy and weird for k = 2.
 
 ### Algebraic Method
 
-<div align="center"><img src="https://i.ibb.co/XSDhYmd/Algebra.png" alt="algebra" width="600"/><br> <b><i>Algebraic Method</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/XSDhYmd/Algebra.png" alt="algebra" width="600"/><br> <b><i>Algebraic Method</i></b></div>
 
 > Wait what? I don't remember CRT being this simple.  
 > Turns out, in school and university, Gauss' Method *to be fair* is actually faster to hand-count (for k > 2), so some of us were taught using that method.
@@ -185,7 +185,7 @@ Time Complexity : $O(N\log{N})$
 
 ### Gauss' Method
 
-<div align="center"><img src="https://i.ibb.co/wSMPn2D/Gauss-Long.png" alt="gausslong" width="600"/><br> <b><i>Gauss' For k > 2</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/wSMPn2D/Gauss-Long.png" alt="gausslong" width="600"/><br> <b><i>Gauss' For k > 2</i></b></div>
 
 Time Complexity : $O(N\log{N})$
 
