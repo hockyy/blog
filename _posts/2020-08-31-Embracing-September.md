@@ -17,7 +17,7 @@ published: true
 - Aku sempat browsing, yang benar itu `ataupun` atau `atau pun`. Saat browsing di google, terlihat sangat aneh syntaxnya. 💯
 - Baru sadar kalau emoji di Windows tidak bisa me-render bendera negara. 😦
 
-<div align="center"><img src="https://i.ibb.co/XSfrxJK/Flag-Emoji.png" alt="noflagemojiwindows" width="400"/><br> <b><i>Windows 4 - 1 Linux</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/XSfrxJK/Flag-Emoji.png" alt="noflagemojiwindows" width="400"/><br> <b><i>Windows 4 - 1 Linux</i></b></div>
 
 ## Jiwa Seni
 
@@ -35,7 +35,7 @@ Jadi aku menghabiskan beberapa waktu untuk belajar photoshop. Misalnya dalam car
 
 Untuk membuat ilustrasi, biasanya aku mengumpulkan *assets/sprite*, inspirasi, dan ide. Kira-kira nanti akan jadi seperti apa. 🎱
 
-<div align="center"><img src="https://i.ibb.co/82XS7vP/Assets.png" alt="ilustrasi-aset" width="300"/><br> <b><i>Assets Ilustrasi</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/82XS7vP/Assets.png" alt="ilustrasi-aset" width="300"/><br> <b><i>Assets Ilustrasi</i></b></div>
 
 Kalau aku pribadi, cenderung lebih suka ilustrasi yang berbentuk platform 2D. Jadi aku cari assets-assets game gratisan yang tidak perlu atribusi dan credits. Banyak kok di internet. 🏮
 
@@ -51,7 +51,7 @@ Aku ngerasa juga photoshopku agak ngelag, jadi aku tingkatkan RAM yang bisa dipa
 
 Nah kalau aku biasanya suka bikin animated gifs. Jadi kamu bisa pencet `Window` di menu bar di atas. Kamu bisa centang bagian timeline, buat keluarin framenya.
 
-<div align="center"><img src="https://i.ibb.co/J71W4TS/Timeline.png" alt="photoshop-timeline" width="400"/><br> <b><i>Photoshop Timeline Setting</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/J71W4TS/Timeline.png" alt="photoshop-timeline" width="400"/><br> <b><i>Photoshop Timeline Setting</i></b></div>
 
 Tampilannya kira-kira bakal begini, kamu bisa buka configurationsnya terus bisa **uncheck** `New Layers Visible in All Frames` Ini yang buat independensi setiap framenya. 💯
 
@@ -72,7 +72,7 @@ Kalau pengen komponen baru, kamu bisa simply `Alt + Drag` objeknya, jangan lupa 
 
 Nah basically dengan itu kamu udah bisa kerja dengan cepat. Kamu animatenya per-slide. Jangan lupa propagate frame 1 itu konsepnya juga lumayan penting. Jadi semua yang dilakukan di frame 1, itu add-ons layernya bakal keikut di semua frame. 📷
 
-<div align="center"><img src="https://i.ibb.co/wrdznFy/Sticker-Laptop.jpg" alt="sticker-laptop" width="300"/><br> <b><i>Sticker Laptopku Baru Discrape Karena Lepas</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/wrdznFy/Sticker-Laptop.jpg" alt="sticker-laptop" width="300"/><br> <b><i>Sticker Laptopku Baru Discrape Karena Lepas</i></b></div>
 
 Aku suka sticker. Aku suka menempel laptopku dengan sticker. Jadi aku suka cari desain sticker yang bagus, terus aku pesan cetak sendiri. 📎
 
@@ -80,7 +80,7 @@ Aku suka sticker. Aku suka menempel laptopku dengan sticker. Jadi aku suka cari 
 
 WKWKKW. Jadi, kira-kira yang aku collage kaya gini stickersnya. Itu ukuran A3, jadi tinggal aku gunting dan aku print setelah dicetak.
 
-<div align="center"><img src="https://i.ibb.co/MnL2cbw/Contoh-Sticker.png" alt="sticker-ku" width="200"/><br> <b><i>Desain Stickerku</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/MnL2cbw/Contoh-Sticker.png" alt="sticker-ku" width="200"/><br> <b><i>Desain Stickerku</i></b></div>
 
 Dih kau mau ngatain aku wibu terserah kau lah sial. 😆
 
@@ -90,7 +90,7 @@ Intinya, kita tau kalau biasanya ukuran layar laptop itu bermacam-macam, tapi re
 
 Ini buat apa? Kalau kita tahu PPI nya, kita bisa setting photoshop, sehingga bisa atur zoomnya ke print size, atau ukuran dunia nyata. Jadi kalau kamu ukur pake penggaris, itu ukurannya pas dengan penggarismu di dunia nyata.
 
-<div align="center"><img src="https://i.ibb.co/p0wzM2X/PPI.png" alt="ppi-calculator" width="400"/><br> <b><i>PPI Calculator</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/p0wzM2X/PPI.png" alt="ppi-calculator" width="400"/><br> <b><i>PPI Calculator</i></b></div>
 
 Bisa dibuka di [PPI Calculator](https://www.sven.de/dpi/) buat calculatornya.
 
@@ -107,7 +107,7 @@ Konon katanya dulu pakai galon, tapi Papaku pas angkat air sempat keseleo apa as
 Jadi pertanyaannya lebih ke:
 > Hock, kan pakai botol. Kenapa harus pakai gelas lagi?
 
-<div align="center"><img src="https://i.ibb.co/0QY7Xmv/Gelas.jpg" alt="gelas-oreo" width="200"/><br> <b><i>Gelas Oreo Mantap</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/0QY7Xmv/Gelas.jpg" alt="gelas-oreo" width="200"/><br> <b><i>Gelas Oreo Mantap</i></b></div>
 
 Ga tau, jadi lebih sering minum aja. Biasanya kalau kuisi dengan air, ke gelasnya. Somehow, alam bawah sadarku menawarkan untuk minum dan tidak menyenggol gelasnya yang penuh dengan air dan kena laptopku. 💻
 
@@ -119,7 +119,7 @@ Awas kalau ada yang ngelawan. ⚔️
 
 Mungkin karena nasib summerku yang tragis, aku udah mulai ga peduli dengan rating lagi, jadi aku cuma kontes, lomba-lomba, dan CP for Fun aja. 🚛
 
-<div align="center"><img src="https://i.ibb.co/6BDWt2B/less.png" alt="cpforfun" width="200"/><br> <b><i>CP For Fun</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/6BDWt2B/less.png" alt="cpforfun" width="200"/><br> <b><i>CP For Fun</i></b></div>
 
 Duh aku ga tau mau isi pakai apa bagian ini. HAHHAHAHHA.
 
@@ -131,7 +131,7 @@ Kita bahas kenapa trap itu cakep.
 - Mereka kaya *icing on the cake*, dan *literally all things are cake.*
 - Felix best. 🐱
 
-<div align="center"><img src="https://i.ibb.co/vQHrKQh/Felix.png" alt="alt-title" width="200"/><br> <b><i>Felix Bestlah Xia </i></b>🎪</div> <br>
+<div align="center"><img src="https://i.ibb.co/vQHrKQh/Felix.png" alt="alt-title" width="200"/><br> <b><i>Felix Bestlah Xia </i></b>🎪</div>
 
 ## Siak War
 
@@ -168,9 +168,9 @@ Gara-gara mereka bangun awal, dan pagi-pagi sudah ribut, aku juga ikut kebangun,
 
 > Hidup... Hidup..
 
-<div align="center"><img src="https://i.ibb.co/HzzdSQs/SB1.jpg" alt="meme-1" width="200"/><br> <b><i>Berat Badanku Bacot</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/HzzdSQs/SB1.jpg" alt="meme-1" width="200"/><br> <b><i>Berat Badanku Bacot</i></b></div>
 
-<div align="center"><img src="https://i.ibb.co/D1nBrx3/SB2.jpg" alt="meme-2" width="300"/><br> <b><i>Otakku Bacot</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/D1nBrx3/SB2.jpg" alt="meme-2" width="300"/><br> <b><i>Otakku Bacot</i></b></div>
 
 ## Kakak Perempuanku Jarang Mandi
 

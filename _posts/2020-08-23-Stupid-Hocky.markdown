@@ -14,7 +14,7 @@ It's Sunday 12:52 AM, 23rd of August, 2020. Right now I'm typing this because I 
 
 So my team consists of Me, Julian, and Kak Fairuzi. Team name is "Just For Happiness", as you know, the JFH initial stands for our name. 🐸
 
-<div align="center"><img src="https://i.ibb.co/SfJ78ky/Find-It.jpg" alt="we-win-find-it" width="400"/><br> <b><i>Spoiler</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/SfJ78ky/Find-It.jpg" alt="we-win-find-it" width="400"/><br> <b><i>Spoiler</i></b></div>
 
 I just took a bath and found a pretty good idea on what should I write next. It's going to be "How to Be Fast in Toilet" (like 20 minutes, all stuffs done kind of fast). 🛀
 
@@ -26,7 +26,7 @@ So, this morning our family just held a birthday party for me. The party went so
 
 Basically, it's a way to respect our ancestor, great grandparents so that they live happily ever in the afterlife.
 
-<div align="center"><img src="https://i.ibb.co/LdMTkfw/CengBeng.png" alt="cengbeng" width="400"/><br> <b><i>Wikipedia Definition of the Festival</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/LdMTkfw/CengBeng.png" alt="cengbeng" width="400"/><br> <b><i>Wikipedia Definition of the Festival</i></b></div>
 
 My family and I respect the culture and at least both of my parents attend the festival back in Mempawah, Kalimantan Barat. 💯
 
@@ -40,7 +40,7 @@ Aight, so TL;DR. I have played Dota 2 for 200 hours back in 2015. But it was a n
 
 But this "Hocky Yudhiono" ain't no normal people. He spent his mobile data to install CS:GO for 10 GBs. Wait, I thought you say you are addicted to Dota? 🎨
 
-<div align="center"><img src="https://i.ibb.co/fYLmT82/csgo.png" alt="csgo-steam" width="400"/><br> <b><i>CS:GO Addict</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/fYLmT82/csgo.png" alt="csgo-steam" width="400"/><br> <b><i>CS:GO Addict</i></b></div>
 
 Yes, but I was more of a CS:GO player. It was a mere experience, because I had no friends to play with. 🎱
 
@@ -66,11 +66,11 @@ While I was playing this game, they assigned me to mop the lower floor of our ho
 
 It was an easy task. I got pretty upset to myself because I keep letting myself in over Dota. It reminded me of this hilarious meme I found several years ago. 🐸
 
-<div align="center"><img src="https://i.ibb.co/SnK1SMm/Frog-Meme.jpg" alt="frog-meme" width="300"/><br> <b><i>The Frog Meme</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/SnK1SMm/Frog-Meme.jpg" alt="frog-meme" width="300"/><br> <b><i>The Frog Meme</i></b></div>
 
 But it was more of like this. 🎲
 
-<div align="center"><img src="https://i.ibb.co/x5bt2cf/DotaFrog.jpg" alt="dota-frog-meme" width="300"/><br> <b><i>Dota Frog Meme</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/x5bt2cf/DotaFrog.jpg" alt="dota-frog-meme" width="300"/><br> <b><i>Dota Frog Meme</i></b></div>
 
 I'm so sleepy, gonna continue the blog tomorrow.
 See you soon! 😄
@@ -81,7 +81,7 @@ See you soon! 😄
 
 It's 9:40 AM, our team literally just solved all problems on the contest. 💯
 
-<div align="center"><img src="https://i.ibb.co/hC4JRQj/Scoreboard-Find-It.png" alt="scoreboard" width="400"/><br> <b><i>The Contest's Scoreboard</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/hC4JRQj/Scoreboard-Find-It.png" alt="scoreboard" width="400"/><br> <b><i>The Contest's Scoreboard</i></b></div>
 
 So here I go, trying to finish this post
 
@@ -91,7 +91,7 @@ So have you ever heard your family screaming on you while you're in the toilet b
 
 > Don't bring your phone, and multitask!
 
-<div align="center"><img src="https://i.ibb.co/JyJW4jK/hp-toilet.jpg" alt="poo-poo phone" width="400"/><br> <b><i>Playing Phone While Poo-Poo</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/JyJW4jK/hp-toilet.jpg" alt="poo-poo phone" width="400"/><br> <b><i>Playing Phone While Poo-Poo</i></b></div>
 
 People do this, including me. But trust me, if you didn't, you can do many more stuffs in the toilet while doing poo-poo. 💩
 
@@ -114,7 +114,7 @@ Because I have a responsibility to do something, and I simply making some slow a
 
 So I did what most of people do.
 
-<div align="center"><img src="https://i.ibb.co/dtrqpZ8/Steam-Here-We-Go-Again.png" alt="open-steam" width="400"/><br> <b><i>Opening Steam</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/dtrqpZ8/Steam-Here-We-Go-Again.png" alt="open-steam" width="400"/><br> <b><i>Opening Steam</i></b></div>
 
 No I didn't try to play Dota. 🐝
 
@@ -122,7 +122,7 @@ No I didn't try to play Dota. 🐝
 
 ## The Griefs
 
-<div align="center"><img src="https://i.ibb.co/yWCBBDD/Uninstall-Dota.png" alt="uninstall" width="400"/><br> <b><i>Uninstalling Dota 2</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/yWCBBDD/Uninstall-Dota.png" alt="uninstall" width="400"/><br> <b><i>Uninstalling Dota 2</i></b></div>
 
 I thought, damn. The elephant is not only Dota. So I decided to get rid of CS:GO as well. When I tried it, I was curious with another button when I open the select menu over the game. I saw a "Hide" button.
 
@@ -136,11 +136,11 @@ I tried to hide the CS:GO because I was curious on how it works. 🔫
 
 Well, it took me quite some time and googled on how to unhide the thing. 🎲
 
-<div align="center"><img src="https://i.ibb.co/k4NKndd/Uninstall-CSGO.png" alt="uninstall" width="400"/><br> <b><i>Uninstall CS:GO</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/k4NKndd/Uninstall-CSGO.png" alt="uninstall" width="400"/><br> <b><i>Uninstall CS:GO</i></b></div>
 
 At the end of the day, I unhide CS:GO, uninstall it, and hide it again. (For extra protection).<strike>No this isn't a condom ad 👎</strike>. So I chatted him and make this some sort of an "apology" on what I've done, burdening him over stuffs. If you're reading this, I'm so sorry.
 
-<div align="center"><img src="https://i.ibb.co/x2G4QbM/Tips-Addiction.png" alt="chat" width="300"/><br> <b><i>The Chat</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/x2G4QbM/Tips-Addiction.png" alt="chat" width="300"/><br> <b><i>The Chat</i></b></div>
 
 He told me to uninstall steam, but I couldn't. I still have one more stuff to do, that is to finish this post. (For the content, I need some screenshot) 📷
 

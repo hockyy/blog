@@ -10,7 +10,7 @@
 		"scope": "markdown, html",
 		"prefix": "add image to post",
 		"body": [
-			"<div align=\"center\"><img src=\"${3:link}\" alt=\"${2:alt-title}\" width=\"400\"/><br> <b><i>${1:title}</i></b></div> <br>"
+			"<div align=\"center\"><img src=\"${3:link}\" alt=\"${2:alt-title}\" width=\"400\"/><br> <b><i>${1:title}</i></b></div>"
 		],
 		"description": "Posting image on markdown or html"
 	}

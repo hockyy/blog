@@ -29,7 +29,7 @@ This is some of my favorite tags
 <strike> asdasd </strike> 
 
 <!-- Posting images -->
-<div align="center"><img src="your-link-here" alt="alt-title-here" width="700"/><br> <b><i>Title here</i></b></div> <br>
+<div align="center"><img src="your-link-here" alt="alt-title-here" width="700"/><br> <b><i>Title here</i></b></
 
 <!-- Quoting or emphases -->
 > asdasdasd
@@ -45,7 +45,7 @@ The result will be like
   <summary>Press Me</summary>
   
 
-  <div align="center"><img src="https://i.ibb.co/n6662w4/rickroll.jpg" alt="rickroll" width="400"/><br> <b><i>Never Gonna Give You Up</i></b></div> <br>
+  <div align="center"><img src="https://i.ibb.co/n6662w4/rickroll.jpg" alt="rickroll" width="400"/><br> <b><i>Never Gonna Give You Up</i></b></div>
 
   <strike>Never Gonna Let You Down</strike>   
   > Never gonna run around and desert you
@@ -53,7 +53,7 @@ The result will be like
 
 <br>
 Don't forget to use the comment markdown feature to make sure what image to insert while you still remember and what stuffs you should write.  
-<div align="center"><img src="https://i.ibb.co/Fg6cKVr/Markdown-Comments.png" alt="md-comments" width="600"/><br> <b><i>Markdown Comments</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/Fg6cKVr/Markdown-Comments.png" alt="md-comments" width="600"/><br> <b><i>Markdown Comments</i></b></div>
 
 ## Windows Tips
 
@@ -77,7 +77,7 @@ The magic buttons 🏹:
 
 Don't forget to toggle the clipboard in Settings → System → Clipboard.
 
-<div align="center"><img src="https://i.ibb.co/F85Fq9V/Clipboard-Setting.png" alt="clipboard-win-10" width="600"/><br> <b><i>Clipboard Settings Windows 10</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/F85Fq9V/Clipboard-Setting.png" alt="clipboard-win-10" width="600"/><br> <b><i>Clipboard Settings Windows 10</i></b></div>
 
 **Windows 2-0 Linux**
 
@@ -85,7 +85,7 @@ Don't forget to toggle the clipboard in Settings → System → Clipboard.
 
 Download this [PasteIntoFile](https://github.com/EslaMx7/PasteIntoFile) App, so you can right click on desktop and save your snip. It's that simple. You can even save texts and stuff. Don't forget to put the binary executable files into your wanted folder of programs, not just the download folder. ☹️
 
-<div align="center"><img src="https://i.ibb.co/4mhfvMg/Paste-Into-File.png" alt="paste-into-file" width="200"/><br> <b><i>Paste Into File Look</i></b></div> <br>
+<div align="center"><img src="https://i.ibb.co/4mhfvMg/Paste-Into-File.png" alt="paste-into-file" width="200"/><br> <b><i>Paste Into File Look</i></b></div>
 
 As it modifies your registry and add a context menu when first opening it, it basically allows you to do the right click and save stuff. 😄
 
