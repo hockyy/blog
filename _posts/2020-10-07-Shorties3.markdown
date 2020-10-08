@@ -1,0 +1,139 @@
+---
+title: "💙 Shorties #3: lol I Legit Underestimated SDA"
+tags: [Random, Life, Shorties]
+toc: true
+toc_label: "Contents"
+author_profile: true
+excerpt: This blog have turned into my personal diary. Have fun reading these! 🐸
+published: true
+---
+
+## Contents
+
+Can't believe just wasted like 4 hours of my time real legit learning Java. I thought SDA was going to be a simple code and submit 40 lines cake.
+
+> I WAS TOTALLY WRONG
+
+You know why I hate being "Competitive" in Competitive Programming? Because you need accuracy and bugless code. If you don't practice, you'll tend to be dumb. So don't expect me being so great in everything and "TRAP"-ing every people when I say, **"Oh it's hard!"**. I'm tired af. I'm effing not.
+
+This week has been rough for me. All my daily assignments scores are getting lower and lower. I'm getting inactive and I begin to can't do 100% on all the subjects I'm currently facing.
+
+Imagine this. I've spent 12 submissions on SDA, because I missed something in the legit 5-7 pages of the problem description.
+
+What shitty worse? I stupidly debugged the code while hearing lectures from my angry lecturer AHHAHAHA.
+
+You know what's worse? I've remembered all this time being "ARRAYLIST IS BETTER THAN ARRAY" because Arrays.sort() has a $O(N^2)$ worst case complexity while Collections.sort will always perform in $O(N \log{N})$
+
+**Web Design**: Group Project (I will be totally dead doing this, 1 month deadline).  
+**DS and Alg**: I lowkey underestimated this subject and effed up my weekly quiz.  
+**Teaching Assistant**: Shouldn't have applied for this tho lol. It's not that I'm bad at doing it. I'm the **best** IMO. But I think it actually took more of my time more than I expect it to be. So next semester, I'll just skip being a teaching assistant, and maybe I'll just set up a Competitive Programming schedule. I'm not that type of a "Teacher" and "Guider" myself as well. Tbh I'm really good at explaining thing. But I hate explaining trivial things (In my POV) over and over again.
+
+But it's OK. I'll always do my responsibility! So I'll just bare this year's 
+
+
+**SHUUUUATTTTT !!! I REALLY MISS DOING CP! But I CANTT !! COS IM BUSY AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF!**
+
+**The Rest**: Ah. Don't know what to say. I'm barely craving on the edge.
+
+Aight. I'll close the page. Bye!
+Me being a cool guy. Save your thanks to the future me.
+
+```java
+import java.io.*;
+import java.util.*;
+import java.lang.*;
+
+public class template{
+
+  static Reader in = new Reader();
+  static PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
+
+  public static void main(String[] args) throws IOException{
+    
+  }
+  
+  static class Reader {
+    final private int BUFFER_SIZE = 1 << 15;
+    private DataInputStream din;
+    private byte[] buffer;
+    private int bufferPointer, bytesRead;
+    public Reader() {
+      din = new DataInputStream(System.in);
+      buffer = new byte[BUFFER_SIZE];
+      bufferPointer = bytesRead = 0;
+    }
+    
+    public Reader(String file_name) throws IOException {
+      din = new DataInputStream(new FileInputStream(file_name));
+      buffer = new byte[BUFFER_SIZE];
+      bufferPointer = bytesRead = 0;
+    }
+    
+    public String next() throws IOException {   
+      byte[] buf = new byte[1 << 9]; // line length
+      int cnt = 0;
+      byte c = read();
+      while ((c==' '||c=='\n'||c=='\r'||c=='\t'||c==-1)) c = read();
+      do {
+        buf[cnt++] = c; c = read();
+      } while (!(c==' '||c=='\n'||c=='\r'||c=='\t'||c==-1));
+      return new String(buf, 0, cnt);
+    }
+    
+    public String nextLine() throws IOException {
+      byte[] buf = new byte[1 << 10]; // line length
+      int cnt = 0; byte c;
+      do {
+        c = read(); buf[cnt++] = c;
+      } while (!(c=='\n'||c=='\r'||c==-1));
+      return new String(buf, 0, cnt);
+    }
+    
+    public int nextInt() throws IOException {
+      int ret = 0; boolean sgn = false;
+      byte c = read();
+      while (c < '0' || c > '9'){
+        if(c == '-') sgn = true;
+        c = read();
+      }
+      do { ret = (ret << 3) + (ret << 1) + c - '0'; } while ((c = read()) >= '0' && c <= '9');
+      return (sgn ? -ret : ret);
+    }
+
+    public double nextDouble() throws IOException{
+      double ret = 0; boolean sgn = false;
+      byte c = read();
+      while (c < '0' || c > '9'){
+        if(c == '-') sgn = true;
+        c = read();
+      }
+      do { ret = (ret * 10) + c - '0'; } while ((c = read()) >= '0' && c <= '9');
+      if(c == '.'){
+        double temp = 1; c = read();
+        do { ret += (temp /= 10) * (c - '0'); } while ((c = read()) >= '0' && c <= '9');
+      }
+      return (sgn ? -ret : ret);
+
+    }
+    
+    private void fillBuffer() throws IOException {
+      bytesRead = din.read(buffer, bufferPointer = 0, BUFFER_SIZE);
+      if (bytesRead == -1)
+        buffer[0] = -1;
+    }
+
+    private byte read() throws IOException {
+      if (bufferPointer == bytesRead)
+        fillBuffer();
+      return buffer[bufferPointer++];
+    }
+
+    public void close() throws IOException {
+      if (din == null)
+        return;
+      din.close();
+    }
+  }
+}
+
+```
