@@ -239,7 +239,7 @@ tag_archive:
   type: liquid
   path: /tags/
 collections:
-  portfolio:
+  shorties:
     output: true
     permalink: /:collection/:path/
 # https://github.com/jekyll/jekyll-archives
