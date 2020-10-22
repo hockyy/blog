@@ -1,0 +1,17 @@
+---
+title: "💛 Shorties #5: Yet Another Loss"
+tags: [Random, Life, Shorties]
+toc: true
+toc_label: "Contents"
+author_profile: true
+excerpt: This blog have turned into my personal diary. Have fun reading these! 🐸
+published: true
+---
+
+## Contents
+
+So yea. I have a love-hate relationship with Competitive Programming. I really love it if I win. Else no.
+
+I really wanna continue this post but I don't know what to write.
+
+Yea, I lost in a CP competition. I hate it. Hate it so much.
