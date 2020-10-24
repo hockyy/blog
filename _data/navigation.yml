@@ -6,9 +6,6 @@ main:
   - title: "Pages"
     url: /pages/
 
-  - title: "Shorties"
-    url: /shorties/
-
   - title: "Tags"
     url: /tags/
 
