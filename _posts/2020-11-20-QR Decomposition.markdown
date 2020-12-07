@@ -10,7 +10,10 @@ published: true
 
 ## QR Decomposition
 
-Misalkan $A = \begin{bmatrix}2 & 3\\ 2 & 4 \\ 1&1\end{bmatrix}$
+Misalkan kita mempunya matriks A seperti ini.
+
+$$A = \begin{bmatrix}2 & 3\\ 2 & 4 \\ 1&1\end{bmatrix}$$
+
 Kita ingin mendekomposisi A menjadi Q dan R, Q merupakan matrix ortonormal,  dan R ialah matriks segitiga atas. Pertama kita akan melakukan proses gram schmidt kepada matriks A.
 
 $$
