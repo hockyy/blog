@@ -1,0 +1,33 @@
+---
+title: Some of Good Linear Algebra Proofs
+tags: [Linear Algebra]
+toc: true
+toc_label: "Contents"
+author_profile: true
+excerpt: Linear Algebra quite fun
+published: true
+---
+
+## Jika $A$ Bebas Linear $A^TA$ Memiliki Inverse
+
+Misalkan A merupakan sebuah matriks berukuran $n \times m$ yang bebas linear.
+Misalkan kolom kolom dari A dapat ditulis sebagai $\vec{c}_1, \vec{c}_2, \dots, \vec{c}_m$ .
+
+Apabila kolom-kolomnya bebas linear, maka satu satunya solusi untuk persamaan $k_1\vec{c}_1 + k_1\vec{c}_2 + \dots + k_m\vec{c}_m = 0$, ialah $\vec{0} \in \mathbb{R}^m$.
+
+Sehingga, dapat dikatakan pula satu-satunya solusi untuk $A\vec{x} = \vec{0}$ ialah $\{\vec{0}\}$.
+
+Yang artinya, Null(A) = $\{\vec{0}\}$.
+
+Mari kita pertimbangkan persamaan $A^TA$, yang merupakan matriks persegi berukuran $m \times m$. Selanjutnya perhatikan bahwa apabila matriks persegi tersebut kolom-kolomnya bebas linear, maka determinannya tidak nol dan apabila bentuk ebt tereduksinya ialah matriks identitas dan memiliki m buah satu utama.
+
+Selanjutnya misalkan kita memiliki sebuah vektor $\vec{v} \in \text{Null}(A^TA)$ . Artinya $A^TA\vec{v}$, sama dengan $\vec{0}$. Selanjutnya apabila jika kedua sisi dikalikan dengan $\vec{v}$, dapat dibuat persamaan sebagai berikut.
+$$
+\begin{aligned} A^TA\vec{v} &= \vec{0}\\ \vec{v}^TA^TA\vec{v} &= \vec{v}^T \vec{0} \\ (A\vec{v})^T(A\vec{v}) &= \vec{0}\end{aligned}
+$$
+
+> Perhatikan bahwa perkalian ini valid karena berdasarkan definisi, ukuran matriks tersebut dapat dilakukan perkalian.
+
+> Perhatikan pula bahwa kini kedua sisi merupakan vektor pada R, yang secara esensial sebenarnya merupakan bilangan bulat.
+
+Perhatikan bahwa $A\vec{v}$ merupakan sebuah vektor kolom. Misalkan $\vec{u} = A\vec{v}$ maka dapat ditulis sebagai $u_1^2 + u_2^2 + \dots u_m^2=0$, hanya benar bila $\vec{u} = \vec{0}$, kini, kita tahu bahwa apabila $A^TA\vec{v} = 0 \implies A\vec{v} = 0$. Artinya, bila $\vec{v} \in \text{Null}(A^TA) \implies \vec{v} \in \text{Null}(A)$, yang artinya bila sudah diketahui ruang Null dari A = $\{\vec{0}\}$, maka  $\vec{v} = \vec{0}$. artinya, $A^TA$ bebas linear. Karena $A^TA$ merupakan matriks persegi, maka $A^TA$ memiliki invers.
