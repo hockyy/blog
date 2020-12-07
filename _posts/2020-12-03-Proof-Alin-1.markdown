@@ -29,6 +29,6 @@ $$
 
 > Perhatikan bahwa perkalian ini valid karena berdasarkan definisi, ukuran matriks tersebut dapat dilakukan perkalian.
 
-> Perhatikan pula bahwa kini kedua sisi merupakan vektor pada R, yang secara esensial sebenarnya merupakan bilangan bulat.
+> Perhatikan pula bahwa kini kedua sisi merupakan vektor pada R, yang secara esensial sebenarnya merupakan bilangan real.
 
 Perhatikan bahwa $A\vec{v}$ merupakan sebuah vektor kolom. Misalkan $\vec{u} = A\vec{v}$ maka dapat ditulis sebagai $u_1^2 + u_2^2 + \dots u_m^2=0$, hanya benar bila $\vec{u} = \vec{0}$, kini, kita tahu bahwa apabila $A^TA\vec{v} = 0 \implies A\vec{v} = 0$. Artinya, bila $\vec{v} \in \text{Null}(A^TA) \implies \vec{v} \in \text{Null}(A)$, yang artinya bila sudah diketahui ruang Null dari A = $\{\vec{0}\}$, maka  $\vec{v} = \vec{0}$. artinya, $A^TA$ bebas linear. Karena $A^TA$ merupakan matriks persegi, maka $A^TA$ memiliki invers.
