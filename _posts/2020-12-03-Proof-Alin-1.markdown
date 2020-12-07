@@ -22,6 +22,7 @@ Yang artinya, Null(A) = $\{\vec{0}\}$.
 Mari kita pertimbangkan persamaan $A^TA$, yang merupakan matriks persegi berukuran $m \times m$. Selanjutnya perhatikan bahwa apabila matriks persegi tersebut kolom-kolomnya bebas linear, maka determinannya tidak nol dan apabila bentuk ebt tereduksinya ialah matriks identitas dan memiliki m buah satu utama.
 
 Selanjutnya misalkan kita memiliki sebuah vektor $\vec{v} \in \text{Null}(A^TA)$ . Artinya $A^TA\vec{v}$, sama dengan $\vec{0}$. Selanjutnya apabila jika kedua sisi dikalikan dengan $\vec{v}$, dapat dibuat persamaan sebagai berikut.
+
 $$
 \begin{aligned} A^TA\vec{v} &= \vec{0}\\ \vec{v}^TA^TA\vec{v} &= \vec{v}^T \vec{0} \\ (A\vec{v})^T(A\vec{v}) &= \vec{0}\end{aligned}
 $$
