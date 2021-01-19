@@ -20,13 +20,13 @@ published: true
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.05 (1)-1610985425066.jpeg" alt="" width="300"/><br> <b><i>Ulang Tahunku 🎂!! Duh Sumpah Aku Ganteng Banget Ga Sih Disini WKWKKWKWW</i></b></div>
 
-- Aku ganti workflow, aku sekarang jadi sering pakai *Typora*. Typora itu app buat notetaking, dia bakal nulis di dalam editor semacam semi-(What You See Is What You Get), jadi live typing bisa ngelihat hasilnya langsung 👁️.
+- Aku ganti workflow, aku sekarang jadi sering pakai *Typora*. Typora itu *app* buat *notetaking*, dia bakal nulis di dalam editor semacam semi-(What You See Is What You Get), jadi *live typing* bisa ngeliat hasilnya langsung 👁️.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210112110332467.png" alt="Typora" width="500"/><br> <b><i>Typora Kaya Apa Sih</i></b></div>
 
-  Kurang lebih looksnya seperti itu, settingannya cukup membantu dalam notetaking, beberapa yang favoritku itu ialah gratis 🤑, terus kalau mau masukin gambar, tinggal paste aja, dia otomatis masukin ke folder assets dan langsung diembed ke docs dalam format md yang sesuai 🖼️. Easy af. Terus shortcutsnya juga gampang. Jadi ya, you've won my heart ❤️.
+Kurang lebih *looks*-nya seperti itu, *settingan*-nya cukup membantu dalam *notetaking*, beberapa yang favoritku itu ialah gratis 🤑, terus kalau mau masukin gambar, tinggal *paste* aja, dia otomatis masukin ke folder assets dan langsung di-*embed* ke docs dalam format md yang sesuai 🖼️. *Easy af*. Terus *shortcuts*-nya juga gampang. Jadi ya, *you've won my heart* ❤️.
 
-- Ingatanku udah pudar. By pudar aku sudah ga bisa bedain event mana yang terjadi di semester ini dan event apa aja yang terjadi di semester lalu. 🐟 Ingatanku udh kaya ikan mas koki.
+- Ingatanku udah pudar. By pudar aku sudah ga bisa bedain *event* mana yang terjadi di semester ini dan *event* apa aja yang terjadi di semester lalu. 🐟 Ingatanku udah kaya ikan mas koki.
 
 - Sembari nulis ingatanku udah kaya ikan, aku berakhir baca artikel National Geographic hampir setengah jam tentang ingatan ikan. <strike>asw</strike> [Kumparan](https://kumparan.com/dasar-binatang/benarkah-ikan-mas-hanya-memiliki-ingatan-tiga-detik-ini-faktanya-1tuEV8hHFlG/full), [NatGeo](https://nationalgeographic.grid.id/read/13293180/ternyata-ingatan-ikan-tergolong-baik)
 
@@ -34,36 +34,36 @@ published: true
 
 - Dengan ini aku menyimpulkan kalau aku masih se-ndak jelas aku beberapa bulan yang lalu 🍥.
 
-- Btw, intinya ikan sering dianggap bego karena struktur otaknya yang beda sama mamalia, mereka tidak ada bagian yang besar, berkerut-kerut gitu, namanya *neocortex*. Nah itu tempat proses kognitif tinggi, kaya problem solving, berpikir abstrak, kreativitas sama merencanakan sesuatu 🧠.
+- *Btw*, intinya ikan sering dianggap bego karena struktur otaknya yang beda sama mamalia, mereka tidak ada bagian yang besar, berkerut-kerut gitu, namanya *neocortex*. Nah itu tempat proses kognitif tinggi, kaya *problem solving*, berpikir abstrak, kreativitas sama merencanakan sesuatu 🧠.
 
-- Tapi in fact, mereka sebenarnya bisa dilatih pake stimulus kaya makanan sama cue kaya lonceng atau something gitu lah 🔔.
+- Tapi *in fact*, mereka sebenarnya bisa dilatih pakai stimulus kaya makanan sama *cue* kaya lonceng atau *something* gitu lah 🔔.
 
-- Intinya ikan masih bisa belajar dari kebiasaan. Bahkan ada ikan yang hafal lokasi jaring yang bolong selama satu tahun. Even kalo life span mereka cuma 2 tahun 🥅. Ya intinya ikan lumayan pinter.
+- Intinya ikan masih bisa belajar dari kebiasaan. Bahkan ada ikan yang hafal lokasi jaring yang bolong selama satu tahun. Even kalo *life span* mereka cuma 2 tahun 🥅. Ya intinya ikan lumayan pinter.
 
-- Blog lalu mengandung sekitar 7000 kata, yang dimana padat banget. Aku consider mau bagi-bagi blog ini jadi mungkin 4 atau 5 part. (In fact, ga jadi) 🦔.
+- Blog lalu mengandung sekitar 7000 kata, yang di mana padat banget. Aku *consider* mau bagi-bagi blog ini jadi mungkin 4 atau 5 bagian. (*In fact*, ga jadi) 🦔.
 
 - Oke, aku memutuskan untuk sehari tiap pagi jam 8 aku nulis 1000 kata lah paling ga buat nyelesain blog ini. *1000 kata a day keeps the ngaret away* 💯.
 
 - Aku lagi mau masang behel. Per aku nulis kalimat ini, aku masih duduk dan mau ke klinik gigi buat nyetak gigi nanti sore jam 18:30. *By the end of* aku selesai nulis postingan ini, mungkin udah ada kawat besi itu di gigi aku. Selamat tinggal makan nyaman. Aku ingin makan sehat 😶. Aku semoga bisa bikin blog tentang behelan juga.
 
-- Aku sempat nulis New Year's Resolution di catatan pribadiku. Aku mau membuat habit baru, untuk tidak melakukan sesuatu. (Cerita) 
+- Aku sempat nulis *New Year's Resolution* di catatan pribadiku. Aku mau membuat *habit* baru, untuk tidak melakukan sesuatu. (Cerita) 
 
 - <details>
     <summary>Yang aku tulis di 2021 Resolutionku</summary>
     Jangan main game selain hari <strong>sabtu-minggu</strong>
   </details>
 
-- Failed miserably 11 Januari 2021. <strike>bangsat</strike>, as per context, itu hari terakhir UAS, aku pake buat main CS sama DotA malamnya. 🎮
+- Failed miserably 11 Januari 2021. <strike>bangsat</strike>, *as per context*, itu hari terakhir UAS, aku pake buat main CS sama DotA malamnya. 🎮
   
-- Blog ini unexpectedly banyak explicit curse. I'm not an unethical person, tapi this is a personal blog. Please don't judge me just because I swear a lot. Swearing biar perasaanku bisa dituangkan lebih ekspresif aja. I don't mean to offend anybody 🙏🙏.
+- Blog ini *unexpectedly* banyak *explicit curse. I'm not an unethical person, tapi this is a personal blog. Please don't judge me just because I swear a lot.* *Swearing* biar perasaanku bisa dituangkan lebih ekspresif aja. *I don't mean to offend anybody* 🙏🙏.
 
-- Happy New Year 2021 🎆!
+- *Happy New Year* 2021 🎆!
 
-- Jirrr 14 Januari 2021, main DotA lagi, padahal hari kamis. Aku nih pengen curhat. Setiap kali habis makan kenyang gitu tu pasti malas dah buat latihan CP, belajar atau produktif 💻. Rasanya semacam feeling "*Yo why do I eat so much, I can't work while I'm full, so why not play*"-kind of feeling gitu sial 🎲.
+- Jirrr 14 Januari 2021, main DotA lagi, padahal hari kamis. Aku nih pengen curhat. Setiap kali habis makan kenyang gitu tu pasti malas dah buat latihan CP, belajar atau produktif 💻. Rasanya semacam *feeling* "*Yo why do I eat so much, I can't work while I'm full, so why not play*"-*kind of feeling* gitu sial 🎲.
 
-- Oke aku nobatkan pembukaan ini sebagai pembukaan ter-trash, yang pernah ada. 🎉
+- Oke aku nobatkan pembukaan ini sebagai pembukaan ter-*trash*, yang pernah ada. 🎉
 
-- Oh iya, tentang bagaimana cara aku memanage semua workspace ku untuk semester ini, aku letakkan setiap folder mata kuliah ku di Desktop 🖱️, jadi sejak semester pertama, setiap mata kuliah menempati satu space icon yang ada di Desktop ku. Kalau misalkan ada file yang berkaitan langsung ku drag masuk aja ke mata kuliah yang bersesuaian 😆
+- Oh iya, tentang bagaimana cara aku me-*manage* semua *workspace* ku untuk semester ini, aku letakkan setiap folder mata kuliah ku di Desktop 🖱️, jadi sejak semester pertama, setiap mata kuliah menempati satu *space* *icon* yang ada di Desktop ku. Kalau misalkan ada *file* yang berkaitan langsung ku *drag* masuk aja ke mata kuliah yang bersesuaian 😆
 
 ## Review Semester
 
@@ -72,9 +72,9 @@ Ini kan yang biasa orang lain tunggu-tunggu.. Oke, semester ini aku ambil 7 mata
 Aku urutkan dari mata kuliah yang menurutku lebih mungkin untuk dapat A. Setelah selesai membuat list ternyata susah mengurutkannya, karena menurutku semester ini isinya cukup *santuy*. 
 
 - Perancangan & Pemrograman Web - **3 SKS** - Kelas B (Karena nilai UAS udah keluar hehe)
-- Pengantar Organisasi Komputer - **3 SKS** - Kelas C (Saem, UTS sama UASku bagus) dari awal juga ga pernah ketinggalan dengan materinya karena setiap minggu aku nyatat terus.
+- Pengantar Organisasi Komputer - **3 SKS** - Kelas C (*Same*, UTS sama UASku bagus) dari awal juga ga pernah ketinggalan dengan materinya karena setiap minggu aku nyatat terus.
 - Aljabar Linear - **3 SKS** - Kelas C (aku juga selalu nyatet yang ini :notebook: ) bahkan ini nilai Tugas Kelompok ku overkill sampai > 100..
-- Statistika dan Probabilitas - **3 SKS** - Kelas K - Aku nyodok mata kuliah ini, aturannya ngambil semester 4 sih... Eh atau semester 5 ya. Ga inget wkwkw. Yang pasti mata kuliah ini prasyaratnya butuh Kalkulus 1 sih 🔢, kalau ngerti Kalkulus 2 lebih bagus, karena ada bagian-bagian yang butuh multivariable function sama integral lipat.
+- Statistika dan Probabilitas - **3 SKS** - Kelas K - Aku nyodok mata kuliah ini, aturannya ngambil semester 4 sih... Eh atau semester 5 ya. Ga inget wkwkw. Yang pasti mata kuliah ini prasyaratnya butuh Kalkulus 1 sih 🔢, kalau ngerti Kalkulus 2 lebih bagus, karena ada bagian-bagian yang butuh *multivariable* *function* sama integral lipat.
 - Struktur Data & Algoritma - **4 SKS** - Kelas E
 - Matematika Dasar 2 -  **3 SKS** - Kelas A
 - MPK Agama Kristen - **2 SKS** - Kelas D - **I tried my best**
@@ -83,27 +83,27 @@ Aku urutkan dari mata kuliah yang menurutku lebih mungkin untuk dapat A. Setelah
 
 #### Apa yang Dipelajari
 
-Tentunya mata kuliah killer ini —disebut *killer* karena **menghabiskan waktu** 🩸— sering dibilang sebagai biangnya semester 3, tapi aku ga terlalu keteteran buat mata kuliah ini 😎.
+Tentunya mata kuliah *killer* ini —disebut *killer* karena **menghabiskan waktu** 🩸— sering dibilang sebagai biangnya semester 3, tapi aku ga terlalu keteteran buat mata kuliah ini 😎.
 
-Apalagi tugas mingguannya (disebut *story*) bisa aku handle dengan cukup nguli aja 🔨. Pas liburan Summer kemarin aku sempat belajar CSS dan JS cukup intensif. Aku juga sudah pernah daftar Ristek WebDev 🗺️.
+Apalagi tugas mingguannya (disebut *story*) bisa aku *handle* dengan cukup nguli aja 🔨. Pas liburan Summer kemarin aku sempat belajar CSS dan JS cukup intensif. Aku juga sudah pernah daftar Ristek WebDev 🗺️.
 
 > —Ditolak tentunya WKWKKWK. Terima kasih kakak kakak senmem sudah menolak aku. Kalau aku diterima mungkin aku sudah meninggalkan CP :D Bukan ironisme tapi aku betul-betul bersyukur—
 
-yang basically Open Recruitmentnya tugasnya itu udah bisa kupakai ilmunya sampai Story 6. (Total ada 9 story) 🏬.
+yang basically *Open Recruitment*-nya tugasnya itu udah bisa kupakai ilmunya sampai Story 6. (Total ada 9 story) 🏬.
 
-- Belajar cara make Django di Python, intinya module yang isinya class-class dengan arsitektur Model-Template-View yang bisa menggampangkan pembuatan website sih. Banyak website-website yang menggunakan Django juga, jadi lebih bisa *familiarize yourself* dengan satu *framework* untungnya banyak 🐍.
+- Belajar cara make Django di Python, intinya *module* yang isinya *class-class* dengan arsitektur Model-Template-View yang bisa menggampangkan pembuatan *website* sih. Banyak *website*-*website* yang menggunakan Django juga, jadi lebih bisa *familiarize yourself* dengan satu *framework* untungnya banyak 🐍.
 
-- HTML Structures, Sebenarnya HTML itu Markup Language
+- HTML *Structures*, Sebenarnya HTML itu *Markup Language*
 
   > A **markup language** is a computer **language** that uses tags to define elements within a document. It is human-readable, meaning **markup** files contain standard words, rather than typical programming syntax. While several **markup languages** exist, the two most popular are HTML and XML 🚒.
 
-  Markup language ada banyak sih, intinya untuk menulis indah deh. Kaya Markdown ini sebenarnya markup language juga, kita bisa preformat tampilan artikel kita pake bahasa-bahasa tersebut. Kalau mau nyoba belajar markup language, aku saranin familiarin dulu dengan MD, terus baru nyentuh HTML wkwkw 😆.
+  *Markup language* ada banyak sih, intinya untuk menulis indah deh. Kaya Markdown ini sebenarnya *markup language* juga, kita bisa pre-format tampilan artikel kita pake bahasa-bahasa tersebut. Kalau mau nyoba belajar markup language, aku saranin familiarin dulu dengan MD, terus baru nyentuh HTML wkwkw 😆.
 
-- CSS, HTML itu orangnya, tag-tag di HTML kaya organ-organ tubuhnya. CSS like the "Dress" for HTML, tag HTML bisa dikasi warna, tampilan, dialter bentuk-bentuknya. Pakai CSS, semacam *style guide* lah bagi HTML itu 👗.
+- CSS, HTML itu orangnya, tag-tag di HTML kaya organ-organ tubuhnya. CSS *like the "Dress" for* HTML, *tag* HTML bisa dikasi warna, tampilan, di-*alter* bentuk-bentuknya. Pakai CSS, semacam *style guide* lah bagi HTML itu 👗.
 
-- JS, this is like the way a website speak. Misalnya kaya tombol yang dihover keluar indra mahaguna sakti naga terbang 🐉.
+- JS, *this is like the way a website speak*. Misalnya kaya tombol yang di-*hover* keluar indra maha guna sakti naga terbang 🐉.
 
-- JSON, basically Notation buat object JS yang sangat populer. Bentuknya kurang lebih kaya pair of key and value. Keynya string, valuenya bisa array, object, atau string lainnya. Ini op banget sih wkwkkw. Intinya JSON itu udah kaya blueprint atau bentuk data yang layak dikirim-kirim 🚚.
+- JSON, *basically Notation* buat object JS yang sangat populer. Bentuknya kurang lebih kaya *pair of key and value*. *Key*-nya string, *value*-nya bisa array, object, atau string lainnya. Ini op banget sih wkwkkw. Intinya JSON itu udah kaya *blueprint* atau bentuk data yang layak dikirim-kirim 🚚.
 
   ```json
   
@@ -120,47 +120,47 @@ yang basically Open Recruitmentnya tugasnya itu udah bisa kupakai ilmunya sampai
   },"sapi" : "halo"}
   ```
 
-- AJAX, ini semacam teknik buat ngirim di belakang layar. Tau kan biasa ngescroll FB, pagenya ga kerefresh tapi halamannya nambah terus? Nah itu big chance fitur kaya gitu diimplement pake AJAX, teknik buat acquire atau manggil request ke website, tapi lewat JS  🙊.
+- AJAX, ini semacam teknik buat ngirim di belakang layar. Tau kan biasa nge-*scroll* FB, *page*-nya ga ke-*refresh* tapi halamannya nambah terus? Nah itu *big chance* fitur kaya gitu di-*implement* pake AJAX, teknik buat acquire atau manggil *request* ke website, tapi lewat JS  🙊.
 
 - JQuery, nah ini library atau kaya module nya Javascript. Kalau di python bisa import-import, Javascript juga bisaaa. JQuery ini salah satu *module import*-annya 🎱.
 
-- Web security, intinya pengenalan jenis-jenis attack aja sih. Ngertiin maksud dari Injection, Cross-site scripting dan hal-hal lainnyaaa 🐥.
+- *Web security*, intinya pengenalan jenis-jenis attack aja sih. Ngertiin maksud dari Injection, Cross-site scripting dan hal-hal lainnyaaa 🐥.
 
 #### Kuliah
 
 Kuliahnya tentu online juga setiap minggunya ada kuliah bareng semua kelas, ada yang hari senin dan selasa. Kuliahnya itu tiap hari ngumpul dulu di Meet/Zoom, terus dikelompokin 4-5 orang kemudian diskusi di forum. 🧑‍🤝‍🧑
 
-Asyik sih 😆 Pakai yang namanya Groupthink gitu, tapi sekarang webnya udah mati 🏝️. Groupthink tu mirip kaya *codeshare* atau *Google Docs* gitu. Dia live collaborate document gitu, terus ada chat channelnya gitu tiap room 🔈. Terus kalau ngisi documentnya kadang ada highlight gitu yang nulis siapa. Terus dosennya bisa pindah-pindah room gitu ngecekin mahasiswanya 🏗️.
+Asyik sih 😆 Pakai yang namanya Groupthink gitu, tapi sekarang webnya udah mati 🏝️. Groupthink tu mirip kaya *codeshare* atau *Google Docs* gitu. Dia *live collaborate* document gitu, terus ada chat channelnya gitu tiap *room* 🔈. Terus kalau ngisi documentnya kadang ada *highlight* gitu yang nulis siapa. Terus dosennya bisa pindah-pindah *room* gitu ngecekin mahasiswanya 🏗️.
 
-Biasanya kalau aku *copy-paste* gitu, kehighlight pake nama aku kan di docsnya. Jadi kadang satu dokumen cuma namaku doang. Kesannya aku mendominasi. 📄
+Biasanya kalau aku *copy-paste* gitu, ke-*highlight* pake nama aku kan di docsnya. Jadi kadang satu dokumen cuma namaku doang. Kesannya aku mendominasi. 📄
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/245.gif" alt="VS Code" width="300"/><br> <b><i>Pas Dosen Ngeliat Docsnya Banyak Highlight Dariku</i></b></div>
 
 #### Story
 
-Tiap Minggunya ada story, story itu semacam praktik mingguan, ngerjain website gitu websiteku bisa diakses di [sini](https://hockyy.com/). Ini bisa aja mati anytime karena aku dapat domainnya gratisan dari Lomba CP dan aku malas extend lagi domainnya 😇.
+Tiap Minggunya ada story, story itu semacam praktik mingguan, ngerjain *website* gitu. *Website*-ku bisa diakses di [sini](https://hockyy.com/). Ini bisa aja mati anytime karena aku dapat domainnya gratisan dari Lomba CP dan aku malas *extend* lagi domainnya 😇.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210114205054509.jpg" alt="" width="700"/><br> <b><i>Cuplikan Website-ku yang Maha Berat</i></b></div>
 
-Hari-hari intinya cuma ngoding website. Asyik-asyik aja. Yang paling berat menurutku Story 3, 4. Itu kita disuruh bikin desain website sama target dari website kita. Disana kita basically designing aja sih 🚸.
+Hari-hari intinya cuma ngoding website. Asyik-asyik aja. Yang paling berat menurutku Story 3, 4. Itu kita disuruh bikin desain website sama target dari website kita. Disana kita *basically* *designing* aja sih 🚸.
 
-Aku desainnya kematian, dapat ide-ide ga jelas pengen bikin semacam parallax-parallax ❄️ yang belakangnya discroll kaya ada 3D effect gitu. Ga jelas parah. 
+Aku desainnya kematian, dapat ide-ide ga jelas pengen bikin semacam parallax-parallax ❄️ yang belakangnya di-*scroll* kaya ada 3D *effect* gitu. Ga jelas parah. 
 
 **NGODINGNYA MATIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII** 🤮
 
-Basically 3 hari kuhabiskan cuma buat ngerjain story 4 ini. Dari Siang-Subuh $\times 3$ malam 🌃
+*Basically* 3 hari kuhabiskan cuma buat ngerjain story 4 ini. Dari Siang-Subuh $\times 3$ malam 🌃
 
 Setelah nanya Eko, Kak Sage, Kak Ariq (Asdos-ku), Joni, dan teman-teman maha baik yang sudah nyodok PPW semester lalu. 🗺️
 
-Kebetulan sampe akhir story aku pake design web yang sama, semua fitur story aku taro di satu website utamaku. Hehe, jadi perlu satu repo doang, ga perlu bikin repo baru dan ngurus CSS-nya lagi. 🧭
+Kebetulan sampe akhir story aku pake *design* web yang sama, semua fitur story aku taro di satu website utamaku. Hehe, jadi perlu satu repo doang, ga perlu bikin repo baru dan ngurus CSS-nya lagi. 🧭
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210114213621630.png" alt="" width="400"/><br> <b><i>Repository Storyku</i></b></div>
 
-Sempat ada juga kejadian goblok pas aku sok-sokan ngebikin error handler gitu kan. Jadi error kaya yang ada langsung di-*redirect* ke custom page. Pas ada error di Herokunya, aku mati ngedebugnya weh. 🐛
+Sempat ada juga kejadian goblok pas aku sok-sokan ngebikin *error handler* gitu kan. Jadi error kaya yang ada langsung di-*redirect* ke *custom page*. Pas ada error di Herokunya, aku mati nge-*debug*-nya weh. 🐛
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231954713.png" alt="" width="400"/><br> <b><i>Commit History Paling Astagadragon 🐉</i></b></div>
 
-Akhirnya aku sadar itu errornya karena aku pake cloudflare cache systemnya yang terlalu dewa sampai websiteku modelnya error. IHHH PENGEN KUTAMPOL KAMU HOCK 🥊. 
+Akhirnya aku sadar itu errornya karena aku pake cloudflare *cache system*-nya yang terlalu dewa sampai websiteku model-nya *error*. IHHH PENGEN KUTAMPOL KAMU HOCK 🥊. 
 
 #### Tugas Kelompok
 
@@ -168,17 +168,17 @@ Tugas kelompoknya dua kali, aku sekelompok sama Boni, Gabriel Enrique, sama Zida
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210115113728053.png" alt="" width="600"/><br> <b><i>Web Tugas Kelompok</i></b></div>
 
-Jadi kami bikin semacam wadah buat meeting online, terus semacam discussion space, sama tempat buat maba tuker-tuker jakun yang ukurannya salah, sama buat mahasiswa yang udah mau lulus, bisa passing barang ke adik tingkatnya yang udah mau lulus. Website kelompokku bisa diakses di [sini](https://uimate-2.herokuapp.com). Tugas kelompok 1 dan 2 nya sama, cuma seperti upgrade-annya aja 👠. 
+Jadi kami bikin semacam wadah buat *meeting* online, terus semacam *discussion* *space*, sama tempat buat maba tuker-tuker jakun yang ukurannya salah, sama buat mahasiswa yang udah mau lulus, bisa *passing* barang ke adik tingkatnya yang udah mau lulus. Website kelompokku bisa diakses di [sini](https://uimate-2.herokuapp.com). Tugas kelompok 1 dan 2 nya sama, cuma seperti *upgrade*-annya aja 👠. 
 
 #### Kegabutan
 
-Aku iseng-iseng daftar semua event Ristek Open Cup nya gitu, kaya lomba annual dari Ristek yang cabangnya banyak, ada CP, CTF, Code-In-The-Dark.
+Aku iseng-iseng daftar semua *event* Ristek Open Cup nya gitu, kaya lomba annual dari Ristek yang cabangnya banyak, ada CP, CTF, Code-In-The-Dark.
 
 CITD Budi kalau ga salah Juara 2, dan Alif Juara 1. Tapi ya apa aku habis selesai makan, ditelepon Budi, terus katanya lombanya bentar lagi mulai. Ya seadanya aja ngodingnya. Emang ga hafal *syntax* CSS mau gimana lagi 😓 Alhasil website kodinganku tragis kaya *berakan sapi* 💩..
 
 #### Find IT!
 
-Aku ikut Lomba CP sama Julian dan Kak Faiz, terus menang, hadiahnya uang sama domain satu tahun (Best! Thanks Domainesia!!) Aku redeem domain hockyy.com, karena *hocky.com* sudah dipake orang lain buat jualan sextoy 🎷, sampai sekarang domainnya diperpanjang terus-terusan. asw emang ga bisa ku *acquire* 😦. Jadi sering kali orang-orang mau buka hockyy.com malah kebuka situs porno yang bikin kageet 😲.
+Aku ikut Lomba CP sama Julian dan Kak Faiz, terus menang, hadiahnya uang sama domain satu tahun (Best! Thanks Domainesia!!) Aku redeem domain hockyy.com, karena *hocky.com* sudah dipake orang lain buat jualan *sex toy* 🎷, sampai sekarang domainnya diperpanjang terus-terusan. asw emang ga bisa ku *acquire* 😦. Jadi sering kali orang-orang mau buka hockyy.com malah kebuka situs porno yang bikin kageet 😲.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210115112358567.jpg" alt="" width="300"/><br> <b><i>Juara 1 Find It! 2020</i></b></div>
 
@@ -204,33 +204,33 @@ Kuliahnya ada sesi menonton 3-5 video dari Bu Efi, dan dilanjutkan dengan 2-3 SK
 
 Ayahku dengar terus dimarahin dah 😠. Ditegur gitu ngapain kuliah udah online masih ga hadir kuliah 💢. Sebenarnya kalau aku pikir-pikir 🤔 ada benarnya juga. Salahku juga malam itu aku tidur jam 2 subuhan karena emang malemnya nonton Youtube doang 💤. Alhasil moodku seharian sempat buruk. Tapi itu tidak mengganggu motivasi belajar POK ku.
 
-Tapi Ayahku kalo marah tu parah bgt weh. Orang yang ga biasa bisa mental breakdown. Untung aku udah <strike>mental breakdown</strike> biasa 🌵. *//Heh*
+Tapi Ayahku kalo marah tu parah bgt weh. Orang yang ga biasa bisa *mental* *breakdown*. Untung aku udah <strike>mental breakdown</strike> biasa 🌵. *//Heh*
 
-Jujur aku agak iri dengan kelas bimbingannya Bu Efi karena tiap minggu sepertinya bahas materi tambahan di luar slide(?) Sementara kelasku hanya ngereview slide kembali 🎚️. Tapi gpp sih. Kan aturan kelasnya itu hari Jumat, dan harus udah menonton video serta ada checkpoint yang harus dikerjain sebelum ngerjain kuis mingguan. Nah porsi kuisnya ini emang masuk ke nilai 💯. 
+Jujur aku agak iri dengan kelas bimbingannya Bu Efi karena tiap minggu sepertinya bahas materi tambahan di luar slide(?) Sementara kelasku hanya nge-*review* slide kembali 🎚️. Tapi gpp sih. Kan aturan kelasnya itu hari Jumat, dan harus udah menonton video serta ada *checkpoint* yang harus dikerjain sebelum ngerjain kuis mingguan. Nah porsi kuisnya ini emang masuk ke nilai 💯. 
 
 Lagi pula, menurutku POK ini nilainya baik banget. UTS UASnya nilai maxnya 110 dan kuisnya itu nilai bonus 5%. Jadi biasa aja kalo nilai akhir kadang lebur-lebur tumpeh tumpeh > 100 WAKAKA 👍.
 
 #### Lab dan Tugas
 
-Sejak minggu ke-berapa gitu ya aku lupa ada Lab AVR sama MIPS. Jadi itu semacam ngoding Assembly lah. Biasa aja sih, ga terlalu susah. Challenging iya, tapi basically cuma CP on Assembly aja. Aku dapat asdos Kak Alghi. Tapi aku jarang nanya-nanya juga sih. Menurutku baca slide aja juga udah cukup 🙌.
+Sejak minggu ke-berapa gitu ya aku lupa ada Lab AVR sama MIPS. Jadi itu semacam ngoding Assembly lah. Biasa aja sih, ga terlalu susah. *Challenging* iya, tapi basically cuma CP on Assembly aja. Aku dapat asdos Kak Alghi. Tapi aku jarang nanya-nanya juga sih. Menurutku baca slide aja juga udah cukup 🙌.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117095531075.png" alt="image-20210117095531075" alt="" width="100"/><br> <b><i>When You See It</i></b></div>
 
-Berikut ialah kode asdos dari asdos-asdos POK saya. Notice something? ( ͡° ͜ʖ ͡°). Iya ini aku juga sadar pas dikasi tau selesai UAS. HAHHAHAHHA. Nice one. Never Thought people would actually slip in a good easter egg 🥚.
+Berikut ialah kode asdos dari asdos-asdos POK saya. *Notice something*? ( ͡° ͜ʖ ͡°). Iya ini aku juga sadar pas dikasi tau selesai UAS. HAHHAHAHHA. *Nice one. Never thought people would actually slip in a good easter egg* 🥚.
 
 #### Forumnya Sepi
 
-Ga asyik sih, aku kadang post di forum, yang balas cuma Steven dari kelas sebelah. Ga bisa bayangin kalau misal kelasnya dipisah. Mungkin jadi sarang hantu forumnya. Sempat minggu terakhir aku cuma pengen mastiin pemahaman ku aja 🤔, kan ada soal di slide, aku ngepost pembahasan Cache di soal itu **yang salah-salah** *(Aku baru sadar setelah quiz kalo basically jawaban ku ngaco semua)* , terus ga aku update lagi kalo itu sebenarnya salah. Ga ada yang peduli juga balasannya juga ga ada weh parah banget. Sad pol 😢 Mungkin pada teler belajar POK sih.
+Ga asyik sih, aku kadang *post* di forum, yang balas cuma Steven dari kelas sebelah. Ga bisa bayangin kalau misal kelasnya dipisah. Mungkin jadi sarang hantu forumnya. Sempat minggu terakhir aku cuma pengen mastiin pemahaman ku aja 🤔, kan ada soal di slide, aku ngepost pembahasan Cache di soal itu **yang salah-salah** *(Aku baru sadar setelah quiz kalo basically jawaban ku ngaco semua)* , terus ga aku update lagi kalo itu sebenarnya salah. Ga ada yang peduli juga balasannya juga ga ada weh parah banget. Sad pol 😢 Mungkin pada teler belajar POK sih.
 
 Menurutku emang teknik belajar video itu rada beratin. Aku sendiri tiap minggunya sambil nyatat apa yang ada di video 📹. Aku sempat pakai ruangguru selama 2 tahun pas SMA. Sistem belajarnya mirip POK ini. Karena dulu aku sering banget ninggalin sekolah (Kuhitung-hitung aku total hampir skip satu semester gara-gara pelatnas, OSN, dan event-event lain) pas SMA 🏫. Jadi aku belajarnya lewat RuangGuru aja.
 
 Tapi lho SMA gampang pol. <strike>Tugas-tugasnya aja yang ga ngotak</strike>. Yap! Menurutku tugas-tugas di SMAku Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh Jauh lebih tiring, nguli, banyak 🔨.
 
-Overall aku kuliah ngerjain kaya duduk 3 jam. PR kelar semua.
+*Overall* aku kuliah ngerjain kaya duduk 3 jam. PR kelar semua.
 
 Dulu pas SMA, aku kerja-kerja, buat-buat, tulis-tulis, baru kelar. Iya, kelar. Kelar **satu**.
 
-Pas Kuliah ini isinya cuma test-test, quiz-quiz, ujian-ujian. PR nya paling ngoding-ngoding doang. Menurutku CP sangat berguna karena ya PR-PR nya ga butuh otak terlalu banyak kadang 🧠. Apalagi mungkin karena PR nya boleh diketik dan ga tulis tangan kali ya ✏️. Mungkin deh. Tapi kadang aku cringe sendiri baca tulisan di buku harian ku pas SMA
+Pas Kuliah ini isinya cuma test-test, quiz-quiz, ujian-ujian. PR nya paling ngoding-ngoding doang. Menurutku CP sangat berguna karena ya PR-PR nya ga butuh otak terlalu banyak kadang 🧠. Apalagi mungkin karena PR nya boleh diketik dan ga tulis tangan kali ya ✏️. Mungkin deh. Tapi kadang aku *cringe* sendiri baca tulisan di buku harian ku pas SMA
 
 > Aku benci PR.
 
@@ -238,7 +238,7 @@ Sekarang aku malah berharap.. Kenapa PR ga dibanyakin 😢 hitung-hitung bisa na
 
 #### Menjelang UAS
 
-Dulu sebelum UAS course pagenya di moodle kaya diexpand semua gitu. Tapi entah kenapa sekarang malah kehide gitu weh. Jadi agak susah sih browsingnya 😓.
+Dulu sebelum UAS *course page*-nya di moodle kaya diexpand semua gitu. Tapi entah kenapa sekarang malah ke-*hide* gitu weh. Jadi agak susah sih *browsing*-nya 😓.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117094448129.png" alt="" width="400"/><br> <b><i>Halaman Course</i></b></div>
 
@@ -246,33 +246,33 @@ Dulu sebelum UAS course pagenya di moodle kaya diexpand semua gitu. Tapi entah k
 
 #### Apa yang Dipelajari
 
-- Matriks, operasinya, inversnya, propertinya, dan teknik-teknik yang bisa dipakai di matriks 🔢.
-- Sistem persamaan linear, apa di dalamnya dan property apa aja yang dia hold 👍.
+- Matriks, operasinya, invers-nya, propertinya, dan teknik-teknik yang bisa dipakai di matriks 🔢.
+- Sistem persamaan linear, apa di dalamnya dan *property* apa aja yang dia hold 👍.
 - Teknik-teknik mencari determinan, determinan itu apa ✔️.
-- Dot Product dan Cross Product pada vektor di Ruang Euclid
-- Dependensi linear, baris dan dimensi (Ini asyik dan mind bending banget sih menurutku 😝)
+- *Dot Product* dan *Cross Product* pada vektor di Ruang Euclid
+- Dependensi linear, baris dan dimensi (Ini asyik dan *mind bending* banget sih menurutku 😝)
 - Ruang baris, kolom, dan null. Pelajari bagaimana cara kerjanya dan di matriks itu gimana, ngitungnya gimana, dan ruang-ruang vektor itu apa. 
-- Ruang hasil kali dalam, basically cuma hasil kali titik on steroid lah ini 💪.
+- Ruang hasil kali dalam, basically cuma hasil kali titik *on steroid* lah ini 💪.
 - Nilai eigen, vektor eigen, diagonalisasi, dan transformasi linear.
 
 #### Kuliah
 
-Kuliah Aljabar Linear itu tiap hari rabu, sebanyak 3 SKS langsung (2 Jam 30 Menit). Menurutku ga bikin capek sih. Karena aku suka sekali dengan materi Alin. 😄 Mengapa? Karena beberapa di antaranya udah sering aku pake. Seperti Exponential Matrix, dkk. Setiap kali kuliah Alin, kepalaku selalu blow off. Kaya rasanya crooottttt 💦💦💦. Mindblown gitu lah. Karena ada beberapa yang selama ini kaya
+Kuliah Aljabar Linear itu tiap hari rabu, sebanyak 3 SKS langsung (2 Jam 30 Menit). Menurutku ga bikin capek sih. Karena aku suka sekali dengan materi Alin. 😄 Mengapa? Karena beberapa di antaranya udah sering aku pake. Seperti *exponential* *matrix*, dkk. Setiap kali kuliah Alin, kepalaku selalu *blow off*. Kaya rasanya crooottttt 💦💦💦. *Mindblown* gitu lah. Karena ada beberapa yang selama ini kaya
 
->  OHHHH GITUUUU, kok aku baru nyadaarr!! Ternyata udah sering kita pake! Dan faktanya proofnya Alin itu selalu bagus, indah dan everything is just good and fine. Apalagi kalau udah paham, terus diliatin interpretasi geometrinya. Materi kesukaan itu yang Ruang baris, kolom, dan Null. Karena basically you're a monk 👨‍🦲 kalau ngerti. Duar 💣!
+>  OHHHH GITUUUU, kok aku baru nyadaarr!! Ternyata udah sering kita pake! Dan faktanya *proof*-nya Alin itu selalu bagus, indah dan *everything is just good and fine*. Apalagi kalau udah paham, terus diliatin interpretasi geometrinya. Materi kesukaan itu yang Ruang baris, kolom, dan Null. Karena *basically* *you're a monk* 👨‍🦲 kalau ngerti. Duar 💣!
 
-Bahkan aku ngerasa Alin ini emang ga layak jadi mata kuliah. Harusnya jadi subject sendiri di SMA. Untuk kuliahnya sendiri biasanya ga full dan emang Alinnya ga hitung-hitungan 🥇. Kebanyakan menjawab pertanyaan True ✔️/False ⛔ sama reasoning konsep aja. Ga terlalu banyak disuruh ngitung determinan, nyari inverse dkk. Tapi lebih ke konsep tentang invers matriks itu sendiri.
+Bahkan aku ngerasa Alin ini emang ga layak jadi mata kuliah. Harusnya jadi subject sendiri di SMA. Untuk kuliahnya sendiri biasanya ga *full* dan emang Alinnya ga hitung-hitungan 🥇. Kebanyakan menjawab pertanyaan True ✔️/False ⛔ sama *reasoning* konsep aja. Ga terlalu banyak disuruh ngitung determinan, nyari inverse dkk. Tapi lebih ke konsep tentang invers matriks itu sendiri.
 
 Terus biasanya kalau ada sesuatu yang mesti diproof, percuma aja nanya di kelas. Kadang kalo nanya ke Bu Kasiyah.
 
-> *Aku dan siapapun*: Permisi bu, ini proofnya gimana ya?  
+> *Aku dan siapapun*: Permisi bu, ini *proof*-nya gimana ya?  
 > *Bu Kasiyah*: Nah, ini kalian telusuri sendiri. IBu tIdaK iNGin merENGguT KeBaHaGiaAN kAliAn  
 
-But damn, so I ended up hampir selalu ngeproof sendiri, dan pas selesai diproof, kaya "WOW" what is this, dan emang proof Alin yang indah itu sesuatu yang benar-benar "Bahagia"! (Ini ga ada ironynya sama sekali) Kudos to Bu Kasiyah lah. Bless her for her amazing ways to teach Alin 😇.
+*But damn, so I ended up* hampir selalu nge-*proof* sendiri, dan pas selesai di-*proof*, kaya "WOW" *what is this*, dan emang *proof* Alin yang indah itu sesuatu yang benar-benar "Bahagia"! (Ini ga ada *irony*-nya sama sekali) *Kudos to* Bu Kasiyah lah. *Bless her for her amazing ways to teach Alin* 😇.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117101152768.jpg" alt="" width="300"/><br> <b><i>Aku Suka Alin ❤️</i></b></div>
 
-Alin ini juga ada belajar tentang vektor as an element di dalam ruang vektor kan pastinya, dan di MatDas 2 itu butuh banget pengetahuan tentang vektor. Jadi sangat berhubungan sih ini mata kuliahnya menurutku 🐻.
+Alin ini juga ada belajar tentang vektor *as an element* di dalam ruang vektor kan pastinya, dan di MatDas 2 itu butuh banget pengetahuan tentang vektor. Jadi sangat berhubungan sih ini mata kuliahnya menurutku 🐻.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.02.jpeg" alt="" width="200"/><br> <b><i>Bolak Balin Alin Matdas</i></b></div>
 
@@ -285,25 +285,25 @@ WKWK. Kelompok ini inti awalnya dipakai buat diskusi-diskusi tentang Alin dan ad
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117101659044.png" alt="" width="600"/><br> <b><i>Feedback Bu Kasiyah</i></b></div>
 
-Berhasil membuat tambahan 70 postingan dalam satu malam. Membuat nilai kami sungguh Stonks WKAKKKKAKAKA ↗️.
+Berhasil membuat tambahan 70 postingan dalam satu malam. Membuat nilai kami sungguh Stonks ↗️ WKAKKKKAKAKA.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117101534863.png" alt="" width="100"/><br> <b><i>Nilai Tugas Kelompok Alin</i></b></div>
 
 #### Fun Quiz
 
-Sempat sekali ada Fun Quiz bareng tiga kelas. Mungkin asdosnya lupa ngebuat shortened linknya gitu, jadi url not found kan (Lagi ngezoom semuanya ceritanya). Terus aku dengan sangat **S P E E D** 🚗 ngide iseng-iseng ambil shortened link yang sama, terus ku redirect ke rickroll. WKWKKW. Ngakak sih itu 180 orang kena rickroll 🤣🤣. Ga kenapa-napa kok, akhirnya linknya dipindah. (Ga fatal kok tenang aja, kejadiannya cepat, cuma 2 menitan dan fun quiznya ga dinilai). *(Semoga yang baca ga marah kalo kalian baru sadar ini aku KWKWKWK)*
+Sempat sekali ada Fun Quiz bareng tiga kelas. Mungkin asdosnya lupa ngebuat *shortened link*-nya gitu, jadi *URL not found* kan (Lagi ngezoom semuanya ceritanya). Terus aku dengan sangat **S P E E D** 🚗 ngide iseng-iseng ambil *shortened link* yang sama, terus ku *redirect* ke *rickroll*. WKWKKW. Ngakak sih itu 180 orang kena rickroll 🤣🤣. Ga kenapa-napa kok, akhirnya *link*-nya dipindah. (Ga fatal kok tenang aja, kejadiannya cepat, cuma 2 menitan dan *fun quiz*-nya ga dinilai). *(Semoga yang baca ga marah kalo kalian baru sadar ini aku KWKWKWK)*
 
 ### StatProb
 
 #### Apa yang Dipelajari
 
-- Jujur ini matakuliahnya ga exciting banget sih sebenarnya wkwkkw. Karena ya cuma statistika dan probabilitas. Tapi soal-soalnya menarik sihh 💯!!
-- Belajar tentang probabilitas in a proper way intinya. Misalnya random variable, conditional probability, quantile function, markov chain, distribution aneh-aneh 😩.
-- Cara memakai the R programming language yang menurutku harusnya udah ada python sebagai penggantinya 🐁. 
+- Jujur ini matakuliahnya ga *exciting* banget sih sebenarnya wkwkkw. Karena ya cuma statistika dan probabilitas. Tapi soal-soalnya menarik sihh 💯!!
+- Belajar tentang probabilitas *in a proper way* intinya. Misalnya *random variable, conditional probability, quantile function, markov chain, distribution* aneh-aneh 😩.
+- Cara memakai the R *programming language* yang menurutku harusnya udah ada python sebagai penggantinya 🐁. 
 
 #### Kuliah
 
-Kuliahnya tiap hari selasa jam 1 sampai 3.30. langsung 3 SKS jugaa. PR-PRnya menyenangkan, dan aku dapat banyak banget ide soal-soal CP dari mata kuliah ini. TBH yang asyik itu pas ngerjain PRnya sih. Dulu pas PR 1 sama 2 kalau ga salah setiap soalnya mesti dicoba buat program pake R. Ada satu soal yang ditanya pembuktian bilangan bulat dari suatu notasi faktorial pembagian gitu. Bisa sih diproof pake legendre. Tapi emang magerin 🦎.
+Kuliahnya tiap hari selasa jam 1 sampai 3.30. langsung 3 SKS jugaa. PR-PRnya menyenangkan, dan aku dapat banyak banget ide soal-soal CP dari mata kuliah ini. TBH yang asyik itu pas ngerjain PRnya sih. Dulu pas PR 1 sama 2 kalau ga salah setiap soalnya mesti dicoba buat program pake R. Ada satu soal yang ditanya pembuktian bilangan bulat dari suatu notasi faktorial pembagian gitu. Bisa sih di-*proof* pake legendre. Tapi emang magerin 🦎.
 
 ```R
 gcd <- function(x, y){
@@ -334,35 +334,35 @@ for(i in 1:97){
 }
 ```
 
-Kurang lebih program R itu kaya gitu. Yang lebih fucked up lagi, R bisa kaya kiri kanan assignment gitu 😆.
+Kurang lebih program R itu kaya gitu. Yang lebih *fucked up* lagi, R bisa kaya kiri kanan *assignment* gitu 😆.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117103735340.png" alt="" width="200"/><br> <b><i>Sorcery kah?</i></b></div>
 
-WAKKAKKA. Trash. Kuliahnya seru.. Ada kuis kahootnya, terus Mario selalu minta ngizin buat ngerekam. Tapi sampai sekarang aku belum pernah rewatch kuliahnya sih 📹. Yang penting buat statprob ini cuma latihan soal sama baca slide menurutku.
+WAKKAKKA. *Trash*. Kuliahnya seru.. Ada kuis kahootnya, terus Mario selalu minta ngizin buat ngerekam. Tapi sampai sekarang aku belum pernah *rewatch* kuliahnya sih 📹. Yang penting buat statprob ini cuma latihan soal sama baca *slide* menurutku.
 
 ### SDA
 
-Ayayayayy. Mata kuliah yang asyik, dan gabut, karena pada dasarnya materi-materinya udah pernah dicover di pelatnas sih 😎. Karena ga terlalu ngeberatin semester kali ini. Sampai ada meme ini.
+Ayayayayy. Mata kuliah yang asyik, dan gabut, karena pada dasarnya materi-materinya udah pernah di-*cover* di pelatnas sih 😎. Karena ga terlalu ngeberatin semester kali ini. Sampai ada meme ini.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.01 (1).jpeg" alt="" width="300"/><br> <b><i>Pagi Lord</i></b></div>
 
 #### Foldering
 
-Jadi aku punya 2 PC yang sering aku pakai. Yang satunya ROG, agak berat dia dual boot, jadi aku punya satu PC lagi yang windows doang, itu ada SSD 256GB sama HDD 1TB 🚴‍♂️. Somehow ga bisa dijadiin dual boot. Tapi gapapa sih. Kayanya karena dia osnya di SSD, dan oleh karena itu aku biasanya nyimpen data-data yang udah ga kebuka lagi di HDD, kaya data-data semester ini, game, atau film. 
+Jadi aku punya 2 PC yang sering aku pakai. Yang satunya ROG, agak berat dia *dual boot*, jadi aku punya satu PC lagi yang windows doang, itu ada SSD 256GB sama HDD 1TB 🚴‍♂️. *Somehow* ga bisa dijadiin dual boot. Tapi gapapa sih. Kayanya karena dia osnya di SSD, dan oleh karena itu aku biasanya nyimpen data-data yang udah ga kebuka lagi di HDD, kaya data-data semester ini, game, atau film. 
 
 *Rushes to folder SDA yang udah ku simpen di HDD karena aku sudah lupa SDA*
 
 #### Apa yang Dipelajari
 
-- Belajar analisis algoritma, kompleksitas, OHH. Wait. Somehow ada dua materi di SDA yang sangat berguna bagi aku. Ga cuma dua sih sebenarnya. Lebih ke bagaimana diajarkan sebenarnya CP juga bisa OOP 🗳️.
+- Belajar analisis algoritma, kompleksitas, OHH. *Wait. Somehow* ada dua materi di SDA yang sangat berguna bagi aku. Ga cuma dua sih sebenarnya. Lebih ke bagaimana diajarkan sebenarnya CP juga bisa OOP 🗳️.
 
-- Generics, jadi generics ini kita diajarkan pada dasarnya ada sebuah class atau method atau fungsi yang dia bisa menerima tipe data apa aja sebagai parameternya 🗼. Jadi enak sih. Sangat berguna apalagi kalau fungsinya rada umum dan bisa dipakai setiap barang, kaya fungsi print matrix gitu misalnya 🖨️. Kan isi matrixnya bisa apa aja gitu kan. Nah, ini di CP sangat berguna juga.  
+- Generics, jadi generics ini kita diajarkan pada dasarnya ada sebuah *class* atau *method* atau fungsi yang dia bisa menerima tipe data apa aja sebagai parameternya 🗼. Jadi enak sih. Sangat berguna apalagi kalau fungsinya rada umum dan bisa dipakai setiap barang, kaya fungsi print matrix gitu misalnya 🖨️. Kan isi matriksnya bisa apa aja gitu kan. Nah, ini di CP sangat berguna juga.  
   
-  Ambillah kasus ngerjain geometri 📐, terus ada class titik, nah itu titiknya kita bisa store lattice points, yang integer atau simply store double kan, atau long double. Template kan biasanya ga mungkin kita bikin 3 buah buat masing-masing tipe data 🧑‍🤝‍🧑. Nah, itu bisa pake typedef aja atau generics kalau di C++. Seingetku ada yang compile time juga kok timenya. Jadi ya keren aja.
+  Ambillah kasus ngerjain geometri 📐, terus ada class titik, nah itu titiknya kita bisa *store lattice points*, yang integer atau *simply store* double kan, atau long double. Template kan biasanya ga mungkin kita bikin 3 buah buat masing-masing tipe data 🧑‍🤝‍🧑. Nah, itu bisa pake typedef aja atau generics kalau di C++. Seingetku ada yang *compile time* juga kok timenya. Jadi ya keren aja.
 
-- Sorting, disini aku belajar cara sorting manual. WKKW. Terus belajar kerennya shellsort. Terus belajar linked list. Disini aku nambah pengetahuan tentang pointer karena basically behaviornya Object di java itu sama kaya pointer di C++ 🔺.
+- *Sorting*, di sini aku belajar cara *sorting* manual. WKKW. Terus belajar kerennya *shell sort*. Terus belajar linked list. Disini aku nambah pengetahuan tentang pointer karena *basically behavior*-nya Object di java itu sama kaya pointer di C++ 🔺.
 
-- Terus ada juga Tree, Binary Search Tree, Balanced Binary Search Tree (Tahun ini cuma diajarin AVL 🌴, padahal semester lalu ada Red Black Tree sama ada B+ Tree 🎄) Emang AVL rada tricky sih. Tapi sebenarnya kalau teliti bisa-bisa aja oneshot menurutku, karena method-methodnya cukup obvious :/
+- Terus ada juga Tree, Binary Search Tree, Balanced Binary Search Tree (Tahun ini cuma diajarin AVL 🌴, padahal semester lalu ada Red Black Tree sama ada B+ Tree 🎄) Emang AVL rada *tricky* sih. Tapi sebenarnya kalau teliti bisa-bisa aja *oneshot* menurutku, karena method-methodnya cukup *obvious* :/
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.02 (1).jpeg" alt="" width="300"/><br> <b><i>Yuk Bisa Yuk</i></b></div>
 
@@ -372,7 +372,7 @@ Jadi aku punya 2 PC yang sering aku pakai. Yang satunya ROG, agak berat dia dual
 
 #### Kuliah
 
-Kuliahnya setiap hari Selasa Kamis jam 10 kalau ga salah. Kelasnya biasa. Sebenarnya SDA ada disediain video. Tapi aku nonton pas deket UTS sama UAS aja HAHAHHAHAH (Jangan ditiru ya ini guys, harusnya sesuai harinya ya ditonton video pembelajarannya). Karena kelasnya jam 10, aku sering sarapan pas kelas 🍪.
+Kuliahnya setiap hari Selasa Kamis jam 10 kalau ga salah. Kelasnya biasa. Sebenarnya SDA ada disediain video. Tapi aku nonton pas deket UTS sama UAS aja HAHAHHAHAH (Jangan ditiru ya ini *guys*, harusnya sesuai harinya ya ditonton video pembelajarannya). Karena kelasnya jam 10, aku sering sarapan pas kelas 🍪.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231643915.png" alt="" width="200"/><br> <b><i>Susu Regal</i></b></div>
 
@@ -380,7 +380,7 @@ Biasanya buat susu, oat, regal, pepaya, atau pisang. Pernah juga makan chocolate
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231720102.jpg" alt="" width="200"/><br> <b><i>Kue Coklat</i></b></div>
 
-Hari kamisnya bahas checkpoint. Apa itu checkpoint 🎏?
+Hari kamisnya bahas *checkpoint*. Apa itu *checkpoint* 🎏?
 
 #### Checkpoint
 
@@ -394,9 +394,9 @@ Hari kamisnya bahas checkpoint. Apa itu checkpoint 🎏?
 > Mahasiswa: **Checkpoint bu**  
 > Hocky: <strike>Child porn bu tentunya hehe</strike> (Gara-gara diekspos dengan singkatan aneh-aneh pas ngobrol tentang CP)  
 
-Jadi tiap minggunya ada checkpoint yang actually porsi nilainya ke nilai akhir cukup gede 💯. Jadi checkpoint itu semacam latihan kuis aja di scele yang ga dibatasin pake waktu attemptnya di SceLe (moodle/sistem informasi tempat belajar gitu lha kalau di sekolah sekolah gitukan) 🏫.
+Jadi tiap minggunya ada checkpoint yang *actually* porsi nilainya ke nilai akhir cukup gede 💯. Jadi checkpoint itu semacam latihan kuis aja di scele yang ga dibatasin pake waktu *attempt*-nya di SceLe (moodle/sistem informasi tempat belajar gitu lha kalau di sekolah sekolah gitu 'kan?) 🏫.
 
-Checkpointnya itu 10%. Gede banget kan sebenarnya.
+*Checkpoint*-nya itu 10%. Gede banget kan sebenarnya.
 
 >Bu Mei: Ada yang bisa bantu ibu jelaskan pembahasan checkpoint ini nomor 9?  
 >Mahasiswa: Bisa bu, jadi (bla bla bla *menjelaskan*)  
@@ -421,25 +421,25 @@ Overall UTS dan UASnya aku lancar-lancar aja sih. Ada bagian ngoding dan bisa ku
 
 #### Tugas Pemrograman dan Lab
 
-Ga terlalu susah soal lab dan TPnya. Lumayan bagus juga. TP 1 aku sempat struggle karena aku ga teliti baca soal dan ada miss sesuatu 😢.
+Ga terlalu susah soal lab dan TPnya. Lumayan bagus juga. TP 1 aku sempat *struggle* karena aku ga teliti baca soal dan ada miss sesuatu 😢.
 
 ### Matdas 2
 
-Legit sumpah aku takut pol sama mata kuliah ini. Nilai-nilai kuisku ga begitu tinggi, begitu juga dengan nilai-nilai Pop Quizku. Semoga UTS dan UASku bisa carry lah ya.
+Legit sumpah aku takut pol sama mata kuliah ini. Nilai-nilai kuisku ga begitu tinggi, begitu juga dengan nilai-nilai Pop Quizku. Semoga UTS dan UASku bisa *carry* lah ya.
 
 #### Apa yang Dipelajari
 
-- Integral Tak Wajar, disini belajar yang antara integrannya bisa tak hingga gitu atau batasnya yang tak hingga. Actually materinya ga begitu susah, cuma perlu basic limit aja. Cuma *learning pace* calculus ku agak lambat sih (baca: akunya aja yang goblok 🤮). Menurutku karena aku ga begitu paham aja dengan penjelasan gurunya. Menurutku dosennya sudah bagus sih penjelasannya. Hanya saja aku yang ga begitu nangkep 😵.
+- Integral Tak Wajar, disini belajar yang antara integrannya bisa tak hingga gitu atau batasnya yang tak hingga. *Actually* materinya ga begitu susah, cuma perlu basic limit aja. Cuma *learning pace* calculus ku agak lambat sih (baca: akunya aja yang goblok 🤮). Menurutku karena aku ga begitu paham aja dengan penjelasan gurunya. Menurutku dosennya sudah bagus sih penjelasannya. Hanya saja aku yang ga begitu nangkep 😵.
 
-- Belajar barisan dan deret tak hingga, ada lookback ke generating function, nentuin konvergenitas suatu barisan, test-test suatu fungsi diskret dan kontinu buat ngecek itu konvergen atau ga 🛩️.
+- Belajar barisan dan deret tak hingga, ada *lookback* ke *generating function*, nentuin konvergenitas suatu barisan, *test-test* suatu fungsi diskret dan kontinu buat ngecek itu konvergen atau ga 🛩️.
 
-- Persamaan Parametrik dan Koordinat (I actually pretty suka dengan materi ini karena dekat dengan CP sama fisika imo)
+- Persamaan Parametrik dan Koordinat (*I actually pretty* suka dengan materi ini karena dekat dengan CP sama fisika imo)
 
 - Fungsi peubah banyak, geometri di ruang dimensi lebih tinggi, 
 
-- Integral Lipat, ini bagus sih materinya. Cuma aku adalah contoh tipe orang yang "Late to the party" Imagine H-3 UAS baru fully understand materi ini. Sebenarnya integral lipat itu ga susah kok, mirip banget malah sama integral biasa. Aku paling suka yang bagian Jacobian Matrix, atau change of variable di Integral Lipat 🔢. Sebenarnya di integral biasa juga ada, tapi ga dijelasin asal-usulnya. Kalau kita perhatikan sebenarnya change of variable itu kan dia ngerubah basis ya. Kalau di CP itu sempat pernah ada soal yang querynya rhombus 💟 gitu, nah itu kita transform linear jadi persegi kan. Itu di kalkulus juga ada. Transformasi linear yang dibentuknya itu buat ngerjain soal integral lipat yang rada impossible 😛.
+- Integral Lipat, ini bagus sih materinya. Cuma aku adalah contoh tipe orang yang "*Late to the party*" *Imagine* H-3 UAS baru *fully understand* materi ini. Sebenarnya integral lipat itu ga susah kok, mirip banget malah sama integral biasa. Aku paling suka yang bagian Jacobian Matrix, atau *change of variable* di Integral Lipat 🔢. Sebenarnya di integral biasa juga ada, tapi ga dijelasin asal-usulnya. Kalau kita perhatikan sebenarnya *change of variable* itu kan dia ngubah basis ya. Kalau di CP itu sempat pernah ada soal yang *query*-nya rhombus 💟 gitu, nah itu kita transform linear jadi persegi kan. Itu di kalkulus juga ada. Transformasi linear yang dibentuknya itu buat ngerjain soal integral lipat yang rada *impossible* 😛.
 
-- Lebih kerennya lagi, sebenarnya perubahan ke koordinat polar itu change of variable juga. Tapi kalau ada change of variable, pasti ada dilatasi luas kan. Nah itu kita cek pake determinan matrix. Kita tahu kalau scaling luasnya pasti sama kan, nah itu kita bisa ngitung nilai Jacobian dari matrix transformasinya 👍. Wow kan!! Kalau kita hitung transformasi buat persamaan polar, nanti bakal dapat rumus yang $\iint_D f(r, \theta)\cdot r\ dr\ d\theta$. Iya yang itu aja sebenarnya udah cukup buat **lulus **Matdas 2. Kalau mau dapat A kayanya harus sering latihan soal. 💫
+- Lebih kerennya lagi, sebenarnya perubahan ke koordinat polar itu *change of variable* juga. Tapi kalau ada *change of variable*, pasti ada dilatasi luas kan. Nah itu kita cek pake determinan matrix. Kita tahu kalau *scaling* luasnya pasti sama kan, nah itu kita bisa ngitung nilai Jacobian dari matrix transformasinya 👍. Wow kan!! Kalau kita hitung transformasi buat persamaan polar, nanti bakal dapat rumus yang $\iint_D f(r, \theta)\cdot r\ dr\ d\theta$. Iya yang itu aja sebenarnya udah cukup buat **lulus **Matdas 2. Kalau mau dapat A kayanya harus sering latihan soal. 💫
 
 - Aku sempat satu malam belajar sampai jam 3, karena udah depresi banget lah liat nilai kuis rendah pol ☹️.
 
@@ -447,7 +447,7 @@ Legit sumpah aku takut pol sama mata kuliah ini. Nilai-nilai kuisku ga begitu ti
 
 - Pengantar persamaan diferensial, belajar tentang ODE, akar-akar karakteristiknya
 
-- TBH, kayanya ini satu-satunya matkul yang aku agak menyesal dengan cara belajarku sampai akhir semester 😢. Aku cukup yakin kalau diriku yang baru masuk semester kalau dikasi semacam pemikiran dulu, pasti bisa dengan eznya dapat A. Sayangnya waktu tidak bisa diulang ya. Aku bakal rada nyesel sih actually kalo ga dapet A. Tapi that's risk everyone would take 🎱.
+- TBH, kayanya ini satu-satunya matkul yang aku agak menyesal dengan cara belajarku sampai akhir semester 😢. Aku cukup yakin kalau diriku yang baru masuk semester kalau dikasi semacam pemikiran dulu, pasti bisa dengan *ez*-nya dapat A. Sayangnya waktu tidak bisa diulang ya. Aku bakal rada nyesel sih *actually* kalo ga dapet A. Tapi *that's risk everyone would take* 🎱.
 
 - Orang-orang sering nanya ke aku tentang Matdas. Tapi mereka sangat berani ya, karena aku sendiri keteteran oleh mata kuliah ini.
 
@@ -455,7 +455,7 @@ Legit sumpah aku takut pol sama mata kuliah ini. Nilai-nilai kuisku ga begitu ti
 
 #### Pop Quiz
 
-Setiap hari Jumat gitu ada pop quiz, semacam test atas materi yang diajarin hari ini. Jujur aku ga begitu suka karena biasanya jumat itu teler bgt aku. Apalagi jadwalku super padat hari Jumat, dan malamnya itu pop quiz kan 💫. Itu bikin ngedown aja sih kadang. Padahal sebenarnya kalau dikasi worksheet atau PR menurutku lebih cocok sih MatDas jujur aja. Selain itu, Quiz-Quizku juga harusnya fucked up sih. Effort belajarku zero to none bjir buat kuis 👎.
+Setiap hari Jumat gitu ada pop quiz, semacam tes atas materi yang diajarin hari ini. Jujur aku ga begitu suka karena biasanya jumat itu teler bgt aku. Apalagi jadwalku super padat hari Jumat, dan malamnya itu pop quiz kan 💫. Itu bikin nge-*down* aja sih kadang. Padahal sebenarnya kalau dikasi worksheet atau PR menurutku lebih cocok sih MatDas jujur aja. Selain itu, Quiz-Quizku juga harusnya *fucked up* sih. *Effort* belajarku *zero to none* bjir buat kuis 👎.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03 (2).jpeg" alt="" width="300"/><br> <b><i>Gagal Kamu Hock</i></b></div>
 
@@ -472,7 +472,7 @@ Sebenarnya matdas ini materinya cukup populer, biasanya aku belajar dari sini:
 - [Lamar University Tutorial](https://tutorial.math.lamar.edu/)
 - [Libre Text](https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax))
 
-Nah, itu yang penting sebenarnya ngerti konsepnya aja sih. Ga begitu susah *tho* sebenarnya kalau ngerti. Materi yang aku agak bingung sebenarnya symmetry check aja sih 🍷. Terutama ada yang ngecheck bagian roses itu 🌹. Somehow kan graphnya harusnya simetris semua kan. Tapi ga lolos semua symmetry checknya gitu pas beberapa aku coba. :( padahal di purcell dia cuma buktiin satu terus dia bilang $r = 4 \sin(2\theta)$ memenuhi ketiga pengujian simetri like wtf dehh.
+Nah, itu yang penting sebenarnya ngerti konsepnya aja sih. Ga begitu susah *tho* sebenarnya kalau ngerti. Materi yang aku agak bingung sebenarnya *symmetry check* aja sih 🍷. Terutama ada yang ngecheck bagian roses itu 🌹. Somehow kan graphnya harusnya simetris semua kan. Tapi ga lolos semua *symmetry check*-nya gitu pas beberapa aku coba. :( padahal di purcell dia cuma buktiin satu terus dia bilang $r = 4 \sin(2\theta)$ memenuhi ketiga pengujian simetri like *wtf* dehh.
 
 ### MPK Agama Kristen
 
@@ -490,7 +490,7 @@ Kayanya yang aku pribadi pelajari itu aja sih. Kebetulan ada kelas tambahan yang
 
 ### ICPC Jakarta 2020
 
-Aku ikut ICPC Regional Jakarta dan asyiknya bisa ke Depok yey.. Aku setim sama Kak Igo sama Kak Rey. Kami naik pesawat, terus intinya pengen cepet-cepetan lah sampai duluan. Aku sama Novaryo akhirnya berangkat dari Pontianak, tapi akhirnya flight ✈️ kami di-*delay* sampai besok paginya karena enginenya ada *accident* kemasukan burung 🐔. Aku udah beliin kue Ponti Bonti dan akhirnya harus ditunda. Kami akhirnya dikasi hotel semalam di Orchardz Gadjahmada Pontianak dari AirAsia, dan akhirnya terbang besok paginya 😄.
+Aku ikut ICPC Regional Jakarta dan asyiknya bisa ke Depok yey.. Aku setim sama Kak Igo sama Kak Rey. Kami naik pesawat, terus intinya pengen cepet-cepetan lah sampai duluan. Aku sama Novaryo akhirnya berangkat dari Pontianak, tapi akhirnya flight ✈️ kami di-*delay* sampai besok paginya karena *engine*-nya ada *accident* kemasukan burung 🐔. Aku udah beliin kue Ponti Bonti dan akhirnya harus ditunda. Kami akhirnya dikasi hotel semalam di Orchardz Gadjahmada Pontianak dari AirAsia, dan akhirnya terbang besok paginya 😄.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231503267.jpg" alt="" width="400"/><br> <b><i>Delay ☹️</i></b></div>
 
@@ -500,7 +500,7 @@ Aku sempat beli es krim dan makan banyak di Airport wkwkkw. Malamnya Kak Galang 
 
 ### Kulineran
 
-Di Pontianak kalau lagi kelas aku sering lapar. Padahal pengen turunin berat badan, tapi ended up jajan terus-terusan. Aku paling suka oreo milkshake berry punya Janji Jiwa, sama Toss Cafe ada nasi sambal ayam bawang gitu. Aku juga sering beli salad. Donat juga pernah sekali 🍩.
+Di Pontianak kalau lagi kelas aku sering lapar. Padahal pengen turunin berat badan, tapi *ended up* jajan terus-terusan. Aku paling suka oreo milkshake berry punya Janji Jiwa, sama Toss Cafe ada nasi sambal ayam bawang gitu. Aku juga sering beli salad. Donat juga pernah sekali 🍩.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231446821.jpg" alt="" width="300"/><br> <b><i>Donatnya Mas, Mbak</i></b></div>
 
@@ -522,7 +522,7 @@ Aku kalau udah main game suka marathon gitu, jadi kalau udah buka game bisa seha
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03.jpeg" alt="" width="400"/><br> <b><i>Cara Menghabiskan Hoki for the Rest of the Semester</i></b></div>
 
-Di game ini musuh-musuh dan fighting mechanismnya juga seru dan bikin nagih, bikin kita pengen upgrade menjadi lebih kuat banget. Aku paling benci kalau ada Abyss Mage yang Es ❄️ sama yang Air 💦. Bener-bener ga bisa mati weh. Apalagi mainnya kita selalu kefreeze mulu, kalau lagi wet terus dihit sama mage cryonya.
+Di game ini musuh-musuh dan *fighting mechanism*-nya juga seru dan bikin nagih, bikin kita pengen upgrade menjadi lebih kuat banget. Aku paling benci kalau ada Abyss Mage yang Es ❄️ sama yang Air 💦. Bener-bener ga bisa mati weh. Apalagi mainnya kita selalu ke-*freeze* mulu, kalau lagi wet terus dihit sama mage cryonya.
 
 <div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03 (1).jpeg" alt="" width="300"/><br> <b><i>Gung-Gung Gaa</i></b></div>
 
