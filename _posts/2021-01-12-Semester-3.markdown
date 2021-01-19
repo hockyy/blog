@@ -265,8 +265,8 @@ Bahkan aku ngerasa Alin ini emang ga layak jadi mata kuliah. Harusnya jadi subje
 
 Terus biasanya kalau ada sesuatu yang mesti diproof, percuma aja nanya di kelas. Kadang kalo nanya ke Bu Kasiyah.
 
-> *Aku dan siapapun*: Permisi bu, ini proofnya gimana ya?
-> *Bu Kasiyah*: Nah, ini kalian telusuri sendiri. IBu tIdaK iNGin merENGguT KeBaHaGiaAN kAliAn
+> *Aku dan siapapun*: Permisi bu, ini proofnya gimana ya?  
+> *Bu Kasiyah*: Nah, ini kalian telusuri sendiri. IBu tIdaK iNGin merENGguT KeBaHaGiaAN kAliAn  
 
 But damn, so I ended up hampir selalu ngeproof sendiri, dan pas selesai diproof, kaya "WOW" what is this, dan emang proof Alin yang indah itu sesuatu yang benar-benar "Bahagia"! (Ini ga ada ironynya sama sekali) Kudos to Bu Kasiyah lah. Bless her for her amazing ways to teach Alin 😇.
 
@@ -384,8 +384,8 @@ Hari kamisnya bahas checkpoint. Apa itu checkpoint 🎏?
 
 #### Checkpoint
 
-> **Tebal:** di chat google meet  
-> <strike>Dicoret</strike>: di pikiranku  
+> **Tebal** $\rightarrow$ di chat google meet  
+> <p><strike>Dicoret</strike> $\rightarrow$ di pikiranku </p>  
 >
 > *Konteks lagi bahas soal*  
 >
