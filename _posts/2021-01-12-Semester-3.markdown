@@ -18,11 +18,11 @@ published: true
 
 - Sumpah ini malas banget buat blog ini. Aku hari-hari rasanya mager banget kenapa ya. Apakah ini tanda-tanda aku sudah tua 👴 Cie btw aku ulang tahun yang ke-18 lho hehe mantap.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.05 (1)-1610985425066.jpeg" alt="" width="300"/><br> <b><i>Ulang Tahunku 🎂!! Duh Sumpah Aku Ganteng Banget Ga Sih Disini WKWKKWKWW</i></b></div><br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.05 (1)-1610985425066.jpeg" alt="" width="300"/><br> <b><i>Ulang Tahunku 🎂!! Duh Sumpah Aku Ganteng Banget Ga Sih Disini WKWKKWKWW</i></b></div><br>
 
 - Aku ganti workflow, aku sekarang jadi sering pakai *Typora*. Typora itu app buat notetaking, dia bakal nulis di dalam editor semacam semi-(What You See Is What You Get), jadi live typing bisa ngelihat hasilnya langsung 👁️.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210112110332467.png" alt="Typora" width="500"/><br> <b><i>Typora Kaya Apa Sih</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210112110332467.png" alt="Typora" width="500"/><br> <b><i>Typora Kaya Apa Sih</i></b></div> <br>
 
   Kurang lebih looksnya seperti itu, settingannya cukup membantu dalam notetaking, beberapa yang favoritku itu ialah gratis 🤑, terus kalau mau masukin gambar, tinggal paste aja, dia otomatis masukin ke folder assets dan langsung diembed ke docs dalam format md yang sesuai 🖼️. Easy af. Terus shortcutsnya juga gampang. Jadi ya, you've won my heart ❤️.
 
@@ -134,13 +134,13 @@ Asyik sih 😆 Pakai yang namanya Groupthink gitu, tapi sekarang webnya udah mat
 
 Biasanya kalau aku *copy-paste* gitu, kehighlight pake nama aku kan di docsnya. Jadi kadang satu dokumen cuma namaku doang. Kesannya aku mendominasi. 📄
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/245.gif" alt="VS Code" width="300"/><br> <b><i>Pas Dosen Ngeliat Docsnya Banyak Highlight Dariku</i></b></div>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/245.gif" alt="VS Code" width="300"/><br> <b><i>Pas Dosen Ngeliat Docsnya Banyak Highlight Dariku</i></b></div>
 
 #### Story
 
 Tiap Minggunya ada story, story itu semacam praktik mingguan, ngerjain website gitu websiteku bisa diakses di [sini](https://hockyy.com/). Ini bisa aja mati anytime karena aku dapat domainnya gratisan dari Lomba CP dan aku malas extend lagi domainnya 😇.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210114205054509.jpg" alt="" width="700"/><br> <b><i>Cuplikan Website-ku yang Maha Berat</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210114205054509.jpg" alt="" width="700"/><br> <b><i>Cuplikan Website-ku yang Maha Berat</i></b></div> <br>
 
 Hari-hari intinya cuma ngoding website. Asyik-asyik aja. Yang paling berat menurutku Story 3, 4. Itu kita disuruh bikin desain website sama target dari website kita. Disana kita basically designing aja sih 🚸.
 
@@ -154,11 +154,11 @@ Setelah nanya Eko, Kak Sage, Kak Ariq (Asdos-ku), Joni, dan teman-teman maha bai
 
 Kebetulan sampe akhir story aku pake design web yang sama, semua fitur story aku taro di satu website utamaku. Hehe, jadi perlu satu repo doang, ga perlu bikin repo baru dan ngurus CSS-nya lagi. 🧭
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210114213621630.png" alt="" width="400"/><br> <b><i>Repository Storyku</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210114213621630.png" alt="" width="400"/><br> <b><i>Repository Storyku</i></b></div> <br>
 
 Sempat ada juga kejadian goblok pas aku sok-sokan ngebikin error handler gitu kan. Jadi error kaya yang ada langsung di-*redirect* ke custom page. Pas ada error di Herokunya, aku mati ngedebugnya weh. 🐛
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118231954713.png" alt="" width="400"/><br> <b><i>Commit History Paling Astagadragon 🐉</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231954713.png" alt="" width="400"/><br> <b><i>Commit History Paling Astagadragon 🐉</i></b></div> <br>
 
 Akhirnya aku sadar itu errornya karena aku pake cloudflare cache systemnya yang terlalu dewa sampai websiteku modelnya error. IHHH PENGEN KUTAMPOL KAMU HOCK 🥊. 
 
@@ -166,7 +166,7 @@ Akhirnya aku sadar itu errornya karena aku pake cloudflare cache systemnya yang 
 
 Tugas kelompoknya dua kali, aku sekelompok sama Boni, Gabriel Enrique, sama Zidan. Awalnya kami bikin dulu desain webnya, terus temanya itu mesti tentang Corona 🥓. 
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210115113728053.png" alt="" width="600"/><br> <b><i>Web Tugas Kelompok</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210115113728053.png" alt="" width="600"/><br> <b><i>Web Tugas Kelompok</i></b></div> <br>
 
 Jadi kami bikin semacam wadah buat meeting online, terus semacam discussion space, sama tempat buat maba tuker-tuker jakun yang ukurannya salah, sama buat mahasiswa yang udah mau lulus, bisa passing barang ke adik tingkatnya yang udah mau lulus. Website kelompokku bisa diakses di [sini](https://uimate-2.herokuapp.com). Tugas kelompok 1 dan 2 nya sama, cuma seperti upgrade-annya aja 👠. 
 
@@ -180,7 +180,7 @@ CITD Budi kalau ga salah Juara 2, dan Alif Juara 1. Tapi ya apa aku habis selesa
 
 Aku ikut Lomba CP sama Julian dan Kak Faiz, terus menang, hadiahnya uang sama domain satu tahun (Best! Thanks Domainesia!!) Aku redeem domain hockyy.com, karena *hocky.com* sudah dipake orang lain buat jualan sextoy 🎷, sampai sekarang domainnya diperpanjang terus-terusan. asw emang ga bisa ku *acquire* 😦. Jadi sering kali orang-orang mau buka hockyy.com malah kebuka situs porno yang bikin kageet 😲.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210115112358567.jpg" alt="" width="300"/><br> <b><i>Juara 1 Find It! 2020</i></b></div>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210115112358567.jpg" alt="" width="300"/><br> <b><i>Juara 1 Find It! 2020</i></b></div>
 
 ### POK
 
@@ -214,7 +214,7 @@ Lagi pula, menurutku POK ini nilainya baik banget. UTS UASnya nilai maxnya 110 d
 
 Sejak minggu ke-berapa gitu ya aku lupa ada Lab AVR sama MIPS. Jadi itu semacam ngoding Assembly lah. Biasa aja sih, ga terlalu susah. Challenging iya, tapi basically cuma CP on Assembly aja. Aku dapat asdos Kak Alghi. Tapi aku jarang nanya-nanya juga sih. Menurutku baca slide aja juga udah cukup 🙌.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210117095531075.png" alt="image-20210117095531075" alt="" width="100"/><br> <b><i>When You See It</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117095531075.png" alt="image-20210117095531075" alt="" width="100"/><br> <b><i>When You See It</i></b></div> <br>
 
 Berikut ialah kode asdos dari asdos-asdos POK saya. Notice something? ( ͡° ͜ʖ ͡°). Iya ini aku juga sadar pas dikasi tau selesai UAS. HAHHAHAHHA. Nice one. Never Thought people would actually slip in a good easter egg 🥚.
 
@@ -240,7 +240,7 @@ Sekarang aku malah berharap.. Kenapa PR ga dibanyakin 😢 hitung-hitung bisa na
 
 Dulu sebelum UAS course pagenya di moodle kaya diexpand semua gitu. Tapi entah kenapa sekarang malah kehide gitu weh. Jadi agak susah sih browsingnya 😓.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210117094448129.png" alt="" width="400"/><br> <b><i>Halaman Course</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117094448129.png" alt="" width="400"/><br> <b><i>Halaman Course</i></b></div> <br>
 
 ### Aljabar Linear
 
@@ -270,24 +270,24 @@ Terus biasanya kalau ada sesuatu yang mesti diproof, percuma aja nanya di kelas.
 
 But damn, so I ended up hampir selalu ngeproof sendiri, dan pas selesai diproof, kaya "WOW" what is this, dan emang proof Alin yang indah itu sesuatu yang benar-benar "Bahagia"! (Ini ga ada ironynya sama sekali) Kudos to Bu Kasiyah lah. Bless her for her amazing ways to teach Alin 😇.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210117101152768.jpg" alt="" width="300"/><br> <b><i>Aku Suka Alin ❤️</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117101152768.jpg" alt="" width="300"/><br> <b><i>Aku Suka Alin ❤️</i></b></div> <br>
 
 Alin ini juga ada belajar tentang vektor as an element di dalam ruang vektor kan pastinya, dan di MatDas 2 itu butuh banget pengetahuan tentang vektor. Jadi sangat berhubungan sih ini mata kuliahnya menurutku 🐻.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.02.jpeg" alt="" width="200"/><br> <b><i>Bolak Balin Alin Matdas</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.02.jpeg" alt="" width="200"/><br> <b><i>Bolak Balin Alin Matdas</i></b></div> <br>
 
 #### Kelompok Alin
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210117101356963.png" alt="" width="600"/><br> <b><i>Anggota Kelompokku</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117101356963.png" alt="" width="600"/><br> <b><i>Anggota Kelompokku</i></b></div> <br>
 
 WKWK. Kelompok ini inti awalnya dipakai buat diskusi-diskusi tentang Alin dan ada Forum Pendalaman yang penilaiannya pake jumlah postingan dan kualitas diskusi. Tentunya kami yang maha gabut dan ga punya waktu 🕙 (Paling kamu doang hock alah bacot 📢).
 
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210117101659044.png" alt="" width="600"/><br> <b><i>Feedback Bu Kasiyah</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117101659044.png" alt="" width="600"/><br> <b><i>Feedback Bu Kasiyah</i></b></div> <br>
 
 Berhasil membuat tambahan 70 postingan dalam satu malam. Membuat nilai kami sungguh Stonks WKAKKKKAKAKA ↗️.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210117101534863.png" alt="" width="100"/><br> <b><i>Nilai Tugas Kelompok Alin</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117101534863.png" alt="" width="100"/><br> <b><i>Nilai Tugas Kelompok Alin</i></b></div> <br>
 
 #### Fun Quiz
 
@@ -336,7 +336,7 @@ for(i in 1:97){
 
 Kurang lebih program R itu kaya gitu. Yang lebih fucked up lagi, R bisa kaya kiri kanan assignment gitu 😆.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210117103735340.png" alt="" width="200"/><br> <b><i>Sorcery kah?</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210117103735340.png" alt="" width="200"/><br> <b><i>Sorcery kah?</i></b></div> <br>
 
 WAKKAKKA. Trash. Kuliahnya seru.. Ada kuis kahootnya, terus Mario selalu minta ngizin buat ngerekam. Tapi sampai sekarang aku belum pernah rewatch kuliahnya sih 📹. Yang penting buat statprob ini cuma latihan soal sama baca slide menurutku.
 
@@ -344,7 +344,7 @@ WAKKAKKA. Trash. Kuliahnya seru.. Ada kuis kahootnya, terus Mario selalu minta n
 
 Ayayayayy. Mata kuliah yang asyik, dan gabut, karena pada dasarnya materi-materinya udah pernah dicover di pelatnas sih 😎. Karena ga terlalu ngeberatin semester kali ini. Sampai ada meme ini.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.01 (1).jpeg" alt="" width="300"/><br> <b><i>Pagi Lord</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.01 (1).jpeg" alt="" width="300"/><br> <b><i>Pagi Lord</i></b></div> <br>
 
 #### Foldering
 
@@ -364,7 +364,7 @@ Jadi aku punya 2 PC yang sering aku pakai. Yang satunya ROG, agak berat dia dual
 
 - Terus ada juga Tree, Binary Search Tree, Balanced Binary Search Tree (Tahun ini cuma diajarin AVL 🌴, padahal semester lalu ada Red Black Tree sama ada B+ Tree 🎄) Emang AVL rada tricky sih. Tapi sebenarnya kalau teliti bisa-bisa aja oneshot menurutku, karena method-methodnya cukup obvious :/
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.02 (1).jpeg" alt="" width="300"/><br> <b><i>Yuk Bisa Yuk</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.02 (1).jpeg" alt="" width="300"/><br> <b><i>Yuk Bisa Yuk</i></b></div> <br>
 
 - Hashing 🔪.
 
@@ -374,11 +374,11 @@ Jadi aku punya 2 PC yang sering aku pakai. Yang satunya ROG, agak berat dia dual
 
 Kuliahnya setiap hari Selasa Kamis jam 10 kalau ga salah. Kelasnya biasa. Sebenarnya SDA ada disediain video. Tapi aku nonton pas deket UTS sama UAS aja HAHAHHAHAH (Jangan ditiru ya ini guys, harusnya sesuai harinya ya ditonton video pembelajarannya). Karena kelasnya jam 10, aku sering sarapan pas kelas 🍪.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118231643915.png" alt="" width="200"/><br> <b><i>Susu Regal</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231643915.png" alt="" width="200"/><br> <b><i>Susu Regal</i></b></div> <br>
 
 Biasanya buat susu, oat, regal, pepaya, atau pisang. Pernah juga makan chocolate cake sisa malem, atau makan sushi sisa malem 🍣.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118231720102.jpg" alt="" width="200"/><br> <b><i>Kue Coklat</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231720102.jpg" alt="" width="200"/><br> <b><i>Kue Coklat</i></b></div> <br>
 
 Hari kamisnya bahas checkpoint. Apa itu checkpoint 🎏?
 
@@ -413,7 +413,7 @@ Checkpointnya itu 10%. Gede banget kan sebenarnya.
 >Hocky: *Realizes i explain orz in a wrong way*
 >Hocky: **seperti bowing bu berterima kasih**  
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/bowing-pic.jpg" alt="" width="300"/><br> <b><i>orz</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/bowing-pic.jpg" alt="" width="300"/><br> <b><i>orz</i></b></div> <br>
 
 Lumayan mirip lah ya.. orz hocky atas ilmunya
 
@@ -443,7 +443,7 @@ Legit sumpah aku takut pol sama mata kuliah ini. Nilai-nilai kuisku ga begitu ti
 
 - Aku sempat satu malam belajar sampai jam 3, karena udah depresi banget lah liat nilai kuis rendah pol ☹️.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.01 (2).jpeg" alt="" width="300"/><br> <b><i>Meningkatkan Risiko Penyakit Jantung</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.01 (2).jpeg" alt="" width="300"/><br> <b><i>Meningkatkan Risiko Penyakit Jantung</i></b></div> <br>
 
 - Pengantar persamaan diferensial, belajar tentang ODE, akar-akar karakteristiknya
 
@@ -451,17 +451,17 @@ Legit sumpah aku takut pol sama mata kuliah ini. Nilai-nilai kuisku ga begitu ti
 
 - Orang-orang sering nanya ke aku tentang Matdas. Tapi mereka sangat berani ya, karena aku sendiri keteteran oleh mata kuliah ini.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.04 (1).jpeg" alt="" width="300"/><br> <b><i>Ga Bisa Manage Waktu Moment</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.04 (1).jpeg" alt="" width="300"/><br> <b><i>Ga Bisa Manage Waktu Moment</i></b></div> <br>
 
 #### Pop Quiz
 
 Setiap hari Jumat gitu ada pop quiz, semacam test atas materi yang diajarin hari ini. Jujur aku ga begitu suka karena biasanya jumat itu teler bgt aku. Apalagi jadwalku super padat hari Jumat, dan malamnya itu pop quiz kan 💫. Itu bikin ngedown aja sih kadang. Padahal sebenarnya kalau dikasi worksheet atau PR menurutku lebih cocok sih MatDas jujur aja. Selain itu, Quiz-Quizku juga harusnya fucked up sih. Effort belajarku zero to none bjir buat kuis 👎.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03 (2).jpeg" alt="" width="300"/><br> <b><i>Gagal Kamu Hock</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03 (2).jpeg" alt="" width="300"/><br> <b><i>Gagal Kamu Hock</i></b></div> <br>
 
 Sampai kadang udah pasrah banget dan kaya hasil kuisnya sering asal-asalan. Huhuhuhu 😭.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.04.jpeg" alt="" width="300"/><br> <b><i>Bang Jago Grafik</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.04.jpeg" alt="" width="300"/><br> <b><i>Bang Jago Grafik</i></b></div> <br>
 
 #### Sumber Belajar
 
@@ -484,7 +484,7 @@ Duh.. Kalau boleh jujur aku mungkin sekitar $ 20\%$ Kristen, $40\%$ Agnostik, $2
 
 Kayanya yang aku pribadi pelajari itu aja sih. Kebetulan ada kelas tambahan yang bahas materi-materi lain, tapi apa daya kebetulan aku ikut ICPC Jakarta terus jadwalnya tabrakan dengan pergi, lomba, sama pulang. Jadi aku skip kelas materi wkwkkw. Untung materi UASnya rada ngawur dan sedikit hubungannya dengan materi tambahan itu.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.53.58.jpeg" alt="" width="300"/><br> <b><i>Kelas Meskipun 30 Menit Lagi Mesti ke Bandara</i></b></div>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.53.58.jpeg" alt="" width="300"/><br> <b><i>Kelas Meskipun 30 Menit Lagi Mesti ke Bandara</i></b></div>
 
 ## Bonus
 
@@ -492,27 +492,27 @@ Kayanya yang aku pribadi pelajari itu aja sih. Kebetulan ada kelas tambahan yang
 
 Aku ikut ICPC Regional Jakarta dan asyiknya bisa ke Depok yey.. Aku setim sama Kak Igo sama Kak Rey. Kami naik pesawat, terus intinya pengen cepet-cepetan lah sampai duluan. Aku sama Novaryo akhirnya berangkat dari Pontianak, tapi akhirnya flight ✈️ kami di-*delay* sampai besok paginya karena enginenya ada *accident* kemasukan burung 🐔. Aku udah beliin kue Ponti Bonti dan akhirnya harus ditunda. Kami akhirnya dikasi hotel semalam di Orchardz Gadjahmada Pontianak dari AirAsia, dan akhirnya terbang besok paginya 😄.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118231503267.jpg" alt="" width="400"/><br> <b><i>Delay ☹️</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231503267.jpg" alt="" width="400"/><br> <b><i>Delay ☹️</i></b></div> <br>
 
 Aku sempat beli es krim dan makan banyak di Airport wkwkkw. Malamnya Kak Galang sama Kak Rey sempet makan wingstop duluan. Duh uenak pol kelihatannya 🍨.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118231824027.png" alt="" width="200"/><br> <b><i>Lah Pada Makan Wingstop Duluan 🐔</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231824027.png" alt="" width="200"/><br> <b><i>Lah Pada Makan Wingstop Duluan 🐔</i></b></div> <br>
 
 ### Kulineran
 
 Di Pontianak kalau lagi kelas aku sering lapar. Padahal pengen turunin berat badan, tapi ended up jajan terus-terusan. Aku paling suka oreo milkshake berry punya Janji Jiwa, sama Toss Cafe ada nasi sambal ayam bawang gitu. Aku juga sering beli salad. Donat juga pernah sekali 🍩.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118231446821.jpg" alt="" width="300"/><br> <b><i>Donatnya Mas, Mbak</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231446821.jpg" alt="" width="300"/><br> <b><i>Donatnya Mas, Mbak</i></b></div> <br>
 
 Ga cuma donat-donatan, aku juga sering pesan makanan gofood di luar. Biasanya nasi kuning, nasi ayam telor asin, pernah juga pesen pizza 🍕.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118231554278.jpg" alt="" width="300"/><br> <b><i>Pizza Hut</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118231554278.jpg" alt="" width="300"/><br> <b><i>Pizza Hut</i></b></div> <br>
 
 ### Genshin Impact
 
 Trash lah, ini kenapa tiba-tiba ada game keren keluar. Aku suka bgt sama Venti 😍.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/image-20210118232109333.png" alt="" width="200"/><br> <b><i>Genshin Nagih kaya Candu</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/image-20210118232109333.png" alt="" width="200"/><br> <b><i>Genshin Nagih kaya Candu</i></b></div> <br>
 
 Partyku di Genshin Impact itu Klee, Razor, Barbara, sama Fischl. Seingetku udah AR 35, tapi aku udah ga main lagi karena udah bosen aja. Aku juga berusaha pengen berhenti nge-*game* karena menurutku ga terlalu sehat nge-*game* terus. Rada ngehabisin waktu 🕥. 
 
@@ -520,11 +520,11 @@ Partyku di Genshin Impact itu Klee, Razor, Barbara, sama Fischl. Seingetku udah 
 
 Aku kalau udah main game suka marathon gitu, jadi kalau udah buka game bisa seharian main game. Seharian ini as in 8-10 jam. Apalagi ini game gacha kan. Jadi biasanya kalau gachanya jelek, bisa rage quit sih. Tapi pasti nagih 💉.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03.jpeg" alt="" width="400"/><br> <b><i>Cara Menghabiskan Hoki for the Rest of the Semester</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03.jpeg" alt="" width="400"/><br> <b><i>Cara Menghabiskan Hoki for the Rest of the Semester</i></b></div> <br>
 
 Di game ini musuh-musuh dan fighting mechanismnya juga seru dan bikin nagih, bikin kita pengen upgrade menjadi lebih kuat banget. Aku paling benci kalau ada Abyss Mage yang Es ❄️ sama yang Air 💦. Bener-bener ga bisa mati weh. Apalagi mainnya kita selalu kefreeze mulu, kalau lagi wet terus dihit sama mage cryonya.
 
-<div align="center"><img src="2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03 (1).jpeg" alt="" width="300"/><br> <b><i>Gung-Gung Gaa</i></b></div> <br>
+<div align="center"><img src="/assets/images/2021-01-12-Semester-3.assets/WhatsApp Image 2021-01-18 at 22.54.03 (1).jpeg" alt="" width="300"/><br> <b><i>Gung-Gung Gaa</i></b></div> <br>
 
 ## Penutup
 
